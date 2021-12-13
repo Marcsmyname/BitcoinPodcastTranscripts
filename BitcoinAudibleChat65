@@ -1,2 +1,2101 @@
 Bitcoin Audible Chat #65
 
+Audio file 
+
+CSN5751925888.mp3 
+
+ 
+
+Transcript 
+
+It's 2021, there are self driving cars, plant burgers and tourists in space. 
+
+The least your. 
+
+Phone could do is download entertainment in a flash. 
+
+For that you should get AT&T 5 G. AT&T 5G is fast, reliable, secure and nationwide. 
+
+Want to make sure your phone service keeps up with what you need from it? Get AT&T 5G. 
+
+It's not complicated. 5G requires compatible plan and device 5G may not be available in your area. Qq.com slash 5G for you for details. 
+
+Two air gap or not, to air gap and the other challenges of building Bitcoin hardware. 
+
+Today we are chatting with some of the greatest minds in Bitcoin. 
+
+This is a Bitcoin audible chat. 
+
+And then. 
+
+What is up guys? 
+
+Welcome back to the show. 
+
+This is Bitcoin. 
+
+Audible I and Guy Swan, the guy who has. 
+
+Read more about. 
+
+Bitcoin than anybody else. 
+
+You know, we've got a really fun episode today, so some of you probably joined us yesterday for the Twitter spaces. 
+
+Debate I did not share it out in the audio knots early enough. 
+
+I should have given a little bit of a. 
+
+Headway, but we. 
+
+Had Leashing Lou from the Keystone hardware wallet and then Douglas back home. 
+
+Who we who we have had on the show from bit box or well from shift crypto, but they built the. 
+
+Bitbox, but if you missed it, you will not any longer. 
+
+These two monsters go head to head in a vicious gruesome battle to the death, insults were thrown. 
+
+Dunks were made, tables were broken in this intense, yet mostly agreeable, debate between two builders. 
+
+Some really incredible hardware in the Bitcoin space, so this was actually a really great discussion on. 
+
+Basically, the challenges of hardware wallets of trying to. 
+
+Build out Harvard while it's. 
+
+Where the real security issues are. 
+
+And of course, the security implications and or trade offs of air gapping and just in case air gapping just means that the the device itself never actually plugs into the computer. 
+
+For all intents and purposes, that's essentially what it means. 
+
+But I think some of the best parts of discussion. 
+
+For me, we're literally just in talking about the where and the why of how most people lose their Bitcoin and what to do about that. 
+
+Like like where the solutions to those problems are? 
+
+Because there was quite a bit of discussion on that. 
+
+Topic so we will jump into it. 
+
+In just a moment after a thanks to our amazing sponsors for keeping the lights on so that I can still work on this late at night after the sun has gone down and my laptop should be dead. 
+
+But I've got power thanks to these guys. 
+
+First, we've got Swan Bitcoin buy Bitcoin easily. 
+
+You did so easily that you only have to set it up once. 
+
+I buy it all. 
+
+I've made so many purchases with Swan and I literally set it up once. 
+
+OK, well I buy the dip. 
+
+I bought the dip. 
+
+A lot this. 
+
+Week actually, but sworn Bitcoin is the place for automatic stacking every day, every week, every month, and automatically. 
+
+Withdraw to your hardware wallet. 
+
+Like the bit box, our other amazing sponsor who makes a simple and secure hardware wallet to protect your corn after you automatically purchase it. And three letters GU&Y gets you 5% off the bit box. 
+
+You shan't for. 
+
+Hit it. 
+
+And then the stack. 
+
+Everything card with fold a debit card with Sats back on every single purchase that is right. 
+
+Get paid for paying the bills you always do and you get 20% off with Bitcoin audible and then of course. Lastly, do not forget. 
+
+To grab your tickets for the Bitcoin 2022 conference, the Greatest Bitcoin Conference on this half of the Milky Way Galaxy. 
+
+This year is going to be freaking wild, so I. 
+
+Will see you. 
+
+In April, 10% off with the code Geiss one and you can get all these links and discount codes in the show notes you want to check them out later. 
+
+All right with that I don't wanna waste anymore time. 
+
+Let's get into the Twitter spaces chat we had with leashing from Keystone and Douglas back home from shift kept crypto with the bitbox to air gap or not to air gap. 
+
+All right? 
+
+I believe. 
+
+I have this. 
+
+I am recording this. 
+
+So this will be. 
+
+Available for anybody who misses it, or. 
+
+Has to head out. 
+
+I think this is recording. 
+
+Can you guys? 
+
+Hear me, yeah, can you hear me? 
+
+Yeah yeah yeah yeah yeah. 
+
+I I can hear. 
+
+You, it's just delayed, uh, it's a lot delayed on my desktop it looks like. 
+
+OK, all right sweared let's. 
+
+Roll this will be available on that Bitcoin audible. 
+
+Probably in the next day or two, depending on. 
+
+My level of work ethic on the. 
+
+Next 24. 
+
+Hours and yeah. 
+
+Let us roll. 
+
+We have got licks. 
+
+And lose that is, that's. 
+
+How you say your last name? 
+
+By the way, right? 
+
+Yeah, we see this. 
+
+It's not insane. 
+
+You do actually. 
+
+Missing you. 
+
+Yeah, yeah, I think. 
+
+I'm just missing you, OK? 
+
+You think? 
+
+Always, yeah. 
+
+I try to be accurate, but it's it's. 
+
+It's not easy all the time. 
+
+And Douglas back home so. 
+
+Uh, Nixon already decided that, say it one more time, I'm going to get it. 
+
+Listen, do mixing. OK, yeah. 
+
+Mixing is you are are you CEO of Keystone? 
+
+Now yes, correct. 
+
+CEO, Keystone OK, formerly Cobo vault. 
+
+Was the company that you guys were working under. 
+
+But the Keystone Wallet, which is an air gapped, if anybody hasn't checked. 
+
+It out, it's a great little wallet. 
+
+I have both Douglas Bakkum works for shift crypto and those guys have done the. 
+
+Bit box I have both of these wallets. 
+
+And we are doing a debate today. 
+
+On to air gap or not to air gap what? 
+
+Are the benefits? 
+
+What are the drawbacks? 
+
+Is it a huge security boost? 
+
+Is it a small? 
+
+Security boost is. 
+
+It anything really to talk about, you know? 
+
+What are the dynamics here? 
+
+What's the security issues? 
+
+Because I and because just for disclaimers, Douglas Beckham and the Bitbox crew do sponsor my show. 
+
+But like I said I have both. 
+
+Of these wallets, I like both of these wallets. 
+
+I'm not super picky about hardware wallets. 
+
+I kind of just buy all of them. 
+
+And I love all. 
+
+Of them, so I'm going to let these. 
+
+Guys layout the case. 
+
+And and we're going to go. 
+
+We're going to go from there. 
+
+Welcome to the show Guys, welcome to. 
+
+Our little debate. 
+
+Here I think I think it's going to be fun. 
+
+Awesome yeah, thanks a lot guys. 
+
+Thanks Sally. 
+
+She maybe I'll just start with a little bit of background, you guys. 
+
+Can still hear me right? 
+
+Yeah, great so. 
+
+Yeah so. 
+
+I guess this debate started from was instigated from a blog post, A blog article that we wrote as our company. 
+
+I altered it, but it was really a collaborative effort by everyone in our team. 
+
+And I was. 
+
+Questioning, yeah, what is what is air gap? 
+
+What is air gap security in particular? 
+
+And so we were both hardware wallet make this I I think I have a lot of respect for machine and is biz wallet. 
+
+Uhm, hopefully that's. 
+
+Also from machine then and I think what we want to do is just more. 
+
+Have a friendly conversation just about about this. 
+
+The the technology and their gap in hardware wallets in general. 
+
+And so. 
+
+In the article, well, first of all, like what does air gap? 
+
+Mean machine can define himself, but I interpreted as basically just using a hardware wallet without plugging it into a computer or a phone. 
+
+Traditionally, air gap has referred to our computers that are not connected to the network, not connected to Internet, and it kind of got used now and hardware wallets to describe hardware wallets that do not plug in so they communicate over the air with QR codes. 
+
+Or physically by micro SD cards. 
+
+And that's often perceived as a security advantage. 
+
+But in Bitcoin you have this thing called don't trust, verify, and so we actually wanted to go research this a little bit and we did it in the past prior to creating the bit box or two, and we actually came up with like we didn't actually see so much. 
+
+Security benefit to that. 
+
+And so we researched it again. 
+
+And we wrote a blog article. 
+
+And yeah, the the Long story short is. 
+
+Uh, as far as security, we didn't see a benefit. 
+
+That's not to say there's a negative. 
+
+Basically, we think air gap and non air gap hardware walls kind of have a similar security profile. 
+
+But there's definitely differences in the UX and convenience and and I'll stop there. 
+
+I'll give leashing a chance to to reply, but there's a lot of details we can go in, and I guess we're happy to also open this up for other people for a wider discussion. 
+
+Yeah, can you? 
+
+Hear me Yep. 
+
+So yeah, thank you, thank you, thank you Douglas for organizing everything and thank you for a guy who be the host to to organize the thing, and I'm really glad to be here. 
+
+OK. 
+
+To have the quote unquote debate with Douglas, but I also see that this is kind of. 
+
+OK, sharing for people who who want to know more about the different security assumptions between Keystone and also big box and also how do we see security? 
+
+Because from my perspective security is a very complicated thing. 
+
+It's not only about. 
+
+Security on the technical side, but also about the security on the user experience and also trying to make people make less mistakes when they are using hardware wallets. 
+
+So it's very complicated. 
+
+And, uh, I'm thinking maybe I can share more background about why we have the idea to make a air gapped hardware world. 
+
+I, I think here most of the listeners know that we were. 
+
+I was the head of hardware in the. 
+
+Coco and I was leading the hard water product line of Cobalt which is called Cobalt. 
+
+And we launched the Cobalt back in the October of 2018. We started to develop it in the late 2017 and I believe I haven't done the the research very carefully. But I believe we were the first air gapped. 
+
+I will wallet in the market. 
+
+Why we did that design is because when we designed the product, I interviewed a lot of Bitcoiners and I still remember one of the most important question I asked them is that what's the most anxious time when you're using a hardware wallet? 
+
+At that time, most of them are using Ledger or TREZOR and I think you know that both of them are like USB style hardware wallet and you need to connect it to your laptop. 
+
+So I asked a simple question to the bit coiners what what was the most anxious time when you are using your hardware wallet? 
+
+Actually, the the answer was pretty aligned. 
+
+They told me that they feel very safe when they are not using the hardware wallet, but when they are trying to connect their hardware. 
+
+Water to the laptop. 
+
+Through USB, the time they plug their product. 
+
+Into the laptop. 
+
+Is the most anxious time they even. 
+
+Got something like? 
+
+Physically anxious, they told me that they are physically anxious for that moment, so I think that that was the like the trigger for us to thinking about to change the whole thing about the experience of the USB. 
+
+And that's why we come to the US. The QR code style of data transmission between your software wallet and hardware wallet. 
+
+And also we dive with diving deeper and deeper into the QR code interaction. 
+
+We feel that there's many benefits. 
+
+The of that function not only security, but also bringing more transparency user experience to the to the whole user experience to the whole interaction. 
+
+And yeah, this is where we come from, and until now we're still insisting on this. 
+
+Interaction and also we cancelled the USB port on the device. 
+
+This which not only which not only give people a more. 
+
+Secure sense about. 
+
+The product and also to limit some attack surfaces. 
+
+From the product. 
+
+So yeah, this is where we come from and how we see the QR code interaction, yeah? 
+
+Nice, you know. 
+
+You know, when did you? 
+
+Ask that, uh? 
+
+Question was this just in like a private survey or did you do this on Twitter? 
+
+As far as like. 
+
+People being most nervous about plugging their like when they're actually are using. 
+
+Their hardware wallet. 
+
+Uh, yeah, actually I was asking some Bitcoin. 
+
+Oh geez, here in China because, uh, like COBOL on the Cobalt Co founder was the earliest miners here in China and he knew a lot of minors. 
+
+So I just interviewed very old miners here. 
+
+Gotcha gotcha, OK? 
+
+All right, Douglas. 
+
+I unmuted you a bit ago just because you had a little bit of feedback, but it doesn't seem to let me unmute you. 
+
+Do you have that power? 
+
+Oh, I see. 
+
+OK OK, just I was just making sure that I didn't like mute you permanently and no. 
+
+OK OK yeah. 
+
+So I I guess I could reply a little bit so that yeah it's interesting. 
+
+Yeah, the machines survey of the the community and the feeling, so I think you know it's definitely a valid point that if you're making a product, we're both for profit company. 
+
+So we want to, you know, we we have to run a business, make some money so addressing the needs of the market for sure makes sense it. 
+
+It's interesting in the sense that we. 
+
+Also did a lot. 
+
+Of user testing. 
+
+And came to yeah a bit different conclusions in the sense that. 
+
+Usability, like ease of use, was really a really important factor I think, especially for the non technical people entering into this space, which is kind of. 
+
+At least me personally, I think our company also is. 
+
+Our motivation is to, you know, build something that's really. 
+
+Easy for people to get involved. 
+
+Equip them with the tools they need, empower them, you know for financial sovereignty, and so we're really focusing on ease of use. 
+
+And I think in that sense we found that not doing airgap was much simpler in the sense of if you just plug your hardware wallet into a phone. 
+
+Or into a computer. 
+
+You can do a lot of the. 
+
+There's a lot less user steps involved, a lot less cognitive overload like dealing. 
+
+With, you know. 
+
+Different devices and different steps and things like that and so that was kind of of one of the deciding factors in our decision to stick to the USB going forward, I think. 
+
+The difference says we didn't go interview Bitcoin. 
+
+Oh geez, but we actually tried to interview people who what we call the crypto curious. 
+
+So people who are interested in this space. 
+
+But yeah, don't don't really know where to begin. 
+
+Yeah, I'll say just to just to. 
+
+Add to that is my. 
+
+And I've been in Bitcoin for a long. 
+
+Time so this. 
+
+Is slowly changed over time like my nervousness about using hardware wallets and all those stuff has diminished greatly. 
+
+Like I I kind of do it every. 
+
+Day now, so it's. 
+
+Normal, but my highest point of nervousness has always just been. 
+
+When I'm reading if I'm sending any substantial amount of Bitcoin when I'm reading that address and I'm like like if I if I'm sending more than you know, $1000. 
+
+I check every single. 
+
+Letter and number in that address and make sure that what I'm looking at on the the. 
+
+Address of the service or the. 
+
+Wallet that I have generated it on is exactly the same one on the app. 
+
+That I'm using. 
+
+And then on the. 
+
+Hardware device like it is displaying that same thing and I'll still get a little bit of. 
+
+A like oh that's a lot of big. 
+
+Coin and I'll. 
+
+I'll have that little that little ping, but I would say probably early on. 
+
+I would agree a little bit with machine there is that or the people that he interviewed. 
+
+Was that I did. 
+
+Every time I would get out my. 
+
+Hardware wallet it would feel like it was safe. 
+
+When I wasn't using it, but then when I would get it out. 
+
+And start playing with it or doing a transaction or something that was. 
+
+Where the the stress came. 
+
+Back, but probably the only point where it's it remains to this day is in those moments where I'm about to hit send and I have to know for certain I'm broadcasting this to the Bitcoin network and if anything is wrong. 
+
+I'm not going to have a good day. 
+
+Yes, yes exactly. 
+
+Douglas mentioned UX so. 
+
+So from our perspective from our product we see that UX is part of the security. 
+
+We not only see like Usup separated from security. 
+
+We see UX is part of the security because until now. 
+
+The biggest reason for Bitcoin loss is not like you're losing your like someone is stealing your hardware wallet and get your private key, or you get lots of the device or you get lost off the of the the recovery phrase. 
+
+The biggest the biggest. 
+
+Reason for becoming laws is human error, which means that just like what the guy just said. 
+
+For example, when you are trying to transfer some Bitcoin and you didn't check. 
+
+The address carefully and you send to some round rest wrong address and you can never retrieve that Bitcoin, so these kind of reasons are the biggest reason for Bitcoin loss, so we see if we wanted to. 
+
+Fill that gap. 
+
+For the users. 
+
+We have to make something that has. 
+
+Really good user experience. 
+
+For example, I I think this is a like a side effect of the QR code interaction, because if we make the QR code interaction, it requires the product to have a bigger screen. 
+
+Either a touchscreen or a like black ink screen. 
+
+It's OK, but it requires the product to have a bigger screen and that results in. 
+
+We can have a more clear demonstration of the addresses and also the fees and also maybe the change address. 
+
+And in our product we can also highlight the change address for you so that you can have some ease in your mind that OK, this is my change address, but this is not swapped by some malicious. 
+
+Now software wallet or in some way so I still want to emphasize that UX is should be part of the security, not only technical security but also UX security. 
+
+This is very important when we are designing a hardware wallet and also this is the biggest reason for us. 
+
+Have QR code and also have a bigger screen to give you better UX. 
+
+So better UX. 
+
+Better security, yeah? 
+
+Yeah, I I fully agree with that. 
+
+Droppin bombs I cannot believe that jab how will lisheen respond to such aggression? 
+
+We will find out after these messages. 
+
+Do you stack Bitcoin manually? 
+
+What are you in the Stone Age? 
+
+Do you find that you realize sometimes you paid too much to stack? 
+
+You used the wrong app and they took 2% in fees, Sats that did not get stacked. Or maybe you forgot this week because no one reminded you you were busy with life. 
+
+You need swan Bitcoin. 
+
+The company that stacks automatically on your behalf when you're busy with life and not thinking about stacking sats, which should be very infrequent, but it happens. 
+
+Swan is stacking for you anyway. 
+
+Low fees, automatic everyday. 
+
+Every week, every month, whatever works best for you. 
+
+You set it once and you forget about it. 
+
+And they want you to hold your keys as a sovereign bitcoiner. 
+
+They will automatically send it to your keys and they even pay for the Bitcoin fees. 
+
+So there is no cost to withdraw. 
+
+Unlike other terrible companies that run with Boyn case have Peace of Mind. 
+
+A helping hand from a great team and the knowledge that no matter what happens in this psychotic world, you at least know you stacked sats with swan decoy. 
+
+One bitcoin.com/guy is my personal referral link. 
+
+That is way. 
+
+Better than just going to the normal website 'cause they quoted me at the top of the page, which is really cool and my face is on it. 
+
+A boom's one bitcoin.com/guy let's jump back into the debate now that the swords have been drawn. 
+
+Yeah, I I fully agree with that that. 
+
+There's a common saying that. 
+
+Complexity is the enemy of security, and so for sure the UX is an extremely important aspect and also fully fully back up the statement that you know most what we see. 
+
+Also is that most people have problems by user error shooting themselves in the foot. 
+
+Most common one is forgetting a password. 
+
+And yeah, I guess we'll have to agree to disagree about what exactly. 
+
+Uh, implementation to make the most simple use cases. 
+
+But yeah, when we designed our hardware at all, so that was one of the primary factors in terms of of. 
+
+Yeah, the the user interaction the. 
+
+I forget what the word is. 
+
+But yeah, how the shape and how? 
+
+How you interact with the device. 
+
+Basically both physically and through the app. 
+
+That was actually. 
+
+A question I had intended to ask, but is that the case for both of you that all of the biggest issues of loss or you know problems where the you know there's been locked out of things or their coins have gone to the wrong place? 
+
+Has it just been kind of across the board? 
+
+Human error rather than hacks or malicious. 
+
+You know desktop app or you know phishing or whatever. 
+
+Like going downloading software from the wrong website and not knowing it. 
+
+Is that is. 
+
+That basically like water the outside of the particular. 
+
+User error, where are the general problems? 
+
+Is it sending stuff to the wrong address because somebody has maliciously inserted one? 
+
+I was just kind of curious about both y'all experience. 
+
+Yeah, before. 
+
+Yeah, yeah from our end it's it's like the only loss of fun. 
+
+Uhm, we see is has been through basically losing your password or you using the optional passphrase, sometimes called the 25th word of your C. 
+
+Which people forget or misspell and then get really surprised when they open up their wallet and they see a 0 balance. 
+
+And so the optional password is also something we wouldn't recommend for for new users, just 'cause people can shoot themselves in the foot. 
+
+And yeah, and it's it's, uh. 
+
+We learned this lesson I. 
+
+Guess the hard way 'cause the big box or two is our second hardware on it. The big box R1. 
+
+Uh, we 
+
+We actually had a password encrypted. 
+
+Kind of set up a password encrypted backup also, and all of the lost funds were due to people forgetting the password and so that's why with the big box or two by default. 
+
+Actually, yeah we don't. 
+
+We don't allow the backup to be encrypted. 
+
+Yeah, yeah yeah, I know. Actually Douglas just mentioned passwords, which is the 25th word of their recoveries. 
+
+Actually, I know a real case which happened on my friend is about the pathways, so he just typed the wrong passwords into the device and then he used the wrong address which is generated by the wrong passphrase. 
+
+Use that address to. 
+
+Receive a big amount of Bitcoin and he was I I should say that he was very very careless about that. 
+
+But that's what happened. 
+
+So he received lots of Bitcoin address to a wrong address, and his private keys were not lost, and but the but the issue was that he cannot reproduce that wrong passphrase. 
+
+So he he. 
+
+Then he lost all the bitcoins he. 
+
+Transferred to the wrong address. 
+
+So after we know this case, we feel that we should do something on the UX side to improve the to to make it less possible for people to make these kind of mistakes again. 
+
+So on our device on case. 
+
+So we ask our user to type in the passphrase twice, just like when you are trying to register an account on a website, but they always ask you to type in the password twice to make sure that these twice were aligned. 
+
+So there's not anything misspelled. 
+
+On the passphrase. 
+
+So and also our product has a bigger touch screen. 
+
+So it makes less. 
+
+Suffering for people to type A like. 
+
+From 8 letters or 10 letters or even 16 letters, it's much, much easier for people to do so. 
+
+So and also we received very good feedbacks from the community saying that, oh, this is very good. 
+
+This design is very good, so and I'm not worrying about typing the wrong passphrase again, yeah. 
+
+So I think. 
+
+This is a. 
+
+Very tiny thing, but these kind of tiny improvements on the UX side. 
+
+It it benefits the community and also those benefits comes from the QR code and also the bigger touch screen of the device, yeah? 
+
+I'm curious, what do you well actually, Douglas? 
+
+Did you want to respond or add anything to? 
+
+That before we move on. 
+
+I was just going to say Ouch. 
+
+That hurts hearing that story, but yeah, we do something similar where you know after you type in the password, you have to physically confirm like view and physically confirm. 
+
+To use it or or that it's correct. 
+
+But yeah, I. 
+
+Think passwords and passphrases are probably the the biggest. 
+
+The biggest risk in the in. 
+
+The field at the moment. 
+
+Yeah, we let it out in that. 
+
+Missing your friend could also be me, I it's a slightly different story, but that is the way that I had lost Bitcoin in the past was exactly that and was funny as I still use passphrase wallets, but I treat them differently like like I know the damage. 
+
+That they can cause because. 
+
+Uh, if you use like LastPass or something to generate a random 13 character password and and and then you know your printer doesn't work and your LastPass little history thing doesn't save if. 
+
+You if you do it too quickly. 
+
+And to come. 
+
+Recklessly, so to speak, and just kind of absentmindedly. 
+
+You can't get back, can't get back into that, and it was on a solid state drive, and I I had a like a textedit file with the backup, it's the only one and just hadn't thought about it in a long time. 
+
+It's just like you know it was there and you know I had my backup right like I I did it. 
+
+I wanted to. 
+
+Get it on. 
+
+Paper and I was. 
+
+Going to but I got sidetracked. 
+
+And you know, two months later you're still using ******* windows and. 
+
+You get absolutely. 
+
+Fed up with it one day because it won't boot right and it's being a pain and. 
+
+So you wipe it. 
+
+And there goes. 
+
+All of them, and you can't recover anything off of SSD. 
+
+Man, nothing, yeah. 
+
+Yeah, yeah, and also another, uh, I think it's maybe it's a very small detail about. 
+
+Uh, UX and security here. 
+
+I want to share is that we all know that a typical process, a typical process of receiving Bitcoin is that first you trigger receiving Bitcoin on your software wallet. 
+
+Either it's on a mobile app or it's on the. 
+
+On your laptop, you tap receive and then the software wallet will ask you to get out your hardware wallet and connect to the. 
+
+Top and then both the hardware wallet and the software will. 
+
+It will show the address to you. 
+
+And then you need to make sure that those address are the same and then you can see the QR code on the software wallet and you can use that QR code to get it scanned to your friend or to somewhere else to trigger a transfer or Bitcoin. 
+
+On another software or hardware wallet so. 
+
+We we feel that. 
+
+This process is so complicated and. 
+
+Uh, just like what Douglas said, like complexity is the biggest enemy for security, so we feel that this process is so complicated and it makes possible for people to make mistakes, for example. 
+
+Uh, what if your software wallet is? 
+
+Uh, is manipulated. 
+
+And when the software showed the. 
+
+The address in string form in text it aligns with your real address on your hardware world, but after that the QR code contains a malicious address, so this could be possible. 
+
+And what we do is that we on our device because. 
+
+It has a bigger touchscreen and so the device can show the receiving address of the QR code directly, and this address is totally air gapped and offline. 
+
+You don't need to trust a software wallet, they care code on a software wallet to receive your Bitcoin, but you can. 
+
+Easily use your hardware wallet to receive Bitcoin directly, so this is a some people may not feel this is a big improvement, but from our perspective this process may significantly simplify the process of receiving Bitcoin and this kind of simplification. 
+
+Make everything more secure. 
+
+Make everything less possible for user to make a mistake. 
+
+For example, he didn't check the address carefully and I don't think most of user will check the QR code. 
+
+If the QR code aligns with the address on the hardware wallet, so yeah, this is what we do and how we see. 
+
+Security and how we see the improvement brought by the QR code scanning as well as the big touchscreen. 
+
+The I'm curious what y'all think the. 
+
+Like what are the outside? 
+
+Of user error outside of the user experience, which I I even talk about this on the show from time to time. 
+
+I really do think that that is and maybe that's coming from a very personal space. 
+
+Is that like that's where I lost Bitcoin. 
+
+So like that's what I. 
+
+Feel is the most important because generally just when you're talking about upgrading to a. 
+
+Hardware wallet to. 
+
+Any decent hardware wallet? You're getting 1000 X security from a mobile or online? You know wallet or whatever that you're doing for the average user like that's generally the major step, and from there I feel like so much of the problem is just making it intuitive. 
+
+Is just making it so that the process. 
+
+The user isn't constantly confused during the process, but going down to like security, like like vulnerabilities and like someone who is attacking someone who was it was specifically singled out this person with a hardware wallet. 
+
+What is it about air gapped that does? 
+
+Or does not? 
+
+Change the attack vectors of someone being singled out to try to get into or take their take the coins from their device somehow. 
+
+Yeah, maybe this is a good chance for me to. 
+
+I guess summarize the the the blog post where we had written and that led to this conversation. 
+
+It's been 1/2 hour we've been gone. 
+
+Yeah, sure. 
+
+Into that. 
+
+But first of all, I would also say. 
+
+That you know. 
+
+Hardware wallet vendors we we like kind of like to poke each other every now and then. 
+
+And I think. 
+
+There's more stuff reported in in social media about vulnerabilities and hardware wallets and in other types of wallets, software wallets. 
+
+Maybe even exchanges, but like you said guy, if you get hardware wallets 1000 X increase and I think part of the reason for that is because you know we care enough to you know, poke holes and there's people out there. Security researchers, white hat hackers that also care enough to to kind of poke. 
+
+And it's just improving the whole space overall and and so by far like. 
+
+If we had a. 
+
+It's almost laughable to have a conversation about security with software wallets. 
+
+I think that's one of the reasons that you don't hear. 
+
+About it so much. 
+
+So just a. 
+
+Little side side note there. 
+
+I always have to give a disclaimer. 
+
+That hardware loads are cool. 
+
+But that as far as. 
+
+Uh, like security, when we came up with it. 
+
+No, I definitely want to give machine a chance to reply. 
+
+What we found is that you know. 
+
+To us, we think Airgap is maybe a bit of a misnomer for lack of a. 
+
+Better word because. 
+
+Even with an air gap pergola, there's still communication happening, but the communication is using photons in the air like QR codes for example. 
+
+Instead of electrons in a wire like over USB and and so. 
+
+But there's still communication happening that has to happen because in order to send Bitcoin receive Bitcoin. 
+
+You have to interact with the blockchain and the blockchains online. 
+
+And so there has to be some kind of communication going on. 
+
+And in practice, when we in our blog article, we looked at the vulnerabilities are reported in last two years and before then. 
+
+But we listed the vulnerabilities for last two years and we did not find any vulnerabilities that were about the type of communicate. 
+
+There are more, either physical attacks, which of course would affect any hardware, wallet, air gap or not, or what we call logical attacks. 
+
+So something in the logic of forming the transaction or the logic of verifying a multisignature wallet, for example, and we looked at all these. 
+
+Reported vulnerabilities and these also would affect both. 
+
+Wired or wireless hardware wallets. 
+
+And so we we actually. 
+
+Didn't see you know in practice, but in in theory also in our in our minds, much of a security difference between air gap and non air gap. 
+
+Of course you know it's very good points about the UX and different aspects of the UX. 
+
+And yeah, and then there's a lot of I guess. 
+
+Room for experimentation and room for different solutions in that respect. 
+
+Yeah, I I think I I kind of agree with Douglas that security security is very is not a very easy thing. 
+
+And aside from UX, technical security is also very important. 
+
+But here I I do want to clarify the first thing. 
+
+Uh, in our like product design principle is that security is not a zero or one thing. 
+
+It's not a zero or one. 
+
+It's like a full spectrum and. 
+
+There's there's no like absolute security in this world. 
+
+There's always like more security or less security. 
+
+So from our perspective I should say. 
+
+That all the. 
+
+Techniques that applies to a USB style hardware wallet could also apply to a QR code or air gapped hardware world. 
+
+The tactics are just the same, but from our perspective from our. 
+
+Like our research. 
+
+The USB style hardware world has a bigger attack surface, which means. 
+
+There are some there are. 
+
+Some like attack cases that could could easier happen on a USB style hardware world, for example. 
+
+Uh, we all know that crack and crack and the exchange called the exchange crack and they have a very strong security lab called crack. 
+
+In lab and they were doing different kinds of auditing stuff and also trying to break different kinds of hardware wallet. 
+
+11 case they showed before was called the bad Ledger attack for that attack that they they did that experiment on on Ledger for that attack. 
+
+When user connect is Ledger to a laptop, the Ledger has some malicious code on the device and when the Ledger was connected to the laptop because it's USB connected, so the Ledger could send some keystrokes. 
+
+To the laptop. 
+
+But that keeps skills, won't steal the private keys from the Ledger, but the keystrokes can trigger the laptop to open the browser like Chrome, and then maybe open a phishing website for the users. 
+
+Then the the users may download a fishing or a malicious. 
+
+They July to get hacked so I just want to use this case to say that nowadays the attackers are not. 
+
+For if we go back to like. 
+
+2016 or 2017. We can see that the researchers and also the hackers they're trying to steal the private keys from the device, but right now, as the technology develops. 
+
+The the hackers are having really, really creative means to mediums to do the attack. 
+
+For example, just like I mentioned. 
+
+The bad Ledger they use. 
+
+Ledger to send the keystrokes to the laptop to open some phishing site, then do the attack so hackers are having really creative attacks methods. 
+
+To attack. 
+
+People, and for these kind of attack methods I feel that QR code obviously have a smaller attack surface compared to the USB style hardware world and also another case I want to share is that one another experiment on Ledger is that the hacker can. 
+
+And put some kind of memory card flash memory card. 
+
+In the Ledger. 
+
+And send that Ledger to a user when the user plugged the Ledger into the laptop, the laptop can open a a folder so that the Ledger can work. 
+
+Can work as a USB drive and the the laptop can automatically open a folder which contains. 
+
+A malicious nature life to ask the user to install that and still the Bitcoin from the user. 
+
+So there are lots of creative ways to attack people and obviously care code has a smaller attack surface compared to you. 
+
+And I just want to exercise again. 
+
+A chemical cannot completely close some kind of attack. 
+
+Uhm tactics compared to USB style, but it has small surface. 
+
+If we look into some specific cases like the bad Ledger or something like that. 
+
+So that's my point, yeah? 
+
+But OK, here. 
+
+Here's a place we can debate. 
+
+Oh here it. 
+
+Comes the tables are flipped and the swords are drawn. 
+
+It's about to get bloody, but let's break for just a moment and listen to this paid. 
+
+And listen to this paid message from our sponsor supplier of my breakfast and coffee and that is none other than the best Bitcoin conference in the Galaxy. 
+
+Do you want to go to a city that is literally conquered by Bitcoiners? That will be Miami FL in the first week of April 2021. It is going to be lit. Boo Kelly present Michael Saylor present. 
+
+Jack Mallers present. 
+
+Guy's one present Safa Dean Adam back Elizabeth Stark Preston Pysh Vijay boyapati. Andrew Yang Jogo Jorgensen Alan Gladstone Jimmy Song Jeff Booth invocate Odell Demeester Foss Killeen so mini BIC corners. You will lose your mind. 
+
+Meet everyone at the Bitcoin Conference where history is made Bitcoin 2022 plus the Incredible art gallery. So many Lightning games, a literal music festival. 
+
+35,000 people who all hate Fiat money in the same place, minus the handful of government Spooks in the audience. 
+
+You don't want to miss this year. Bitcoin 2022 is going to be amazing and you also don't want to miss 10% off your tickets with code Guy's 1G UESWAN that gets you 10% off and you can go straight to the website through my link. 
+
+Guysone.com slash 2022. It's right there in the show notes, so you can just click on it. 
+
+Don't wait to get your tickets 'cause prices will go up and I will see you there. 
+
+With that, let's jump back into the chat. 
+
+But OK, here. 
+
+Here's a place we can debate. 
+
+So just to to address that, yeah, oftentimes I. 
+
+I think cold card really pushed this a lot is that USB has a a broader attack surface. 
+
+Uhm, this is something I would disagree with in the sense. 
+
+That first of all. 
+
+Well, I guess there's two aspects to it, 1 coming from the hardware wallet itself towards the computer and the other from the computer towards. 
+
+The hardware wallet. 
+
+But any hardware wallet by its nature. 
+
+Must assume that the computer or the phone it interacts with is compromised. 
+
+Otherwise, there's no point to using hardware wallet industries, a software wallet and not not spend on. 
+
+And and and so like the USB stack on the computer outside doesn't apply, and then specifically to the cases by crack and the actual vulnerability was an exploit in order to reprogram the firmware. 
+
+And I would say if you can reprogram the firmware. 
+
+We can reprogram it to basically do anything you want, and so if a hardware wallet happens to have USB then you can use those. 
+
+Hardware aspects in some way, but there's much, much easier ways to steal funds. 
+
+Steal private keys if you have control of the firmware itself. 
+
+And that is as simple as just leaking the private keys through signatures, which you can do something called. 
+
+Like deterministic K, it gets into the cryptography. 
+
+But basically if you control this random number and it's not actually random when you're doing signatures, you can siphon off people funds. 
+
+This was the famous Sony PlayStation Hack, uh, a number of years ago. 
+
+Where people were able to access the the secrets that way and and so. 
+
+I would say in in that sense. 
+
+I think it's different. 
+
+I would say though, that the the issue of. 
+
+Like the USB device itself or the. 
+
+Hardware wallet itself. 
+
+Attacking the customer, but I think it doesn't really apply in terms of stealing funds stealing private keys 'cause there's much easier ways to do. 
+
+It that affect our hardware. 
+
+But it's doing something to the computer itself. 
+
+Like you know, stealing data files on the computer, or you know, locking up the computer or. 
+
+Doing things like this, I would say that would be a valid issue and. 
+
+And the issue there is more so with the supply chain attacks or what are called evil maid attacks. 
+
+Also, where someone replaces your hardware wallet with a malicious device either in the supply chain or evil made in the hotel room, switches it out and then. 
+
+Yeah, the attack then against the. 
+
+The the users personal data on the computer or phone can come into issue. 
+
+I think a lot of the hardware outlets now these days. 
+
+How they address that is through attestation keys, so attestation that basically means it's a way to. 
+
+To have a guarantee about the authenticity of the hardware wallet and and so that's doing some cryptography where the app will tell you if the. 
+
+Hardware wallet that's 
+
+It's connected to is actually authentic or not? 
+
+I'm curious about that because the the Ledger that Ledger situation, it seems like the malicious Ledger and then getting hit with a phishing website is the is kind of the dominant issue there, but. 
+
+I'm curious is you said that the USB? 
+
+Allowed them to. 
+
+Put keystrokes to force keystrokes. 
+
+To the computer. 
+
+And open up a browser, can you not? 
+
+Can you not? 
+
+Do that with. 
+
+A QR code. 
+
+No, I don't think that with QR code that's that's feasible. 
+
+I think that's only on the USB side and also. 
+
+Yeah, yeah, I think people wanted to see this conversation becoming more and more debate debatable, so I'll just throw a very like debatable question to Douglas. 
+
+Because I I just shared the two cases, one is bad Ledger, the other is put a flash drive in the in the Ledger so the Azure will will act like a USB driver to open a folder to ask the user to download the malicious major life when they connect the Ledger to the laptop. 
+
+So I just share that. 
+
+Two cases I. 
+
+I'm still wondering if Douglas can share any like real cases or any experiment that the attack only happens on a curricular device but don't happen on a USB style device. 
+
+Yeah, I'm really curious. 
+
+Yeah, good question. 
+
+So I think one of the things I think we didn't do a good job when we wrote the blog in one aspect, in the sense that the whole point of the blog wasn't to say that QR codes are worse at security by no means, and so the short answer to your question. 
+
+There's no, we don't see or we haven't come across the attack that would apply only to the QR code devices and not to USB devices, and so there's more so saying that you know. 
+
+The security is more so. 
+
+A lot closer than one having a greater security compared to the other. 
+
+Yeah, I think the I I. 
+
+Did read that that post. 
+
+I had thought I'd thought about reading it on the show, but this kind of fills in the gap, maybe maybe I'll. 
+
+Do it as. 
+
+A follow up or something to this. 
+
+To this episode but. 
+
+The basically what I got out of the article was the was the general difference like the main differentiator was really just want bandwidth is that USB is something that has more bandwidth and more I guess breadth of communication. 
+
+Whereas QR code is a little bit, it's low bandwidth, you know it's it's small chunks of data and and then same with well now actually micro SD card really is not a whole lot different because. 
+
+Uh, you can. 
+
+You know it's got its own firmware on it and micro SD card. 
+
+And had a whole lot. 
+
+Of data on it too. 
+
+So maybe maybe really, the the visual versus the USB might be the big differences when it comes to bandwidth. 
+
+But at least you know I'm I'm. 
+
+Still curious about that QR. 
+
+Code thing because. 
+
+The that attack with Ledger. 
+
+Excuse me, sorry. 
+
+Has, uh, like when I scan a QR code with my phone, it immediately comes up and asks me like do you want to open up this website and and I kind of feel like if somebody is getting a website thrown at them through a USB. 
+
+Or QR or Micro SD that they plug into like. 
+
+If they don't know. 
+
+That they should not just have a website. 
+
+Be thrown up at them and then start downloading things. 
+
+I feel like if they get one on a QR code, they're going to just click it the same. 
+
+You know, like I would know if I plugged in my Ledger, my bit box or scan the QR code on my Keystone, I would probably DM you. 
+
+I'd be like dude, this thing send me. 
+
+To a website why? 
+
+Like I would have to know why? 
+
+This thing didn't. 
+
+But I feel like. 
+
+You could almost argue that that's. 
+
+Uh, an ignorance of the user problem of just because that is always an attack vector being sent to the wrong website. 
+
+I guess I guess maybe well the USB is, I guess shortcutting it, right? 
+
+It's fewer steps because the Ledger can actually initiate the whole website, whereas you at least have to confirm it when you get it through a QR code. 
+
+But it does seem. 
+
+Like a kind of nuanced or subtle difference. 
+
+Yes, yes, uh, actually here. 
+
+I really wanted to echo your. 
+
+You're saying that if you see something like looks malicious, you can DM me, but for a noob or a for average user they don't have this kind of sensitivity about security. 
+
+And they don't have the. 
+
+They even don't follow me on Twitter, so it's very hard for. 
+
+Yeah, yeah, it's. 
+
+Very hard for us like how we're wanted designers. 
+
+We really need to put those loops into our mind when we design the product. 
+
+And here to answer your crashing. 
+
+I don't think because I I have. 
+
+I think I have some limited knowledge about security and technology, but from my perspective, QR code, even with QR code, you cannot do that with open. 
+
+You you you might, but you have to if you wanted to use QR code to open a website, you have to confirm that on your on your. 
+
+On top of that, you're opening your new website, and here I also want to emphasize that with micro SD card. 
+
+It's also possible because if you search for keywords like micro SD card attack, you will see an article. 
+
+Written by someone called Bunny, he is a very famous white hat hacker based in Singapore. 
+
+He wrote an article about hacking the micro SD card, so the basic the the basic situation is that all the micro SD card they also have is more cheap in the card. 
+
+So it's possible to like implant some kind of malicious code, or some kind of malicious software into the chip of the micro SD card. 
+
+But again, it's much harder to do so on a USB style hardware wallet because the micro SD card chip is very small. 
+
+It has small RAM. 
+
+And it also has you need to be very, very sophisticated hacker to hack the medical SD card to to send some like keystrokes to the laptop or something that it's possible, but it has a much higher attack. 
+
+Cost for the for the hacker. 
+
+Yeah and here I also want to share that the I think maybe not many people have shared that before but. 
+
+When we trying to find a hardware wallet or when we're trying to build up our financial sovereignty solution to store your Bitcoin, we can also think about it from a hacker perspective. 
+
+So from a hacker perspective, the The thing is very simple. 
+
+So they just calculate the attack, causes attack cost versus the profit they can gain from the attack. 
+
+So so, so for example, if I were an attack and an attacker, and if I have some time and I have some budget to hack big box or had Keystone. 
+
+Obviously I'm going to hack something which is easier to hack. 
+
+So which means? 
+
+It's possible that for QR code is possible to send something to the laptop and open a website, and also for the USB. 
+
+It also possible it's also possible to hack it to open a website. 
+
+But from me from a hacker's perspective, it's easier to trigger people to open that website because the user doesn't need to confirm anything. And with that being said, my attack cost is lower. 
+
+To attack user, so the calculation is really simple. For example, I deliver that like malicious firmware to 1000 Keystone users and also to 1000 big box users. 
+
+So in the big box users there may be like 500, but for like Keystone there are like 200 people open the website. But for people beatbox maybe 500 people. 
+
+Uh, got, tricked and open the website and downloaded malicious software. 
+
+So this is. 
+
+Very a simple calculation for a hacker. 
+
+So from this. 
+
+Perspective hacker always choose a easier, easier way. 
+
+To hack the people and that's why there are. 
+
+A lot of. 
+
+Websites like asking people to directly input their recovery phrase. 
+
+From our perspective, those websites are like a dumb they. 
+
+Are very stupid. 
+
+But for those hackers, those websites has no cost and they can. 
+
+Works, yeah, yeah it works, it works. 
+
+It's crazy it. 
+
+Yeah it works. 
+
+Yeah, it works on the. 
+
+Noobs, but it costs less. 
+
+But it has a less possibility for the people to input, but the cost is also very low. 
+
+So when we were when we're trying to design hardware, or if we're user when you're when we're trying to design. 
+
+Our methods to store Bitcoin. 
+
+We can also stand on the hackers perspective to see how the hacking happens and what's the cost of the hacking and what's the outcome of the profit of the hacking. 
+
+So I think this is a new perspective for us to see security and to see how we word it and also to review our own like Bitcoin storing methods, yeah. 
+
+Well, I want to we actually got someone who are requesting here. 
+
+So let's get on to questions. 
+
+Here in just a minute but I. 
+
+Just want to let Douglas. 
+
+Onto that since we introduced a new thing here. 
+
+Yeah, I'll be quick. 
+
+I think it's nice to get onto questions, but just reminding me of. 
+
+Our conversation earlier where you asked like where are people actually losing funds and I think. 
+
+In terms of costs, cost benefit analysis. 
+
+For Hacker we get. 
+
+Fastly more people trying to hack our users through our telegram channel than anywhere else try basically impersonating us and trying to get people to. 
+
+They have some social engineering to trick them into giving up their seed. 
+
+Gotcha, yeah, and that makes sense it it still seems like in the context of like a hacker cost. 
+
+The the attack vector is to just ask people to put in their seed phrase on a website. 
+
+Because apparently people do it. 
+
+But let's get up. 
+
+I'll mean though, I think the. 
+
+Guy just dropped out. 
+
+Would ask. 
+
+Alright, let's just head on to questions. 
+
+Does anybody want to ask any questions here about air gap about hardware wallets about Keystone, Orbit box, whatever we got? 
+
+Alright, while we're we're waiting for. 
+
+Anybody or maybe that? 
+
+Other guy to pop back up here, I wish. 
+
+I'd hit him before he rolled out. 
+
+What is a? 
+
+Oh what for? 
+
+Or Keystone maybe. 
+
+Maybe we'll go back to Leashing here. 
+
+What's the biggest area of user uncomfort? 
+
+Not not in the context of like the the earlier comment of like, oh, they're they're nervous when they're breaking out their wallet but. 
+
+Let's say let's say if you had to pick the thing that you have to have in the keystone that you wish you didn't have to have. 
+
+That's important for security, like what would you change if you had a magic wand? 
+
+No, that's a that's a really, really good question. 
+
+Actually, maybe I can answer this question from another perspective, which is what is the most pain as part of Keystone? 
+
+Yeah, so actually we receive a lot of complaints and also that's the biggest. 
+
+A part for our customer service effort, which is the firmware update. 
+
+So, uh, whiskey stone? 
+
+Ah yeah. 
+
+Because yeah, we don't have the USB port, so the firmware update is very cumbersome. 
+
+It's not very convenient for the users you. 
+
+Have to download from our website. 
+
+And then you need to put that in the root of the micro SD card and then insert micro SD card. 
+
+And here are some like other issues like our, our device can only recognize fat 32 micro SD card. So if you have the wrong. 
+
+I see card. 
+
+Yeah, yeah. 
+
+It doesn't work. 
+
+I think this is like the the trade off, so, uh, Jameson lab has a very strong a very good presentation about security. 
+
+So I still remember one of the key takeaways of that presentation is that security, security and convenience is like the two ends. 
+
+Of the. 
+
+Of the of the spectrum, and if you want something really convenient that must be not secure. And if you want something like the military style or like the American Air Force like security for example, you have to use something like with the 500 pages of user manual. 
+
+Something like that, and that's impossible for like daily users. 
+
+So security is also very is and for us like hardware wallet vendors we are trying to find our balance between security and. 
+
+Means and for our product the the worst part of the convenience. 
+
+Convenience is the firmware upgrade. 
+
+So if I have a magic one I can change anything I would. 
+
+I would just make the firmware upgrade more more easy. 
+
+And yeah, that's the thing. 
+
+Gotcha, how much data is it? 
+
+Maybe you can. 
+
+Do it with QR codes. 
+
+Yeah, actually we were. 
+
+We were thinking about that. 
+
+But it's really, really hard because we need to. 
+
+Yeah, it seems like a challenge. 
+
+Yeah, if you can send some like code to the device, you still need to like compile that code on the device and kind of like magically insert that compiled like working binary stuff into the current application, which is almost impossible. 
+
+Yeah Douglas, same question to you with the bit box. 
+
+If you had a magic wand, what's the thing that eats at you that you can't get rid of or that you feel like you can't change? 
+
+It's a great question. 
+
+I practical off about it, but yeah, I mean just looking at our support tickets, we actually. 
+
+You know the vast majority. 
+
+Of our support tickets have nothing to do with the usability of. 
+
+The bit box. 
+
+And so it seems like we maybe we hit a hit something right there. 
+
+Yeah yeah, especially yeah. 
+
+So the. 
+
+Then we actually get complaints, more so about the accessories with supply. 
+
+When you buy a big box, so we give you like adapters so it's big box as a USBC connector was designed so that you could plug it directly into modern phones. 
+
+But we also give like a USB CD adapter. 
+
+Also extension cable. 
+
+Things like that. 
+
+And yeah, it's different computers follow different USB standards and they have different both logically and also physically. 
+
+So we'll ports a little bit different, so it's quite hard to get the accessories exactly right. 
+
+Interestingly enough, and and so. 
+
+Yeah, I I don't what's the solution? 
+
+To that QR codes, right? 
+
+Yeah, yeah, I don't. 
+
+I don't. 
+
+I don't want to go there because yeah, yeah, I think even with you know, yeah, this is just a fundamental disagreement that we've seen. 
+
+I will always have was that yeah, if we go to QR codes I think you know the usability would be sacrificed. 
+
+Yeah, so yeah. 
+
+I mean other than that would be I guess education. 
+
+You know people understanding what a backup is. 
+
+People understanding that. 
+
+So yeah, we have. 
+
+A micro SD card not for communication with the computer, but solely for a backup. 
+
+And so if you. 
+
+With Bitcoin or cryptocurrencies, you only need to back up once. 
+
+You never have to do. 
+
+It again. 
+
+So people kind of struggle with that. 
+
+They think they need to keep the this micro SD card in all the time every time they make good transactions that the backup can be updated and things like that, and so probably some educational aspects around that. 
+
+Yeah, uh, I think actually Douglas brought a very good point, which is compatibility with mobile phone. 
+
+So here I wanna. 
+
+I want to share it again that I'm from China so I'm more familiar with the developing countries and if we go to see the numbers in the developing countries like countries in Southeast Asia and countries in Africa. 
+
+In those developing countries, people have more. 
+
+Smart phones than their laptop. 
+
+I think that that may sound ridiculous in the United States because everyone in the United States who has a smartphone has a laptop, a Windows laptop, or a Mac book. 
+
+But in those developing countries, people are skipping the laptops and directly diving into the smart phones. 
+
+Error for those developing countries and if we wanted to bring those people like people in arido and people in Africa, people in Southeast Asia. 
+
+Uh, we have to have something that's mobile friendly for the hardware wallet, and I think that's also one of the key benefits. 
+
+Of the QR. 
+
+Code of the care called Hardware Wallet, yes. 
+
+Yeah, that's actually a. 
+
+Really good point, because one of my only like 'cause. 
+
+I'll tell you. 
+
+My you guys are actually my 2. 
+
+Probably go to wallets like the bit box is the one I use most frequently when I'm just here in the studio 'cause it was right here in my desk. 
+
+And I have like all my USB and like gadgets and stuff. 
+
+I can just plug that **** in and go and everything works, but I don't really have a camera like I have a webcam, but it's like annoying to try to use that. 
+
+You know, like in this environment. 
+
+But then when I'm on the go because I have an iPhone. 
+
+As my main phone. 
+
+It's and and actually it's really kind of an iPhone. 
+
+Problem is they don't let you like their device external devices. 
+
+Limitations or whatever like a real pain in *** **** 
+
+And you can't do a. 
+
+Whole bunch of stuff with it. 
+
+And so I. 
+
+Can't really use my big box with my iPhone so I have my well. 
+
+It used to be my Kobo but now I'm the keystone. 
+
+Uhm, is the one that. 
+
+Goes best with. 
+
+Mobile one I'm on the go when I have my iPhone so it's interesting like I. 
+
+That's kind of how I have separated it in my mind as far as like roles is, the big box is my my desktop wallet and my keystone is the when I go to a conference or whatever. 
+
+And I need something that I can get to you really quick and scan with my phone. 
+
+But we actually have Reardon up on stage. 
+
+If you've got a question, man, what's up? 
+
+Welcome dude. 
+
+Thank you yeah I I kept kind of far. 
+
+I went last time. 
+
+Maybe a very technical question, but the last technical one is given the the problems with firmware upgrades that a lot of hurdles have had. 
+
+Have you considered shipping devices that are firmware locked from the factory and cannot be upgraded without some kind of factory celebrating? 
+
+Yeah, actually we were thinking about that, but that's very that's very risky. 
+
+It it's risky because. 
+
+Now, no one can promise that there's no bug. 
+
+There's no bug free software in this world, so we have to somehow update the firmware in some way. 
+
+That's the first thing and the second thing is that we all know that. 
+
+Point is developing. 
+
+For example, right now we are developing the taproot support on our Bitcoin only firm. 
+
+And if we have like kind of locked firmware in the device, then users if user want to have that Apple support they have to buy another keystone from us. 
+
+So we think the locked firmware it's possible and. 
+
+I'm not sure how. 
+
+Big is the market that people can buy another hardware wallet for every big update or big security fix like taproot or something like that, yeah? 
+
+Yeah, I. 
+
+I I would add so how we approach that I I think it's not that big of an issue actually how we? 
+
+Approach it is. 
+
+You have a bootloader, which is a small chunk of code that will load the film around to the device and that we locked down and so that needs to be very, very simple because it never changes. 
+
+And and you lock that down very securely that it can't be changed. 
+
+And then what we do is inside of that we put in some public keys or, which means that when we send a firmware, we sign the former with our own private keys and the bootloader will verify that the firmware is valid. 
+
+And it's only going to load firmware that was signed by us, and so it's not going to be able to load any third party firmware. 
+
+Even if you make one bit change, it's it's not going to load. 
+
+And and so I, I think in that way you can have secure firmware updates and kind of address this issue. 
+
+I I'd also like to mention. 
+
+Uh, just to clarify from from the previous conversation, Bitbox does work really, really greatly with the Android. 
+
+But like I said, it doesn't work with iPhone, and so I think there yeah QR codes is a nice way to go if you want to use an iPhone. 
+
+Gotcha, yeah. 
+
+Firmware firmware is an interesting problem. 
+
+The like kind of the the idea of hardening firmware. 
+
+Like it, it's something that like you know, I've tossed around in my. 
+
+Mind too is like is that even possible? 
+
+But it seems like Bitcoin. 
+
+I mean you you know if you do that before pibd. 
+
+Becomes even like a. 
+
+Like a main standard or whatever, like you don't know what people are going to use. 
+
+Think how people are going to interact with. 
+
+Things in the future. 
+
+Necessarily, and like what is the dominant tool today or the dominant way to interact? 
+
+You know six months some couple of clever. 
+
+Coders, or even just like some clever idea that gets dropped somewhere. 
+
+It could completely change that and. 
+
+You know, hardened. 
+
+Firmware is a is a is. 
+
+A difficult one like a. 
+
+It seems like a. 
+
+It would be great to have. 
+
+But I agree with you know both you guys that it's just not a not really realistic or on the table. 
+
+The the best you can do is just kind of secure and simplify the process of getting new firmware. 
+
+Yeah, exactly and slightly Sheen said earlier it's security is not a 01 game. You know if people try hard enough they're going to be able to find holes in basically anything. 
+
+And so yeah, you need to be. 
+
+Able to update. 
+
+To get around that. 
+
+Yeah, yeah does do we have anybody else who wants to jump up and ask some questions about hardware wallets? 
+
+Keystone bit box. 
+
+Air gap. 
+
+All right, well, let's get. 
+
+Let's get final thoughts. 
+
+Uhm, leashing, let's. 
+
+Let's start with you. 
+
+Uhm, what's if you had to sum up? 
+
+The issue at hand and how important it is that people, particularly news like like when people coming in here like and they they need to get a perspective on this, is this that important? 
+
+Is this like a big issue like you know give us give us a couple minutes summary here. 
+
+Yeah, uhm, yeah, I think I have shared this in different podcasts and. 
+
+Uh, in different uh tweets and articles. 
+
+And also I'm trying to share it to everyone I talked to about security about how to get your how to store your Bitcoin security so. 
+
+Uh, maybe maybe this this statement is kind of against hard work, but I still want to say it is that hardware wallet is not your silver bullet for your Bitcoin security. 
+
+It's not your server. 
+
+Really, and your knowledge is your silver bullet for safely storing your Bitcoin, which means. 
+
+You need to. 
+
+Not only buying hardware, however, is not the most important thing, but the most important thing is to getting to know about Bitcoin about all the logics about, for example. 
+
+What's HD path and what are the different types of the addresses and? 
+
+How to safely? 
+
+Store your recovery phrase. 
+
+I think those questions and those knowledges are more important than the hardware wallets. 
+
+Self so just just remember, if you have only one takeaway from this Twitter space, is that choosing hardware wait between QR code style or USB style is not that important and to arm yourself with some knowledge about Bitcoin about security that's the most important. 
+
+Thing and yeah, USB style how word or chemical style how what? 
+
+It is not your silver bullet. 
+
+Yeah, that's my point. 
+
+Yeah yeah, I agree with everything we see inside. 
+
+I think that's really great. 
+
+I would say that. 
+
+Hardware wallet manufacturers. 
+
+Part of our job, minority Sheen is doing this, so we want to do it also is to, you know. 
+
+Try try to make it such that it's easier for people to get their head around or cryptocurrencies. 
+
+And so yeah, there's. 
+
+A saying that. 
+
+Uhm, or this thought that. 
+
+Security and ease of use or kind of tradeoffs, but I think we're hardware wallets can shine, and I think that statement so fast. 
+
+Academy and I think probably well it's can really shine by trying to shrink that gap and make things actually both secure and simple. 
+
+And I think I think the hybrid cloud. 
+
+Community as a whole is on that path. 
+
+And yeah, I would agree with a shame. I don't. I don't think you know if you want to boost up your security level up your security 1000X. This guy says yeah, go for a hardware wallet. 
+
+Just pick one and then you're already going to be much, much better off. 
+
+Yeah, and my last point is I I just mentioned that knowledge is very very important and also. 
+
+Kudos to all. 
+
+The educators like gaze one and also big shout outs to gaze ones gaze ones YouTube channel and also his podcast. 
+
+So I think everyone here should listen to that and get more knowledge about Bitcoin and about security. 
+
+Hell yeah. 
+
+Well yeah appreciate that man. 
+
+I I totally agree. 
+
+Like when when it comes to lishan, you made a really good point on that was that. 
+
+The hardware wallet is not. 
+
+The end all be all just like both of you have said is that user error and just uncomfortable like like not being familiar with. 
+
+The process or. 
+
+The tools or what they are actually doing with the thing exactly is where the vast majority of problems. 
+
+And that knowledge is your best weapon. 
+
+You know if if you understand the tools, you can use a mobile wallet. 
+
+More securely than in a pretty secure fashion, if you at least know what is where, you could likely get hit. 
+
+What the important things to take care of our record. 
+
+Of course you. 
+
+Never want to put like life savings on a mobile. 
+
+Wallet, but just in general. 
+
+Knowing something like knowing the basic tools. 
+
+Is without a doubt. 
+
+The best defense and you get the best security on top of. 
+
+That just get a hardware wallet. 
+
+Get one, it fits how you're going to use it. 
+
+It fits into your environment if you know if you're like. 
+
+Me in the. 
+
+Studio and you just everything like plug in. 
+
+You know, get a bit box if you're doing something on the go and you want to use it with your phone and you don't know if you're gonna have an Android. 
+
+Or iPhone get a keystone like like? 
+
+Just get yourself a solid hardware wallet and learn the basics. 
+
+Learn those like what is my seed phrase? 
+
+How does this passphrase wallet work? 
+
+You know what? What are? What are the basic attack vectors and the basic tools of Bitcoin the system, and you're 1,000,000 miles ahead of everybody. 
+
+And and it really is. It really is amazing. Education is 100% key. It's. 
+
+It's the biggest attack vector is lack of familiarity. 
+
+But uh guys, thank you so much for this. 
+
+This was this was a good time. 
+
+Always love to get a chance to sit down and chat with both of you guys. 
+
+Like I said, love both the products. 
+
+I don't really have much of a lean one way or the other and that's. 
+
+Why I was? 
+
+I was glad to get get. 
+
+You guys in the same room and see how y'all perspectives are and visions for the solutions to this problem are. 
+
+Yeah, thanks a lot guys. 
+
+I think slot. 
+
+Machine, uhm yeah not I would add. 
+
+For the audience. 
+
+If you're interested in learning more, one of the best ways to do it is check out guys podcast. 
+
+It's awesome. 
+
+And and yeah. 
+
+Thank you, thank. 
+
+You both thank everyone who came to listen and and yeah, and this isn't the end of our conversation so keep keep following both of us. 
+
+Our companies on Twitter and I think there'll be a lot more interesting things to to hear about in the future. 
+
+Yeah, yeah, thank you. 
+
+Thank you so much for inviting me, Douglas. 
+
+And thank you guys for being the host and for those great questions. 
+
+And yeah, thank you everyone for listening and my Twitter handle is Bitcoin leashing and we are Keystone and the Keystone Twitter handle is Keystone Wallet. 
+
+You can follow us. 
+
+And yeah, and also happy Christmas in advance. 
+
+Yeah, thank you so much. 
+
+Awesome guys, thanks a lot. 
+
+Yeah definitely follow these guys and keep up with the products and the stuff they're building. 
+
+It's it's really astonishing how far we have come with hardware lol. 
+
+It's like when I. 
+
+Look back 5-6 years. 
+
+And now, like the the number of options and the. 
+
+Ways that I get to use it. 
+
+It's really it's really kind of amazing. 
+
+So thank you guys for all the work you guys have done and for you know keeping my Bitcoin safe Jesus. 
+
+Thank you, thank you so much. 
+
+Yeah, thank you. Thanks Aaron. 
+
+Alright yeah later guys bye bye. 
+
+Man, that was intense. 
+
+We barely made it out with our lives on that one. 
+
+I hope you. 
+
+Guys enjoyed this conversation. 
+
+You know, I don't usually. 
+
+I feel like I don't usually dig into hardware. 
+
+While it's in this like security specifics. 
+
+On this show. 
+
+A lot I I tend to talk about philosophy. 
+
+Economics and like kind of big picture stuff. 
+
+So I'm really glad we did this. 
+
+And both Leashing and Douglas were on board to have this discussion and. 
+
+I've always felt the like the real take away from everything I find with hardware wallets is to just get one, get the one that works for you and more importantly than anything, learn how to use it, what it is doing for you, learn the fundamentals of hardware while it's secure. 
+
+30 what not to do? 
+
+What to do? 
+
+What the different pieces of the little security puzzle are? 
+
+And it's not that intimidating it. 
+
+It's like I know it can seem uncomfortable just because it's unfamiliar. 
+
+But don't be intimidated, it's really fun, and it is not that hard once you kind of get past. 
+
+Those first few barriers and these devices in particular, they're great at making it intuitive, making it just a few step process to getting to the wallet to to a place to secure your Bitcoin. 
+
+And like they both said. 
+
+Understanding the basics really is the best thing you can do for your the safety of your Bitcoin so that you're not left in the dark. 
+
+You know what not to click on? 
+
+You know to never put your seed phrase into a browser, plug in, or a website, or really into a computer, ever. 
+
+There's just no reason. 
+
+For it don't do it. 
+
+But yeah. 
+
+But with that? 
+
+A huge thank you to Leashing and Douglas for joining me here and let's close this out. 
+
+Thanking our sponsors. 
+
+The fold card. The bit box hardware wallet from shift crypto swan Bitcoin for the automatic stack and the Bitcoin at 22. A 2022 conference for making Bitcoin audible. 
+
+A project that. 
+
+Keeps me Fed, puts presents under the tree, helps me stack sats in all the ways and keeps that **** safe for me and so I can travel all over and meet all of you. 
+
+Amazing bit coiners and the Super special audio knots who are better than normal bit coiners. 
+
+I'm sorry, but it's true the audio knots. 
+
+Are where it's at. 
+
+I'll hit you guys on the next one, probably dropping tomorrow. 
+
+I've got a couple of great reads of and. 
+
+Then working on like 3. 
+
+Or four at once lately. 
+
+So lots of stuff coming soon. 
+
+Happy holidays you FOMO. 
+
+Sexuals made many hashes be with you, may Satoshi blah. 
+
+SU and maby coin audible be among your subscribed podcasts until. 
+
+Next time I'm guy salon. 
+
+DGA TV bichi 
+
+You have been listening to Bitcoin audible a 111 production. 
+
+This podcast is a part of the C-Suite radio network for more top business podcasts, visit C-Suite radio.com. 
+
+ 
