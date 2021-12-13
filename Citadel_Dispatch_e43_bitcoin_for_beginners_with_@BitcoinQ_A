@@ -1,0 +1,4804 @@
+Citadel Dispatch Episode 43
+
+5f678e48-2bc7-acf4-a8b2-529f81fad175.mp3
+00:00:00
+02:19:24
+00:00:00
+Speaker 1
+PayPal and crypto apples Tim Cook sat down with our Andrew Ross Sorkin this morning.
+00:00:04
+Speaker 1
+A deal book and Andrew asked him if he is looking at accepting Bitcoin on Apple Pay.
+00:00:09
+Speaker 1
+Here's what he said.
+00:00:12
+Speaker 2
+Edit transcript section
+It's something that we're looking at.
+00:00:14
+Speaker 2
+It's not something we have immediate plans to do, for I would sort of characterize it as there are things that I wouldn't do like.
+00:00:27
+Speaker 2
+Our our cash balance I wouldn't go invest that in crypto, not because I wouldn't invest my own money in crypto, but because I don't think people buy an apple stock to get exposure to crypto.
+00:00:41
+Speaker 2
+And so if they want to do that, they can, they can.
+00:00:45
+Speaker 2
+Uh, you know, invest directly in crypto or through other means, and so I wouldn't do that and I'm I'm not planning to in the immediate future to take crypto for our products.
+00:00:58
+Speaker 2
+As a as a mean of tender, but there are other things that we're definitely looking at, like what?
+00:01:04
+Speaker 2
+Like I wouldn't want to have anything to announce today.
+00:01:09
+Speaker 4
+Well, let me ask you a different question 'cause you you just said that you might not do it personally.
+00:01:14
+Speaker 4
+Do do you own crypto and any Bitcoin or Ethereum?
+00:01:16
+Speaker 4
+Would you play around?
+00:01:17
+Speaker 2
+With this I I do.
+00:01:18
+Speaker 2
+Yeah, I think it's reasonable to own it as a as a part of a diversified portfolio, and I'm not giving anybody, uh, investment advice, by the way.
+00:02:01
+Matt Odell:
+Happy Bitcoin Tuesday freaks.
+00:02:03
+Matt Odell:
+It's your boy Matt Odell here for another citadel dispatch the interactive live show about Bitcoin, distributed systems, privacy and open source software to our audio freaks.
+00:02:15
+Matt Odell:
+Listening in on the podcast feeds.
+00:02:17
+Matt Odell:
+That clip was.
+00:02:18
+Matt Odell:
+Apple CEO Tim Apple giving financial advice to the whole world on TV.
+00:02:24
+Matt Odell:
+Uhm, shout out to the Ryder dies who support this show.
+00:02:29
+Matt Odell:
+You keep it ad free sponsor free just actionable Bitcoin discussion.
+00:02:33
+Matt Odell:
+That is supported by our audience.
+00:02:35
+Matt Odell:
+It's really powerful and I do appreciate all the support I get and another shout out to the rider dies that join us in the live chat.
+00:02:44
+Matt Odell:
+Today is a very special episode I will get into that in a second, but you guys are more important than ever for this episode.
+00:02:51
+Matt Odell:
+If you want to support the show you can do it through podcasting.
+00:02:53
+Matt Odell:
+2.0 apps if you go to newpodcastapps.com you can pick an app there that supports podcasting 2.0.
+00:03:00
+Matt Odell:
+Then you search little dispatch loaded up with Sats and you can stream sats directly to my Lightning wallet. Or you can go to civildispatch.com, where I have a tipping dot me link, or you can donate via samurai pain in my painting is Odell. It's very easy to remember.
+00:03:17
+Matt Odell:
+So with all that said, we got a repeat guest here.
+00:03:21
+Matt Odell:
+Bitcoin Q&A good friend and our plan is to try and do an episode.
+00:03:27
+Matt Odell:
+Have a conversation here where it's all encompassing from start to finish.
+00:03:32
+Matt Odell:
+New new big Bitcoin are coming into the space trying to do things.
+00:03:37
+Matt Odell:
+You know the right way.
+00:03:38
+Matt Odell:
+Trying to do things in a secure way.
+00:03:40
+Matt Odell:
+Uhm, and and just have it all in a single episode.
+00:03:44
+Matt Odell:
+Have it all in a single conversation.
+00:03:46
+Matt Odell:
+So as I was saying earlier, the rider dies that are in the live chat.
+00:03:51
+Matt Odell:
+If you have questions, put your questions in if.
+00:03:54
+Matt Odell:
+If you're not a beginner and you're listening in and you think we missed something, feel free to put that in the live chat as well and just a reminder.
+00:04:01
+Matt Odell:
+The live chat is accessible through the Twitter Twitch and YouTube streams, and they all get fed into the main chat. So with all that said.
+00:04:10
+Matt Odell:
+I'd like to introduce Bitcoin Q&A. How's it going Bitcoin Q&A?
+00:04:14
+Bitcoin Q&A:
+Hey Matt, it's going good. Thank you for having me back on. It's been awhile thing come episode #2 wasn't I with that with ergo so yeah.
+00:04:21
+Bitcoin Q&A:
+Looking forward to getting back to it and running through some some of the beginner focused stuff that seems to be missing from some of the podcasts floating around.
+00:04:29
+Bitcoin Q&A:
+We tend to get jump into the weeds pretty quickly sometimes, don't we?
+00:04:33
+Matt Odell:
+Yeah, I mean I have a feeling we are going to also be jumping into the weeds, but we're going to try and do it in a nice constructive path into the weeds.
+00:04:40
+Bitcoin Q&A:
+Yeah, I need you to keep me keep me in check on that one.
+00:04:44
+Matt Odell:
+But yeah, you are a dispatch OG.
+00:04:46
+Matt Odell:
+It has been.
+00:04:46
+Matt Odell:
+It's been a minute and we've we've both been through a lot.
+00:04:51
+Matt Odell:
+I like to see like to think that we've been through it together and yeah, just love that you're back joining us and you know I hope it's you know, not just the second time.
+00:05:01
+Matt Odell:
+It'll be many more times in the future.
+00:05:04
+Matt Odell:
+So with all that said, freaks we have a bit of a structure that we set up for this episode, which is unusual for dispatch, but I think it'll keep us more focused, and so we're going to start with actually getting Bitcoin for the first time.
+00:05:21
+Matt Odell:
+So do you want to you want to start with that?
+00:05:23
+Matt Odell:
+Big link, you know.
+00:05:25
+Bitcoin Q&A:
+Yeah, so it's buying bitcoins.
+00:05:28
+Bitcoin Q&A:
+Never been easier than it is today.
+00:05:30
+Bitcoin Q&A:
+There's exchanges popping up all over the place every every man and his dog seems to be giving you the opportunity to to be able to buy Bitcoin from within their their ecosystem or their app.
+00:05:41
+Bitcoin Q&A:
+And the the kind of elephant in the room.
+00:05:44
+Bitcoin Q&A:
+Unfortunately in is is the know your customer or KYC is?
+00:05:49
+Bitcoin Q&A:
+It's it's lovingly called within the space.
+00:05:52
+Bitcoin Q&A:
+And KYC is a regulation that essentially any sort of business entity that has a banking relationship has to abide by that kind of dictates that they must collect certain pieces of information from anybody that they give a service to.
+00:06:09
+Bitcoin Q&A:
+Obviously, in the context of Bitcoin, that's.
+00:06:11
+Bitcoin Q&A:
+An exchange that sells you Bitcoin $4 pounds yen whatever your jurisdiction is.
+00:06:18
+Matt Odell:
+In in practice that looks like if you like go on the cash app and you try and sign up to cash app to buy Bitcoin.
+00:06:25
+Matt Odell:
+They require you to upload your ID.
+00:06:27
+Matt Odell:
+Your address.
+00:06:28
+Matt Odell:
+I'm not sure some some services require like a selfie.
+00:06:33
+Matt Odell:
+That's what we're talking about right here, which is this identification information that's required when you sign up.
+00:06:38
+Matt Odell:
+To one of these regulated Sir.
+00:06:41
+Bitcoin Q&A:
+Right, and some of these? Some of these exchanges now are even doing videos where they take that like a 3D scan of your face, which is kind of scary really and so.
+00:06:50
+Matt Odell:
+Little bit.
+00:06:51
+Bitcoin Q&A:
+So with all that said, why why is that kind of why is that sort of a bad thing that that people like Matt and myself sort of trying and warn people away from or or at least paint the dangers clearly for everybody everybody.
+00:07:06
+Bitcoin Q&A:
+So when you supply this information to to be able to buy Bitcoin in a, you know a really sort of.
+00:07:11
+Bitcoin Q&A:
+Easy and stress free way you know cash UPS a good example where you can just in a couple of clicks get some Bitcoin into a wallet.
+00:07:17
+Bitcoin Q&A:
+Do you control?
+00:07:19
+Bitcoin Q&A:
+But one of the main problems is that you know all of this information gets rounded up into a centralized database that's controlled by the entity that you're doing business with.
+00:07:30
+Bitcoin Q&A:
+And unfortunately these entities, or some of these entities.
+00:07:34
+Bitcoin Q&A:
+I won't tell everybody with the same brush, don't have a great track record of.
+00:07:39
+Bitcoin Q&A:
+Securing it effective.
+00:07:41
+Bitcoin Q&A:
+And talk about perfect time and we we heard about a hack with Robin Hood yesterday was it was this time.
+00:07:48
+Matt Odell:
+We know the 7,000,000 users.
+00:07:51
+Bitcoin Q&A:
+7,000,000 users information has been leaked and now there's varying degrees of the severity of the leak. Some of it's just email addresses, some of it's more personal information like banking details, etc.
+00:08:04
+Bitcoin Q&A:
+And you know, to name a few others, Equifax, Facebook, T-Mobile Clubhouse, LinkedIn, Coinbase, Ledger and all of those companies and require some form of.
+00:08:18
+Bitcoin Q&A:
+Of your personal information to to do business with them and and they've all had hacks where again, with varying degrees of severity.
+00:08:25
+Bitcoin Q&A:
+That and somebody that shouldn't have got their hands.
+00:08:28
+Bitcoin Q&A:
+On your information, did so and you know what?
+00:08:31
+Bitcoin Q&A:
+We're not talking.
+00:08:32
+Bitcoin Q&A:
+Small fry here.
+00:08:33
+Bitcoin Q&A:
+Somebody hacks were in to the tune of millions and millions of people.
+00:08:38
+Bitcoin Q&A:
+And now you know if that's something like Facebook and your email address gets leaked.
+00:08:43
+Bitcoin Q&A:
+You know it's not really the end of the world is it might.
+00:08:45
+Bitcoin Q&A:
+Push you off a little.
+00:08:45
+Bitcoin Q&A:
+Bit when you tie that into something like Bitcoin, where hopefully, especially after you've listened to this podcast and you're sort of securing your own wealth that might be in your house.
+00:08:58
+Bitcoin Q&A:
+That might be in a loved one house or a combination of those.
+00:09:02
+Bitcoin Q&A:
+If if the wrong person was to get hold of this information, you know yourself E.
+00:09:08
+Bitcoin Q&A:
+Your home address in in the.
+00:09:11
+Bitcoin Q&A:
+In the case of Coinbase, how much Bitcoin you've actually bought?
+00:09:14
+Bitcoin Q&A:
+That is essentially painting a very large cross on your front door.
+00:09:19
+Bitcoin Q&A:
+That might make it invite into to the wrong type of people to come and pay you a visit to see if they can relieve you of of those SAP.
+00:09:27
+Bitcoin Q&A:
+So that's one of the main you know reasons that that that I personally try and sort of make people aware that yes, going onto cash app or Coinbase or whatever is is, you know, they make it really, really simple.
+00:09:42
+Bitcoin Q&A:
+They've got really nice polished UI so to be able to go and and get some.
+00:09:47
+Bitcoin Q&A:
+Get your hands on some stats within it within a couple of clicks and it's you know one of the big big risks is that this information is leaked on a regular basis and there are companies in space that to their credit and have you know they've never never.
+00:10:05
+Bitcoin Q&A:
+Have been falling prey to one of these attacks and well, unfortunately they do seem to becoming more and more frequent, and so yeah, that that's one of the main risks with KYC.
+00:10:16
+Bitcoin Q&A:
+So yeah, I mean I would add a couple.
+00:10:18
+Matt Odell:
+Of things here.
+00:10:19
+Matt Odell:
+First of all, even if a company hasn't been compromised yet, we should basically operate under the assumption that they will be compromised.
+00:10:20
+Matt Odell:
+You know?
+00:10:26
+Matt Odell:
+In the future.
+00:10:28
+Matt Odell:
+This information, once it is taken, is often so.
+00:10:32
+Matt Odell:
+Sold to other people as well.
+00:10:34
+Matt Odell:
+It can be combined with other information that was leaked from other databases.
+00:10:40
+Matt Odell:
+So for instance.
+00:10:41
+Matt Odell:
+Uhm, if you know you you have the Facebook leak and the Facebook leak has your mailing address in it, and then you have the Ledger leak and your Ledger leak has your email address in it.
+00:10:52
+Matt Odell:
+But the Facebook leak also had your email address in it.
+00:10:55
+Matt Odell:
+They can combine those.
+00:10:56
+Matt Odell:
+2 leaks to get your full email address and your actual in person address.
+00:11:03
+Matt Odell:
+Second of all we've seen.
+00:11:05
+Matt Odell:
+Uhm, we've seen physical attacks happen to people who were known big corners and how much Bitcoin they had.
+00:11:12
+Matt Odell:
+Sometimes it was because of these leaks.
+00:11:14
+Matt Odell:
+It's hard to tell for sure.
+00:11:15
+Matt Odell:
+Sometimes it's because people just talk about their Bitcoin and how much Bitcoin they own, which you also should.
+00:11:20
+Matt Odell:
+Gonna do a third of all this information can obviously be used against you by your own government.
+00:11:28
+Matt Odell:
+It can also be used against you by foreign governments in the future.
+00:11:30
+Matt Odell:
+Obviously it is painting a target as you are someone who owns Bitcoin and uses Bitcoin, and exactly how much Bitcoin you have and then fourth of all in the Coinbase.
+00:11:40
+Matt Odell:
+Leaks specifically.
+00:11:43
+Matt Odell:
+All of your withdrawal history was also leaked, so.
+00:11:47
+Matt Odell:
+It can be used to track your future Bitcoin transactions based on that information and we will go further in on on Bitcoin privacy and trade offs with Bitcoin when using Bitcoin trying to use it privately.
+00:12:01
+Matt Odell:
+How did it go about that in later on in this episode?
+00:12:04
+Matt Odell:
+But these are just things to keep in mind.
+00:12:06
+Bitcoin Q&A:
+Right, so you know all of which is is sort of incredibly scary and and the other thing final thing art about before we sort of look onto the alternatives, is that you know, and something that I like to sort of.
+00:12:17
+Bitcoin Q&A:
+Keep in mind and remind people.
+00:12:19
+Bitcoin Q&A:
+You know, being here for for number group is great.
+00:12:22
+Bitcoin Q&A:
+You know, I'm not going to sit here and say that and I don't like to see us hit all time highs all the time and but Bitcoin is also.
+00:12:28
+Bitcoin Q&A:
+Uhm, created to be able to make the transactions that they don't want you to.
+00:12:33
+Bitcoin Q&A:
+Make now if you're sort of tying all of your Bitcoin to your personal identity, and you're you're kind of putting a a kink in your armor before you've even started that you know if you do want to make those purchases that.
+00:12:48
+Bitcoin Q&A:
+Bitcoin allows you to make due to its pseudonymity, then you're sort of starting two steps back by tying your your Bitcoin holdings to your personal identity, and which is where sort of buying from a no Kobeissi source it comes in so that you can have some, or hopefully you know in a perfect situation all of the Bitcoin.
+00:13:09
+Matt Odell:
+So so before we get there before we get there just one more thing, KYC, these records are forever.
+00:13:10
+Bitcoin Q&A:
+Ajit hustle.
+00:13:17
+Matt Odell:
+Once you do these records, you have to assume they're forever.
+00:13:20
+Matt Odell:
+Is it best practice to delete an account?
+00:13:24
+Matt Odell:
+You know, if you're no longer using it, yes, but you should assume that actual database record hasn't been deleted, and it might be used against.
+00:13:31
+Matt Odell:
+You in the future.
+00:13:33
+Matt Odell:
+So these are things to keep in mind.
+00:13:35
+Matt Odell:
+Uhm, now let's move to OK.
+00:13:37
+Matt Odell:
+So if you're trying to avoid KYC, you don't want to use one of these regulated services.
+00:13:42
+Matt Odell:
+What are your options?
+00:13:44
+Bitcoin Q&A:
+Right, so the the sort of two most common ones that kind of get banded around in terms of actually purchasing Bitcoin is bisque, which is a peer to peer decentralized exchange where you essentially it's a maker taker model where somebody will want to.
+00:14:04
+Bitcoin Q&A:
+Sell some Bitcoin and they will go on to bisque and they'll say you know I'm. I want to sell X amount of Bitcoin for this much, you know, $500 whatever and and then you as a buyer can go on to that sort of peer to peer marketplace.
+00:14:19
+Bitcoin Q&A:
+And and look for these offers to see one that sort of fits your bill that you know is within your price range, and you know the amount that you want to buy.
+00:14:27
+Bitcoin Q&A:
+You can go on completely and honest anonymously and sort of take their their sell offer so that you can buy that amount of Bitcoin from them then.
+00:14:38
+Matt Odell:
+There's build blcu bits.
+00:14:38
+Speaker 5
+Let's pick up.
+00:14:40
+Bitcoin Q&A:
+Yeah, so it's an application that you just download onto your computer. Basically you run it all locally. You know there's no personal information you don't need to show any ID's to sign up.
+00:14:49
+Bitcoin Q&A:
+The only person again, depending on the payment method that you use, you know there's many, many payment methods.
+00:14:55
+Bitcoin Q&A:
+Some are better from a privacy perspective than others, and but let's say you know most people are going to go on and and if they want to sort of be able to take a wider range of offers from, you know more people across the world they're going to want to use the banking system.
+00:15:11
+Bitcoin Q&A:
+Which you know might ring some alarm bells for some of the people listening, but what else do I say is what's worse is showing your banking information with one person who is very likely to want very likely to be a privacy preserving individual because they you know they probably wouldn't be using discord.
+00:15:27
+Bitcoin Q&A:
+Wise versus the regulated entities that throw all of your information into a centralized honeypot that we've just explained, and so that's one way, you know, some of the more private options that are available on bisque and are sort of postal money orders which have, you know, I don't really know. Great deal about because it's US centric.
+00:15:47
+Bitcoin Q&A:
+Thing, but you've also got cash in the mail, and then there's very other various other options that are kind of relevant to their sort of jurisdictions.
+00:15:59
+Bitcoin Q&A:
+Another option as well is huddle huddle, which works quite similarly to the way I've just described with bisque, and the difference being is that huddle.
+00:16:08
+Bitcoin Q&A:
+Huddle is kind of a centralized company and that hosts the sort of buy and sell locations for you. You know it it. It's a website huddlehuddle.com.
+00:16:19
+Bitcoin Q&A:
+And where you can go and sort of make offers.
+00:16:22
+Bitcoin Q&A:
+Or you can take offers again in the same fashion and.
+00:16:25
+Bitcoin Q&A:
+So, so there may be some other alarm bells ring game where thinking where, uhm well, what happens if I go onto biscotto, huddle, huddle and and I, you know, take this by offer and I send somebody some some, you know U.S. dollars and what's to stop them from just never sending me the Bitcoin. So both of these services and work on what's called.
+00:16:45
+Bitcoin Q&A:
+An escrow system where the seller will have to deposit the Bitcoin first into a multisig wallet that is controlled by.
+00:16:55
+Bitcoin Q&A:
+By the buyer, the seller, and the sort of centralized entity, and so that basically they they can't sort of run off once they've you know got hold of your dollars because they have to deposit the Bitcoin 1st and and you'll be notified to wait until you send any of the payments so that they've proved that they've sort of deposited.
+00:17:15
+Bitcoin Q&A:
+The Bitcoin into that.
+00:17:16
+Matt Odell:
+There is still some risk there, but it's reduced risk.
+00:17:17
+Speaker
+Flash crashes.
+00:17:21
+Bitcoin Q&A:
+Yeah, absolutely you know.
+00:17:24
+Bitcoin Q&A:
+It's kind of.
+00:17:24
+Bitcoin Q&A:
+I would say it's more of a, uh, griefing attack than a.
+00:17:27
+Bitcoin Q&A:
+You're not really at risk of losing funds.
+00:17:29
+Bitcoin Q&A:
+Yeah, it's more of a, uh, going through the arbitration process to prove that you've sent the dollar so that you get the bit going back in the end.
+00:17:35
+Bitcoin Q&A:
+So it's going to be more of a headache more than a risk to to actually lose any.
+00:17:41
+Bitcoin Q&A:
+Any cash would you say?
+00:17:44
+Matt Odell:
+Yeah, more or less.
+00:17:48
+Matt Odell:
+So yeah, continue.
+00:17:51
+Bitcoin Q&A:
+So some of the other options.
+00:17:52
+Bitcoin Q&A:
+And if you you can buy from Bitcoin ATM's.
+00:17:58
+Bitcoin Q&A:
+There's a really great website calledcoinatmradar.com where you can go on and punch in your physical location. I would recommend doing so.
+00:18:09
+Bitcoin Q&A:
+Using a VPN.
+00:18:11
+Bitcoin Q&A:
+And and it will tell you all of the Bitcoin ATM's that are in your local area. The general premise of these is that you woke up.
+00:18:20
+Bitcoin Q&A:
+You can deposit some cash, give it a Bitcoin address, hopefully from a wallet that you control, which we're going to come.
+00:18:28
+Bitcoin Q&A:
+Onto later.
+00:18:29
+Bitcoin Q&A:
+And the Bitcoin be deposited.
+00:18:31
+Bitcoin Q&A:
+Directly into that wallet that you control.
+00:18:34
+Bitcoin Q&A:
+Other us again as is always the case with Bitcoin, some caveats.
+00:18:37
+Bitcoin Q&A:
+And just because you're depositing cash doesn't immediately make a Bitcoin ATM super private.
+00:18:43
+Bitcoin Q&A:
+Depending on the the brand of ATM machine that you use, some of them do still ask for ID and, but that is distinguished on that.
+00:18:52
+Bitcoin Q&A:
+The website just said which is calling.
+00:18:54
+Bitcoin Q&A:
+Atmradar.com
+00:18:56
+Matt Odell:
+Right, some asks for ID and then.
+00:18:59
+Matt Odell:
+And then some ask for just a phone number.
+00:19:01
+Matt Odell:
+Some asked for both.
+00:19:02
+Bitcoin Q&A:
+Yeah, which and. And obviously the just the ones that just ask for the phone number of the better ones because you can spoof that with the services like text verified.com where you can just get kind of a burner number to satisfy the ATM's.
+00:19:16
+Bitcoin Q&A:
+Uh, you know phone number requirements, but obviously that's not tidto to your personal identity.
+00:19:23
+Bitcoin Q&A:
+And and then getting on.
+00:19:24
+Matt Odell:
+We continue before we continue, since we're still like early in the episode and I should have mentioned in the beginning, Bitcoin Q&A has my favorite guides in the space.
+00:19:33
+Matt Odell:
+So if you want to look up something specifically, or if you prefer reading if you go to bitcoiner dot guide, he has all of his guides listed there.
+00:19:43
+Matt Odell:
+So just keep that in mind.
+00:19:45
+Matt Odell:
+OK, continue.
+00:19:47
+Bitcoin Q&A:
+Yeah, pretty much everything that we're talking about.
+00:19:48
+Bitcoin Q&A:
+I've got some some form of information on it and so yeah, moving on to other Nokia, I see opportunities and so we've covered peer to peer to peer exchanges.
+00:19:59
+Bitcoin Q&A:
+We've covered ATM's and the the next sort of option is to is to earn it, which might sound a bit outlandish.
+00:20:06
+Bitcoin Q&A:
+To some people I knew and entering the space, but also we'll say is that.
+00:20:10
+Bitcoin Q&A:
+And everybody has some form of a unique skill and and there's always going to be somebody who needs.
+00:20:17
+Bitcoin Q&A:
+What you can offer them, it's just about sort of trying to build up a bit of a reputation, whether that's in your local area or online, and so that you can, you know, sell your time or your skills and knowledge and receive shots.
+00:20:32
+Bitcoin Q&A:
+In in, in repayment for them and the other option, again, probably not as much of a beginner option as I would like it to be, but the other option is to mine it.
+00:20:44
+Bitcoin Q&A:
+And although home mining does seem to be going through somewhat of a renaissance, which is really, really great to see, and so the the general premise of that is that you can buy a Bitcoin miner.
+00:20:55
+Bitcoin Q&A:
+You can plug that into your outlet at home, plug in an Ethernet port, connect up to to a mining pool, and stream yourself some.
+00:21:05
+Bitcoin Q&A:
+Secret starts or some private Nokia icy spots directly again into your wallet that you control.
+00:21:10
+Bitcoin Q&A:
+And there there there's been, you know, a fair bit of FUD banded around.
+00:21:15
+Bitcoin Q&A:
+That whole mining is is kind of too difficult, or it's too expensive.
+00:21:22
+Bitcoin Q&A:
+The the thing I would say is that yeah, it's very much dependent on your electricity prices, but again, you know this.
+00:21:28
+Bitcoin Q&A:
+This shows fairly US centric and there's a lot of places in the US where you know, and if you're earning anywhere less than I thought you know Neil's in the chat. They will probably correct me on this, but I think you're profitable mine at the moment.
+00:21:42
+Bitcoin Q&A:
+Anywhere but below 30 sets.
+00:21:44
+Bitcoin Q&A:
+There's 30 shots.
+00:21:45
+Speaker
+It's insanity.
+00:21:45
+Matt Odell:
+Yeah, so I mean with with all of these techniques, you might be spending a little bit more money than you would be if you went through one of these regulated services, your the way I justified is.
+00:21:58
+Matt Odell:
+I mean, you're you're paying a little bit of a premium for privacy and you're paying that for privacy going forward too.
+00:22:06
+Matt Odell:
+So it it keeps paying dividends with mining.
+00:22:09
+Matt Odell:
+Specifically mining home mining is a fantastic way in my opinion.
+00:22:14
+Matt Odell:
+Of accumulating KYC free Sats, it's it's really nice because once you have it plugged in, it's just constantly going.
+00:22:22
+Matt Odell:
+You don't even have to really think about it just constantly bringing in more Sats.
+00:22:26
+Matt Odell:
+We already have two whole mining.
+00:22:30
+Matt Odell:
+Signal dispatches, so if you go back if you go to signal dispatch com, or if you go through the podcast feed, or if you go to bitcointv.com and our playlist over there, you can find those episodes and we're about to have a third one too.
+00:22:43
+Matt Odell:
+I think November 30th there's going to be a third home mining episode, so if that's something that interests you, you should go check those out, starting with the first one, because we literally spent like 3 hours on all the different trade offs there.
+00:22:55
+Bitcoin Q&A:
+Yeah, just to come back on on something that.
+00:22:57
+Bitcoin Q&A:
+You said about.
+00:22:59
+Bitcoin Q&A:
+Generally speaking, absolutely right that you're going to pay a little bit more for Nokia AC sats.
+00:23:06
+Bitcoin Q&A:
+You know, especially if you go through the peer to peer exchanges.
+00:23:09
+Bitcoin Q&A:
+And but I just I like to try and reframe it.
+00:23:11
+Bitcoin Q&A:
+And you know, it's not a Nokia.
+00:23:13
+Bitcoin Q&A:
+I see premium and the the price that you see on a KYC exchange.
+00:23:19
+Bitcoin Q&A:
+I like to call it the the discount that you get given up for giving up your personal information and and putting yourself a little bit more at risk than versus.
+00:23:29
+Bitcoin Q&A:
+Again, some sites that are not tide to your identity, so I think that's a useful framing, yeah?
+00:23:32
+Speaker
+I like that.
+00:23:34
+Matt Odell:
+The real price is the private.
+00:23:36
+Matt Odell:
+Way and then you get a discount if.
+00:23:38
+Matt Odell:
+You sacrifice your privacy.
+00:23:41
+Matt Odell:
+And then one method that you didn't mention, which is probably the most iaccessible to new corners, is if you have a friend or a couple of friends that are interested in Bitcoin and they've been in Bitcoin for a while.
+00:23:56
+Matt Odell:
+Obviously if you can, if you can pay them cash for some of their big.
+00:24:00
+Matt Odell:
+Coin that is the most private I.
+00:24:05
+Matt Odell:
+I wouldn't say the most private, but it's definitely the most accessible private way for a new corner.
+00:24:11
+Matt Odell:
+And if they if they don't want to sell you any, they might know someone who wants to sell some.
+00:24:16
+Matt Odell:
+So that's always something to keep in mind.
+00:24:18
+Matt Odell:
+Cash in person is.
+00:24:21
+Matt Odell:
+Extremely gives you very good privacy guarantees, period.
+00:24:26
+Matt Odell:
+What else?
+00:24:27
+Matt Odell:
+Also like if you know to the to the big corners out there listening to this show, you know, guide your new corner friends in through that kind of method, right?
+00:24:39
+Matt Odell:
+And whether or not you want to actually explicitly sell it to them, that's one thing.
+00:24:43
+Matt Odell:
+But you know, if you if you go out to dinner, have them pay for dinner.
+00:24:46
+Matt Odell:
+With their with their cash or their credit card and then pay them back in Bitcoin.
+00:24:51
+Matt Odell:
+Or give them you know birthday gifts and Bitcoin and like get them started in a peer to peer fashion rather than just throwing them to the wolves and sending them to a regulated exchange.
+00:25:04
+Bitcoin Q&A:
+Yeah, there's a couple of people in this chat that have just rightfully shouted out Aztec oh vouchers as well and which is, essentially, you'll get sort of stores that that sort of sign up to become a an Aztec.
+00:25:17
+Bitcoin Q&A:
+Oh and sort of vendor and you can go in hand over some cash and.
+00:25:21
+Bitcoin Q&A:
+And you'll get sort of a voucher where you can go and claim the the equivalent amount of stats from that again directly into a wallet that you.
+00:25:28
+Bitcoin Q&A:
+Control the the the other caveat.
+00:25:31
+Bitcoin Q&A:
+The sorry, the only caveat with Aztec, oh is that the the sort of KYC responsibility, if any, is put onto the specific vendor, so it won't just be you know, don't just presume that because there's an Aztec ODM vendor near you that it won't be.
+00:25:46
+Bitcoin Q&A:
+No KYC, each one.
+00:25:48
+Bitcoin Q&A:
+Sort of left to kind of.
+00:25:52
+Bitcoin Q&A:
+Come up with the their own interpretation of whether they need to do it or.
+00:25:55
+Bitcoin Q&A:
+Not basically.
+00:25:56
+Matt Odell:
+And you have that major chain in you in the UK, that's an Aztec vendor, right?
+00:26:00
+Matt Odell:
+What's the name of that?
+00:26:01
+Bitcoin Q&A:
+It was Poundland, but then that it stopped a couple of months ago and it's showing no signs of coming.
+00:26:06
+Bitcoin Q&A:
+Back unfortunately.
+00:26:07
+Matt Odell:
+Ah, OK, so as they realized what was going on there, Oh my God, we can't too much liability.
+00:26:12
+Bitcoin Q&A:
+Which was a shame because they they have a store in literally every town.
+00:26:16
+Bitcoin Q&A:
+There was hundreds of them and it was massive for the UK.
+00:26:18
+Bitcoin Q&A:
+But yet unfortunately to no more.
+00:26:20
+Matt Odell:
+OK, well that's a shame. If you want to read more about the dangers of KYC, you can go to Bitcoin Q&A website, nokyconly.com.
+00:26:30
+Matt Odell:
+Uhm, however you decide to proceed with obtaining Bitcoin and accumulating Bitcoin.
+00:26:36
+Matt Odell:
+The next step is trying to secure it.
+00:26:41
+Matt Odell:
+Secure it well and secure it in a way that you don't have to trust.
+00:26:45
+Matt Odell:
+A third party who can seize your funds.
+00:26:48
+Matt Odell:
+Uhm, so how should how should big corners? How should new corners go about that Bitcoin Q&A?
+00:26:55
+Matt Odell:
+What are their options?
+00:26:55
+Bitcoin Q&A:
+Yes, so the the the natural first step for most people.
+00:26:59
+Bitcoin Q&A:
+Unfortunately, like we've just said is is a a centralized exchange, again like Coinbase Cash app or someone or something like that where you will go on deposit dollars or your local currency.
+00:27:10
+Bitcoin Q&A:
+They will sort of credit your account with you know the equivalent amount of stats.
+00:27:16
+Bitcoin Q&A:
+What you have there is an IOU where you've got an account with them and where they say that you've got this much Bitcoin.
+00:27:24
+Bitcoin Q&A:
+Essentially what you actually have in real terms is, well, it's an IOU, and you don't actually hold any Bitcoin.
+00:27:30
+Bitcoin Q&A:
+The this sort of very essence of Bitcoin is.
+00:27:34
+Bitcoin Q&A:
+That, uh, that.
+00:27:35
+Bitcoin Q&A:
+You know there goes a saying not your keys, not your coins, which is banded around a hell of a lot, and for good reason.
+00:27:41
+Bitcoin Q&A:
+And it essentially means that if you're not holding the keys for your Bitcoin, you don't actually have any Bitcoin, so you've got someone in exchange, UM.
+00:27:50
+Bitcoin Q&A:
+The the next step would be to get yourself a mobile wallet where you can generate the keys within that wallet and so that you're you and only you are in control of any of the Bitcoin that you send to that wallet.
+00:28:07
+Matt Odell:
+So before we before we move on and I'm sorry that I keep cutting you off.
+00:28:10
+Matt Odell:
+I I hope I hope it's fine with you.
+00:28:14
+Speaker
+Of course.
+00:28:15
+Matt Odell:
+Before we move on so so the risk is if you're holding it.
+00:28:20
+Matt Odell:
+If if you're holding it in one of these custodial wallets, which is what the exchanges default to and and there's some other services that also are custodial.
+00:28:30
+Matt Odell:
+Basically, the telltale sign of that is the way you access it is through a username and password.
+00:28:37
+Matt Odell:
+Uhm, you don't have any backup yourself.
+00:28:39
+Matt Odell:
+What happens there is, there's a high likelihood that your account could get frozen.
+00:28:44
+Matt Odell:
+We've seen that with PayPal in the past with Fiat with just U.S. dollars where PayPal will freeze your account and you're not able to get your money. It could be stolen if the exchange gets compromised or the custodial wallet gets compromised.
+00:28:57
+Matt Odell:
+And obviously you're trusting your privacy completely with the custodian because they know all of your transactions and your current balances, so it's not ideal and and you want to learn how to hold Bitcoin yourself because.
+00:29:13
+Matt Odell:
+One of the revolutionary things about Bitcoin is that you can hold it yourself in a way that.
+00:29:19
+Matt Odell:
+Someone has to physically compromise you to take your Bitcoin.
+00:29:26
+Matt Odell:
+I guess you're about to start with mobile wallets.
+00:29:28
+Matt Odell:
+I think mobile wallets are the most accessible way.
+00:29:30
+Matt Odell:
+Getting a wallet on your phone.
+00:29:32
+Matt Odell:
+Basically to hold your Bitcoin for you, right?
+00:29:36
+Bitcoin Q&A:
+Yeah, just before.
+00:29:37
+Bitcoin Q&A:
+I get down to the mobile wallet.
+00:29:39
+Bitcoin Q&A:
+It comes back to the point made earlier about censorship resistant or being able to make the payments that you know you want to make, not that they give you permission to to make.
+00:29:49
+Bitcoin Q&A:
+And if you've got to ask for permission from an exchange to be able to send Bitcoin to your desired destination, and.
+00:29:57
+Bitcoin Q&A:
+You know, you're you're asking for permission, and you know that's not why we're here.
+00:30:00
+Bitcoin Q&A:
+We want to be able to spend our money to whoever we want whenever.
+00:30:03
+Bitcoin Q&A:
+We want so.
+00:30:05
+Bitcoin Q&A:
+First step in the easiest step is to get a phone wallet.
+00:30:07
+Bitcoin Q&A:
+You know it, they're free, they're easy to access.
+00:30:10
+Bitcoin Q&A:
+You know you can download from any popular App Store or quite a lot of them offer.
+00:30:16
+Bitcoin Q&A:
+Direct downloads so that you can download from the the you know the chosen teams.
+00:30:24
+Bitcoin Q&A:
+Website or or GitHub?
+00:30:26
+Bitcoin Q&A:
+And the a lot of people tend to rush in and try and buy. You know, the next best hardware wallet straight away when they've just bought sort of $100 a Bitcoin to dip their toes in a little bit.
+00:30:38
+Bitcoin Q&A:
+Well, if you know if you're just dipping your toes in to see if this things working for you then it doesn't make any sense to you know go out and buy a hardware wallet and this is coming for somebody who works for a hardware wallet company.
+00:30:48
+Bitcoin Q&A:
+It doesn't make any sense to go out, rush out and buy a a couple $100 on a hardware wallet when you own less than that.
+00:30:55
+Bitcoin Q&A:
+In Bitcoin so.
+00:30:56
+Bitcoin Q&A:
+That's why mobile wallets.
+00:30:56
+Matt Odell:
+And you already have.
+00:30:57
+Matt Odell:
+A perfectly good phone that you carry around with you.
+00:31:00
+Matt Odell:
+It's very easy to spend and receive.
+00:31:01
+Matt Odell:
+From but the important thing here is that you use a reputable mobile wallet.
+00:31:06
+Matt Odell:
+There's a lot of scammy mobile wallets.
+00:31:08
+Matt Odell:
+Don't just open up the App Store and search for Bitcoin wallet, you will get a lot of bad options there.
+00:31:14
+Bitcoin Q&A:
+Yeah, the the Unfortunately the top 10 results for for that sort of search in most of the app stores are quite abysmal.
+00:31:22
+Bitcoin Q&A:
+My personal recommendations would be Samurai wallet if you're an Android user or Blue wallet, or if you're an iOS.
+00:31:29
+Bitcoin Q&A:
+User and moon wallets.
+00:31:31
+Bitcoin Q&A:
+It is also another one that I know.
+00:31:33
+Bitcoin Q&A:
+You're pretty bullish on that as.
+00:31:34
+Bitcoin Q&A:
+Well yeah, both blue.
+00:31:36
+Matt Odell:
+Wallet and Moon wallet. That's with two use MUU and are available on both Android and iOS.
+00:31:45
+Matt Odell:
+They're they're very easy to use for beginners.
+00:31:47
+Matt Odell:
+I I would say they're not very intimidating.
+00:31:51
+Matt Odell:
+Uhm, so don't be intimidated.
+00:31:54
+Matt Odell:
+You should download one.
+00:31:55
+Matt Odell:
+Just try it.
+00:31:56
+Bitcoin Q&A:
+So the the.
+00:31:57
+Bitcoin Q&A:
+The kind of general premise of these, and unfortunately I mentioned Moon wallet.
+00:32:01
+Bitcoin Q&A:
+There it's gonna come.
+00:32:02
+Bitcoin Q&A:
+It's gonna book the trend of what I'm about to say, but the general premise is you'll download the app from your chosen location, the the app when you set up a new wallet, the app will show you a list of 12 or 24 words, which is your master secret.
+00:32:16
+Bitcoin Q&A:
+And you know which is the the master backup to your to your Bitcoin wallet.
+00:32:20
+Bitcoin Q&A:
+Anybody that gets their hands on that and be that physically or digital.
+00:32:24
+Bitcoin Q&A:
+Lee is going to be able to take all of your funds, so make sure that you write that down.
+00:32:29
+Bitcoin Q&A:
+And secure it.
+00:32:31
+Bitcoin Q&A:
+Somewhere safe and and then your fetus.
+00:32:34
+Matt Odell:
+So so Moon Wallet has a different backup method.
+00:32:39
+Matt Odell:
+It'll prompt you and explain how to backup that, but we will focus on this standard, which is something we call seed words, which is.
+00:32:47
+Matt Odell:
+They're basically these words.
+00:32:49
+Matt Odell:
+It's a phrase.
+00:32:51
+Matt Odell:
+And the wallet generates it for you and you need to keep them secret.
+00:32:54
+Matt Odell:
+You absolutely need to keep them secret so you don't want to put them on an Internet connected device.
+00:32:59
+Matt Odell:
+You put them on and you don't want to like save them in your I cloud notes folder.
+00:33:02
+Matt Odell:
+You don't want to take a screenshot and upload it to cloud.
+00:33:05
+Matt Odell:
+What you want to do is, at the bare minimum, you want to write it down on a piece of paper.
+00:33:10
+Matt Odell:
+Double check that you wrote it down correctly stored somewhere securely, because if someone gets access to it, they have access to your funds, but as long as you have those words, your phone, you could drop your phone in the toilet.
+00:33:22
+Matt Odell:
+It could fall.
+00:33:23
+Matt Odell:
+You know it could fall in crack and break, or just completely just.
+00:33:27
+Matt Odell:
+You know some phones just like stop working.
+00:33:29
+Matt Odell:
+Sometimes as long as you have those seed words you can reinstall the app on a new device and just put in those words, put in that phrase words and you will have access to your funds.
+00:33:41
+Bitcoin Q&A:
+Yeah, and the beauty of that is, like you said, most of the. You know, 99% of the wallets in in this space. All all sort of work to that same standard, so you know, you you wouldn't necessarily have to even.
+00:33:53
+Bitcoin Q&A:
+Download the exact same mobile wallet as long as the mobile wallet.
+00:33:56
+Bitcoin Q&A:
+That you choose.
+00:33:57
+Bitcoin Q&A:
+And abides by the rules, which again most of them do, then you can sort of put that seed phrase into into any other wallet.
+00:34:06
+Bitcoin Q&A:
+And there's a quick question in this chat, which I think is probably good to touch on before we move on to hardware wallets and somebody asked how.
+00:34:13
+Bitcoin Q&A:
+Much would you need?
+00:34:13
+Bitcoin Q&A:
+To own to get hardware wallet.
+00:34:16
+Bitcoin Q&A:
+Now obviously I'm not going to be able to answer that for the.
+00:34:18
+Bitcoin Q&A:
+For everybody that that's watching, you know, it's quite an individual question and also would say is, you know.
+00:34:26
+Bitcoin Q&A:
+If it's your the only mobile wallet you've got and it's on your daily phone, I would use the equivalent of how much cash would you physical cash would you carry around with you, and you know?
+00:34:36
+Bitcoin Q&A:
+And what's your limit at which it's going to start affecting your life?
+00:34:40
+Bitcoin Q&A:
+If you used to lose that balance?
+00:34:43
+Bitcoin Q&A:
+The quick copy out tonight.
+00:34:43
+Matt Odell:
+Right, the mobile wallet.
+00:34:44
+Matt Odell:
+The mobile wallet should be like almost considered is is like your spending wallet.
+00:34:49
+Matt Odell:
+What you would have right in in in your back pocket but.
+00:34:54
+Matt Odell:
+Going further, when we go into more methods of storing your Bitcoin, that would be more like.
+00:34:59
+Matt Odell:
+A savings account.
+00:35:00
+Matt Odell:
+Uh, except I you were about to say caveat I.
+00:35:04
+Matt Odell:
+I mean, I have my own caveat.
+00:35:05
+Matt Odell:
+I would say.
+00:35:07
+Matt Odell:
+I think.
+00:35:09
+Matt Odell:
+Especially if you're using a reputable one, I think people can be feel a little bit more comfortable than the kind of amount of cash they would carry in their pocket.
+00:35:17
+Matt Odell:
+I know like I wouldn't feel more comfortable. I wouldn't feel that comfortable carrying more than like $400 in my pocket.
+00:35:23
+Matt Odell:
+But like a mobile wallet, especially if it's your first wallet, you're just getting started.
+00:35:27
+Matt Odell:
+You're getting comfortable, you have your seed words backed up, your phones up to date.
+00:35:33
+Matt Odell:
+You know we.
+00:35:33
+Matt Odell:
+Don't see hacks are theoretically possible.
+00:35:36
+Matt Odell:
+Obviously phones get compromised all the time.
+00:35:39
+Matt Odell:
+Uhm, but I I would probably if I had to pick a number. I like being like the 5000 to $10,000 range.
+00:35:46
+Matt Odell:
+Like that's where you start having to really consider securing it more and and you should also operate under the assumption because Bitcoin tends to go up fast.
+00:35:57
+Matt Odell:
+Uhm, you should be prepared ahead of time because it could be.
+00:36:02
+Matt Odell:
+You know it could be $1000 in there and then in six months it could be worth $8000.
+00:36:08
+Bitcoin Q&A:
+Yeah, the the other thing, let's say as well is that there's almost everybody has got a spare phone lying around at at their house that you know you could use that as your sort of dedicated Bitcoin phone, and where you could be slightly more comfortable storing, you know, maybe larger amounts your relative to the individual, and then you could kind of.
+00:36:29
+Bitcoin Q&A:
+Decant off into your sort of daily phone.
+00:36:32
+Bitcoin Q&A:
+What you might want to spend on a day to day basis is absolutely nothing wrong with that approach as well.
+00:36:36
+Bitcoin Q&A:
+If you didn't want to shell out quickly for phorum.
+00:36:42
+Bitcoin Q&A:
+For a hardware wallet.
+00:36:43
+Bitcoin Q&A:
+Which we can we can come onto now and.
+00:36:45
+Bitcoin Q&A:
+So a hardware wallet is a.
+00:36:47
+Matt Odell:
+But before we get to hardware wallets you also have.
+00:36:50
+Matt Odell:
+There's also software wallets on on the computer that you can have.
+00:36:54
+Matt Odell:
+Right, so you have mobile wallets.
+00:36:56
+Matt Odell:
+You have software wallets on your computer which like you install an app on your computer.
+00:37:01
+Matt Odell:
+I I.
+00:37:03
+Matt Odell:
+I mean I would say.
+00:37:05
+Matt Odell:
+Like unless you're an advanced user and you have like a dedicated computer, and this episode isn't for advanced users, they should probably shy away from that in the beginning I, I think the mobile security model is a stronger security model as you know, as long as you're not worried about like the NSA or something, or like the Chinese intelligence services.
+00:37:25
+Matt Odell:
+Or the Israeli intelligence services?
+00:37:25
+Bitcoin Q&A:
+Yeah, I would agree with that.
+00:37:27
+Bitcoin Q&A:
+Most most of the population are not great at securing their their computer.
+00:37:33
+Bitcoin Q&A:
+Most people computers are, unless you're sort of a bit of a hacker man, there's this.
+00:37:38
+Bitcoin Q&A:
+You know, a far more vulnerable device than your mobile phone is.
+00:37:42
+Bitcoin Q&A:
+Which is why, like you said, you know I completely agree that I don't recommend them, especially for larger amounts, and I tend to sort of skip straight to the hardware wallet after the mobile wallet stage.
+00:37:53
+Bitcoin Q&A:
+And so, hardware wallets are essentially a dedicated physical device and designed to manage the keys that control your Bitcoin and so with them being a physical dedicated device you know their one purpose is to secure your Bitcoin, whereas your phone has.
+00:38:13
+Bitcoin Q&A:
+You know, it's it's essentially a computer in your pocket with all of that extra functionality that that your phone has compared to a hardware well.
+00:38:20
+Bitcoin Q&A:
+That increases the theoretical attack vectors where hackers or the NSA, whoever can.
+00:38:30
+Bitcoin Q&A:
+Sort of try and attempt to get their hands on your Bitcoin so these devices are very focused and they're focused at securing your Bitcoin from physical attack and also from digital attack, i.e., you know somebody stealing your keys over the Internet.
+00:38:48
+Bitcoin Q&A:
+If you were to connect one of these devices.
+00:38:50
+Bitcoin Q&A:
+To your.
+00:38:51
+Bitcoin Q&A:
+A very likely, highly insecure computer, and so they a lot of them.
+00:38:56
+Bitcoin Q&A:
+Most of the good ones and work.
+00:38:59
+Bitcoin Q&A:
+You know, their their primary.
+00:39:03
+Bitcoin Q&A:
+Way of of sort of keeping things secure is that they operate with what's known as an air gap, where they they can operate without being connected physically to to any other device because it's that physical.
+00:39:16
+Bitcoin Q&A:
+And connection that sometimes can introduce interesting.
+00:39:22
+Bitcoin Q&A:
+Extra threat factors and.
+00:39:24
+Matt Odell:
+So the the idea just to distill it here, like the idea of a hardware wallet, is that you have a.
+00:39:31
+Matt Odell:
+A device that's built to securely hold your Bitcoin.
+00:39:35
+Matt Odell:
+Well, technically it's holding the keys to your Bitcoin, uhm, but for all intents and purposes, it's it's.
+00:39:42
+Matt Odell:
+You can think of it as holding your Bitcoin and and it interacts with either your computer or your phone in a way that those keys.
+00:39:51
+Matt Odell:
+Well, the keys are what protect your Bitcoin gives you access to Bitcoin, and you don't want someone else to have access to those keys.
+00:39:57
+Matt Odell:
+It keeps those keys.
+00:39:59
+Matt Odell:
+Off that computer or off that phone so it stays on the device and that device is never connected to the Internet.
+00:40:05
+Matt Odell:
+So the the basic concept behind securing your stash with a hardware wallet.
+00:40:12
+Matt Odell:
+Is that for someone to compromise you, they need to physically have access to you and the device.
+00:40:19
+Matt Odell:
+Or if they can compromise the device, just the device but they like have to come into your home or come into your office and get that device rather than hacking you through the Internet.
+00:40:30
+Bitcoin Q&A:
+Right and and you know the even if a a generic attacker was to gain physical access to to most of these devices and they're still going to need a a fair bit of time and a hell of a lot of equipment to be able to, you know, crack the.
+00:40:49
+Bitcoin Q&A:
+Protections on the device to be able to access the keys and to be able to steal your Bitcoin so it's not just a case of.
+00:40:56
+Bitcoin Q&A:
+And protecting you from a malware infested computer.
+00:41:00
+Bitcoin Q&A:
+And if somebody was to break in there, there's still pin protection on the device, and so it's not just in case if you lose the device and you lose that Christy or Bitcoin again, the the premise that Matt spoke about before about writing down your seed words and is exactly the same with the hardware wallet.
+00:41:17
+Bitcoin Q&A:
+The differences here is that and the the when you sort of generate those, those 24 or 12 words and it's done in an offline.
+00:41:26
+Bitcoin Q&A:
+Environment that's never been connected to the Internet, so that again it just removes that extra threat vector where you're not connected to any sort of Internet connected devices.
+00:41:39
+Bitcoin Q&A:
+So it's just that extra layer or wrapper of security.
+00:41:44
+Matt Odell:
+Perfect.
+00:41:49
+Matt Odell:
+Should we?
+00:41:51
+Matt Odell:
+What is your favorite hardware wallet?
+00:41:54
+Bitcoin Q&A:
+I saw that one coming a mile off.
+00:41:57
+Bitcoin Q&A:
+And so Full disclosure.
+00:41:59
+Bitcoin Q&A:
+And I work for a UM.
+00:42:02
+Bitcoin Q&A:
+Hardware wallet manufacturer called Foundation devices.
+00:42:06
+Bitcoin Q&A:
+And obvious biases aside, I genuinely believe that we make the the best option for a beginner entering the space, and it's incredibly secure, but also very easy to operate, so I shouldn't name the device.
+00:42:18
+Bitcoin Q&A:
+It's called passport, and and another great device is the call card.
+00:42:24
+Bitcoin Q&A:
+Which is probably looks a little bit scarier to the newcomer, would say, but it has some extra features that might be more beneficial for more advanced users that they could sort of leverage.
+00:42:37
+Bitcoin Q&A:
+So those would be my two favorites.
+00:42:39
+Matt Odell:
+Yeah, I would say my favorite is a cold card.
+00:42:45
+Matt Odell:
+I've used multiple versions of cold cards.
+00:42:47
+Matt Odell:
+I highly recommend them and.
+00:42:50
+Matt Odell:
+And then if.
+00:42:53
+Speaker
+We're not really.
+00:42:54
+Matt Odell:
+Going to go into Shitcoins here, but if you absolutely need to gamble on.
+00:43:00
+Matt Odell:
+Other coins in the space rather than just Bitcoin, both foundation and cold.
+00:43:07
+Matt Odell:
+Carter Bitcoin only?
+00:43:08
+Matt Odell:
+Uhm, I mean, so I, I would say either use a Ledger or TREZOR hardware wallet if if you want shitcoin support.
+00:43:17
+Matt Odell:
+Uhm, but even in that situation you probably should go with a Bitcoin only hardware wallet for your Bitcoin and then use the other ones for your shitcoins.
+00:43:27
+Matt Odell:
+And just like the mobile wallets, there are lots of really bad hardware wallets out there, so don't just Google best hardware wallet 'cause a lot of influencers are paid too.
+00:43:38
+Matt Odell:
+Promote them so you'll see YouTube videos with 500,000 views saying to use a horrible hardware wallet, so consider that.
+00:43:48
+Bitcoin Q&A:
+Yeah, what I would say just to back that up again is that you know likelihood is if you're listening to this that you're at least aware of, you know Bitcoin, Twitter, and the the people that are around and popular on there.
+00:44:02
+Bitcoin Q&A:
+And most of those people have been around for a good number of years, and they've probably tried all of these devices.
+00:44:08
+Bitcoin Q&A:
+So look to what most most of their most of those people are using, or at least recommended when you're sort of doing your own research to see which device is going.
+00:44:16
+Bitcoin Q&A:
+To be best for you.
+00:44:18
+Matt Odell:
+Perfect.
+00:44:23
+Matt Odell:
+When they're using their hardware wallet, they need to use it with a.
+00:44:28
+Matt Odell:
+With software they need to use it with.
+00:44:29
+Matt Odell:
+An app, So what are your recommendations for which apps they should use with their hardware wallet?
+00:44:36
+Bitcoin Q&A:
+The best 2 for me if you want to stay on desktop, which generally gives you sort of a little bit more extra functionality would be #1.
+00:44:44
+Bitcoin Q&A:
+Be spiral well it hands down my favorite UM or if you like a little bit of a sort of easier to to operate interface with kind of less.
+00:44:56
+Bitcoin Q&A:
+Advanced features Spectre Desktop is also a great one.
+00:45:00
+Matt Odell:
+2 great recommendations.
+00:45:01
+Bitcoin Q&A:
+This might.
+00:45:02
+Matt Odell:
+Spectre used to be my favorite.
+00:45:04
+Matt Odell:
+Now sparrows my favorite.
+00:45:07
+Bitcoin Q&A:
+Yep, and which might be a good segue for what we've got coming up next.
+00:45:11
+Bitcoin Q&A:
+And well before we get there.
+00:45:14
+Matt Odell:
+You can also use.
+00:45:16
+Matt Odell:
+You can also.
+00:45:17
+Matt Odell:
+Use both the cold card and the foundation passport with Blue Wallet on mobile.
+00:45:20
+Matt Odell:
+So if you are going through the steps and you got comfortable with Blue Wallet already.
+00:45:26
+Matt Odell:
+Because you started with the mobile wallet, you can then use Blue Wallet with both of those hardware wallets, which is nice, especially.
+00:45:34
+Matt Odell:
+I mean I.
+00:45:34
+Matt Odell:
+I think some people listening to this probably don't have a computer that's.
+00:45:39
+Matt Odell:
+So a lot of people.
+00:45:40
+Matt Odell:
+Don't have computers, they just have the computer in.
+00:45:42
+Matt Odell:
+Their pocket.
+00:45:43
+Bitcoin Q&A:
+Yeah, well, you know.
+00:45:44
+Bitcoin Q&A:
+We're heading towards a mobile first world, aren't we?
+00:45:47
+Bitcoin Q&A:
+If not, if we're not already there and blue while it does offer a great interface, especially with with the with the passport with the QR interface is very basic and very easy to wrap your head around as a beginner.
+00:46:00
+Matt Odell:
+Awesome, OK, so you want to go to the.
+00:46:02
+Matt Odell:
+Next topic, you said there's good.
+00:46:04
+Bitcoin Q&A:
+Yeah, let's let's hit nodes.
+00:46:06
+Bitcoin Q&A:
+Yeah, so I.
+00:46:06
+Bitcoin Q&A:
+I talked about Spectre desktop and one of the great features about like the desktop is it actually has a built in Bitcoin node.
+00:46:15
+Bitcoin Q&A:
+So the next step along your journey hopefully will be to look to run your own Bitcoin node and a Bitcoin node is.
+00:46:23
+Bitcoin Q&A:
+You can look at it as your sort of interface into your into the Bitcoin world.
+00:46:29
+Bitcoin Q&A:
+It's going to be that next step along the sovereignty journey so that you can again.
+00:46:34
+Bitcoin Q&A:
+One of the the buzz phrases that here in this space is verify your own.
+00:46:37
+Bitcoin Q&A:
+Transactions, and so when you receive any Bitcoin transaction.
+00:46:43
+Bitcoin Q&A:
+And that will be being passed to you via a whole network of nodes and and the wallet that you choose to use will be connected to a.
+00:46:52
+Bitcoin Q&A:
+Node now that node could be a centralized node or operated by an exchange, it could be a node that you don't know who exists.
+00:47:00
+Bitcoin Q&A:
+That might actually be a chain surveillance company.
+00:47:03
+Bitcoin Q&A:
+Or hopefully it could be your.
+00:47:05
+Bitcoin Q&A:
+Own node that you can run.
+00:47:06
+Bitcoin Q&A:
+In in your house, relatively cheaply.
+00:47:09
+Bitcoin Q&A:
+Now the benefits of of running your own node like you said is.
+00:47:12
+Bitcoin Q&A:
+You can verify your own transactions so that you can be sure when somebody sending you a transaction and that the transaction abides by the this sort of rule set and that the the network that you've chosen to join.
+00:47:29
+Bitcoin Q&A:
+That we all agree on to put that a little bit simple, a little bit simpler is that you can be sure that sort of nobody trying to cheat you and send you some fake Bitcoin or a transaction that's not valid and so that you know you might be selling goods or services and they might be paying you in Bitcoin for.
+00:47:47
+Bitcoin Q&A:
+And and and if you weren't verifying your own transactions, they might be able to send you the.
+00:47:53
+Matt Odell:
+Way I like to frame it is it's using your own node to to interact with the Bitcoin network.
+00:47:58
+Matt Odell:
+You have to use a node and if you don't use your own node.
+00:48:02
+Matt Odell:
+You don't have counterfeit detection is is like kind of how I like to view it.
+00:48:06
+Matt Odell:
+Somebody can kind of trick you into it into thinking you have Bitcoin when you don't have bitcoins.
+00:48:12
+Matt Odell:
+So you want to use your own node for that purpose, and then second of all, which I think is almost more tangible to people.
+00:48:18
+Matt Odell:
+'cause to be honest.
+00:48:20
+Matt Odell:
+We haven't seen.
+00:48:21
+Matt Odell:
+That's more of a theoretical attack, and we haven't really seen it play out.
+00:48:25
+Matt Odell:
+I could still play out in the future.
+00:48:27
+Matt Odell:
+You should assume it it will, so you want to use your own node for counterfeit detection. But second of all it also if you don't use your own node, you're trusting your privacy with whoever's node you're using, so.
+00:48:40
+Matt Odell:
+You want to use your own node so that you don't have to trust a potentially potentially a stranger or a company.
+00:48:47
+Matt Odell:
+Come with that, that private transaction information and balance information.
+00:48:52
+Bitcoin Q&A:
+Yeah, it's about removing trust essentially, and I'm I'm by running your own node.
+00:48:57
+Bitcoin Q&A:
+You're you're, you're putting the trust in the hardware and or the the software that you are choosing to run, not the one that's kind of being given to you.
+00:49:05
+Bitcoin Q&A:
+If you're operating with an exchange or or a centralized node runner, and so there's a massive awash.
+00:49:12
+Bitcoin Q&A:
+Of choice and with varying degrees of technical ability and the easiest way to get running with your own node.
+00:49:22
+Bitcoin Q&A:
+It's to download a piece of software called Bitcoin Core.
+00:49:24
+Bitcoin Q&A:
+Uh, this is kind of the the sort of de facto software built by the the Bitcoin Core developers that is essentially a piece of software that you can, in a couple of clicks, download onto your laptop or desktop and and it will start to download the your own copy of the blockchain.
+00:49:43
+Bitcoin Q&A:
+So that you can transact.
+00:49:45
+Bitcoin Q&A:
+With the built in wallet.
+00:49:46
+Bitcoin Q&A:
+And to just to get started and verify your own transaction.
+00:49:50
+Bitcoin Q&A:
+That way, that's absolutely the easiest way.
+00:49:53
+Bitcoin Q&A:
+And as I touched on earlier, I suspect the desktop actually has.
+00:49:56
+Bitcoin Q&A:
+And essentially that built in as well, just packaged in a slightly different way for you, and so they're.
+00:50:04
+Bitcoin Q&A:
+They're absolutely free and within a couple of clicks you'll be on the way to downloading your own copy of the blockchain and having.
+00:50:09
+Bitcoin Q&A:
+Your own node setup.
+00:50:11
+Bitcoin Q&A:
+The problem with this setup like that is that you I can't really generally speaking.
+00:50:17
+Bitcoin Q&A:
+Connect any mobile wallets to it.
+00:50:18
+Bitcoin Q&A:
+So if you were to want to transact when you're out and about and you run Bitcoin core in your laptop and you wanted to send the.
+00:50:25
+Bitcoin Q&A:
+Transaction, the likelihood is you're not gonna have your laptop with you, so you you know you won't be able to to spend as easily as some other the node options that we're going to come and go on to in a second, I'll just pause, see if that's got anything to add there.
+00:50:42
+Matt Odell:
+Yeah, so I mean if you're using Bitcoin core or if you're using the built in Bitcoin Core inspector, yeah, correct you you can't.
+00:50:49
+Matt Odell:
+The main negative is you can't use it with the mobile wallet.
+00:50:52
+Matt Odell:
+The also the other negative is.
+00:50:55
+Matt Odell:
+Your transaction and balance info will be on your computer, so if it's a computer used for work or a computer you use, uh?
+00:51:06
+Matt Odell:
+To play games or look at **** or something like that, your social media habit it.
+00:51:12
+Matt Odell:
+It might be easily compromised and that becomes a.
+00:51:15
+Matt Odell:
+It becomes mostly it becomes a privacy issue.
+00:51:18
+Matt Odell:
+Uhm, because all your transaction history will be there and all of your balance history will be there.
+00:51:25
+Matt Odell:
+But also you can't use with mobile wallets, which is a key component as well.
+00:51:29
+Bitcoin Q&A:
+Yes, so so the next best option, and unfortunately the most expensive option is what's known as a plug and play node.
+00:51:36
+Bitcoin Q&A:
+So this is where you will buy, especially a small box from one of the various teams to name a few.
+00:51:43
+Bitcoin Q&A:
+We've got Ronin Dojo.
+00:51:45
+Bitcoin Q&A:
+We've got Ras Pi blitz.
+00:51:47
+Bitcoin Q&A:
+We've got start nine umbrella.
+00:51:50
+Bitcoin Q&A:
+There's loads of different companies or.
+00:51:52
+Bitcoin Q&A:
+Or, you know.
+00:51:52
+Matt Odell:
+My node knodle.
+00:51:53
+Bitcoin Q&A:
+I know, yeah, there's loads popping up all with different feature sets, but essentially they sell you a box that you plug in at home.
+00:52:01
+Bitcoin Q&A:
+You plug it into your router, you plug it into the power outlet.
+00:52:05
+Bitcoin Q&A:
+And then within a couple of clicks, you're off and running again to to get your own copy of the blockchain and have your note your own note up.
+00:52:13
+Bitcoin Q&A:
+And running and before.
+00:52:15
+Matt Odell:
+We move on civil dispatch.
+00:52:20
+Matt Odell:
+Still dispatch 26. I had all the major node teams on for a conversation on their node projects, so if you're interested in having one of these purpose built boxes or you a lot of those projects that were just named allow you to actually buy the hardware separately and then install their software on it.
+00:52:41
+Matt Odell:
+Consider listening to that sill dispatch.
+00:52:45
+Bitcoin Q&A:
+Right, so and the the the kind of final option is the deep DIY approach. Like Matt's just touched on where all of the projects that we just said and we'll have a a parts list.
+00:52:55
+Bitcoin Q&A:
+You can go away and buy, spend a couple $100 buying a hard drive and a single board computer and a couple of other cables and and build your own node.
+00:53:05
+Bitcoin Q&A:
+And put your own software.
+00:53:06
+Bitcoin Q&A:
+Well, put the software that these teams provide.
+00:53:08
+Bitcoin Q&A:
+Side onto that hardware, the the end result is that you get the same node with all the same features and obviously the caveat is that you've got to go through the process of buying the hardware yourself, flashing the software onto a micro SD card, which might cause you some.
+00:53:26
+Bitcoin Q&A:
+You know if you're a less technical user and you know.
+00:53:28
+Bitcoin Q&A:
+Less comfortable with taking that approach, and that's why the teams offer the the plug and play, no.
+00:53:33
+Matt Odell:
+It does sound more intimidating than it actually is, and I would.
+00:53:37
+Matt Odell:
+So like I encourage new users to get their feet wet.
+00:53:40
+Matt Odell:
+Also just on the.
+00:53:43
+Matt Odell:
+Just to go back a little bit about Bitcoin core, I mean if you're using you can use.
+00:53:47
+Matt Odell:
+You can also use Bitcoin core if you're running Bitcoin core on the same computer you're running Spectre on, or Sparrow.
+00:53:53
+Matt Odell:
+They both can connect to it.
+00:53:55
+Matt Odell:
+Uhm, if you do that process, you really should be using it on a dedicated computer.
+00:54:01
+Matt Odell:
+I know like kind of touched on that earlier when I said, you know, if you're using it for playing games or social media, it could get compromised easier because you're using it for all these other general purposes.
+00:54:13
+Matt Odell:
+You're downloading software on it.
+00:54:14
+Matt Odell:
+That may be.
+00:54:15
+Matt Odell:
+You haven't verified, you definitely haven't verified and have no idea what's really run.
+00:54:19
+Matt Odell:
+In there, so if you are going to go that approach, you should have a dedicated device.
+00:54:25
+Matt Odell:
+You should consider a dedicated computer or a dedicated phone that you are using with it and.
+00:54:32
+Matt Odell:
+Yeah, in general dedicated devices are are going to be more secure and more private you're.
+00:54:38
+Matt Odell:
+When we when we talk about security in Bitcoin land where.
+00:54:42
+Matt Odell:
+You don't don't let perfect be the enemy of good.
+00:54:45
+Matt Odell:
+Don't get overwhelmed because your setup is not perfect, but at the same time you're just trying to reduce your threats so that you're not the lowest hanging fruit.
+00:54:55
+Matt Odell:
+Most of the time when we see these hacks it's targeted at at the people that are most vulnerable.
+00:55:02
+Bitcoin Q&A:
+Yeah, and the just to go back to the DIY approach that was outlining.
+00:55:05
+Bitcoin Q&A:
+And all of these different projects that we've spoken about have got really, really good documentation and, and quite vibrant communities.
+00:55:13
+Bitcoin Q&A:
+Well on Twitter, telegram or their own dedicated forum and so don't be afraid to you know go and have a browser.
+00:55:21
+Bitcoin Q&A:
+The documentation, like Matt said, it's not actually as scary as I might have made it sound and.
+00:55:26
+Bitcoin Q&A:
+And also you know go and ask some questions in the in the Telegram chat or in the slack or whatever you know chat room that the the.
+00:55:34
+Bitcoin Q&A:
+The project has got.
+00:55:35
+Bitcoin Q&A:
+And you'll probably find or.
+00:55:37
+Bitcoin Q&A:
+You'll definitely find that.
+00:55:39
+Bitcoin Q&A:
+All of these the people that are in these communities are really welcoming.
+00:55:42
+Bitcoin Q&A:
+They've definitely been in your position before now and and you know, they they found the thought of this really scary a couple of years ago and you know, they might.
+00:55:52
+Bitcoin Q&A:
+Now they might be running several DIY notes, so they'll be don't be offput.
+00:55:55
+Bitcoin Q&A:
+By it
+00:55:56
+Matt Odell:
+100% I I will.
+00:55:58
+Matt Odell:
+Echo that sentiment.
+00:55:59
+Matt Odell:
+I would just add a slight caveat that there are scammers in these telegram groups and these chatrooms.
+00:56:06
+Matt Odell:
+They will often try and impersonate.
+00:56:10
+Matt Odell:
+People that are involved with the project or other notable figures to try and get you feel comfortable.
+00:56:16
+Matt Odell:
+Never, never give anybody your seed words.
+00:56:19
+Matt Odell:
+Those secret backer boards never give them their secret backer boards and you know, always be skeptical if someone in one of those groups tries to DM you separately and tries to go into a private chat.
+00:56:30
+Matt Odell:
+You know, sometimes it it is legit, but you need to be extra cautious in that in that type of.
+00:56:36
+Bitcoin Q&A:
+Yeah, and and and if somebody does, don't be afraid to ask in in the sort of main room you know, tag the person who you think might DMG and said is that his issue at the ME but always just act on the the on air on the side of caution and and keep that sort of adversarial mindset to think you know, why is this person reaching out to me completely out the blue?
+00:56:56
+Bitcoin Q&A:
+After I just asked my first question entering the room.
+00:56:59
+Matt Odell:
+100%.
+00:57:01
+Matt Odell:
+So all those node projects.
+00:57:04
+Matt Odell:
+Support something called electron server and electron server is a standard UM.
+00:57:12
+Matt Odell:
+It's it's a standard way to interact with your own node.
+00:57:16
+Matt Odell:
+You can use those electron server details and then you can put them into Sparrow.
+00:57:21
+Matt Odell:
+You can put them into many of the mobile wallets that we mentioned earlier.
+00:57:25
+Matt Odell:
+You can put them into Blue Wallet.
+00:57:27
+Matt Odell:
+Uhm with samurai specifically.
+00:57:31
+Matt Odell:
+They don't use electron server, they use something called Dojo and with that pairing is as simple as there's a QR code and you just scan the QR code with your samurai wallet on your phone and it will pair up with your node.
+00:57:48
+Bitcoin Q&A:
+Yeah, the good thing is with Dojo.
+00:57:49
+Bitcoin Q&A:
+As well is it's.
+00:57:51
+Bitcoin Q&A:
+Implemented in the vast majority of the the no packages, now there's.
+00:57:54
+Bitcoin Q&A:
+There's more than half Dojo that then don't, which is really great to see.
+00:58:01
+Bitcoin Q&A:
+Should we hit on their coin?
+00:58:03
+Matt Odell:
+OK so I I just want you know we're we're an hour in.
+00:58:08
+Matt Odell:
+If you're a newcomer you just listen to this hour and you're intimidated as **** don't be intimidated, you know start with step one where we talked about acquiring your Bitcoin.
+00:58:17
+Matt Odell:
+Uhm, then you know, learn how to hold your own keys and slowly move through the process.
+00:58:24
+Matt Odell:
+Don't you know freak yourself out that you know now.
+00:58:26
+Matt Odell:
+Now I gotta run a node too.
+00:58:28
+Matt Odell:
+So like I'm now, I'm really intimidated, you know, step by step, get your feet wet, get comfortable, send transactions, receive transactions, backup your wallet, restore your wallet, just get comfortable with it, get used to it, don't.
+00:58:40
+Matt Odell:
+It's not something to be scared of.
+00:58:42
+Matt Odell:
+It's something that you learn by doing.
+00:58:46
+Bitcoin Q&A:
+Yeah I yeah, I put out a tweet a couple of weeks ago actually.
+00:58:49
+Bitcoin Q&A:
+That kind of echoes that that you know if sending a transaction makes you feel a little bit uneasy, then you haven't sent enough transactions and you can see on screen now that the mempool is.
+00:59:00
+Bitcoin Q&A:
+You know it's a little bit busy than what it was, but a couple of shots per byte is going to get your transaction confirmed very quickly.
+00:59:06
+Bitcoin Q&A:
+That's going to.
+00:59:07
+Bitcoin Q&A:
+Trust you.
+00:59:07
+Bitcoin Q&A:
+You know less.
+00:59:08
+Bitcoin Q&A:
+Than a dollar to send a transaction so.
+00:59:11
+Matt Odell:
+We don't have.
+00:59:12
+Matt Odell:
+We don't have that on the list, but before we move on to coin joint on chain privacy UTXO management, we should probably how does.
+00:59:21
+Matt Odell:
+How does a newcomer choose what fee to pay they?
+00:59:25
+Matt Odell:
+Open up their.
+00:59:25
+Matt Odell:
+Wallet they go to send a transaction.
+00:59:29
+Matt Odell:
+What like how do Bitcoin transaction fees work?
+00:59:32
+Matt Odell:
+I feel like that is something we tend to gloss over.
+00:59:35
+Bitcoin Q&A:
+Yeah, we overlooked.
+00:59:36
+Bitcoin Q&A:
+That one and well, fortunately most of the the good mobile wallets, especially the ones that we've mentioned on tonight's stream, will give you a couple of options where you can.
+00:59:48
+Bitcoin Q&A:
+Yep, they'll either have, you know, three options, sort of low priority, medium, priority, and high priority.
+00:59:53
+Bitcoin Q&A:
+Like, again, like we can see on screen or there might be a slider.
+00:59:56
+Bitcoin Q&A:
+Where you can manually adjust the fee and essentially the higher that the fee you pay, the more likely that your transaction is going to be confirmed or processed quicker.
+01:00:07
+Bitcoin Q&A:
+Again, I caveat with that one, we've got a lot of caveats tonight.
+01:00:11
+Bitcoin Q&A:
+Is that the sum of the estimation, the fee estimations, and these wallets all use different sort of algorithms as to how they calculate or estimate the fee that would be required to get you confirmed in the displayed.
+01:00:27
+Bitcoin Q&A:
+Right?
+01:00:29
+Bitcoin Q&A:
+So Matt's got on screen here. Really great website called mempool dot space and which can. It shows you again the the priority fee selections or what it would advise and based on correct me from wrong map.
+01:00:43
+Bitcoin Q&A:
+But based on what's currently in the mempool and as well as sort of historical data as well, so it's kind of a.
+01:00:49
+Bitcoin Q&A:
+Uh, always a really good sort of accurate look at, you know, if you want to get your transaction processed within the next block.
+01:00:57
+Bitcoin Q&A:
+Right now it would take an estimate of $0.13 per byte, but again, there's another caveat here that there's still, UM.
+01:01:05
+Bitcoin Q&A:
+Transactions with much lower transaction fees and than $0.13 per byte that will also get get confirmed, so it's kind of.
+01:01:15
+Bitcoin Q&A:
+And it's not an exact science.
+01:01:17
+Bitcoin Q&A:
+I will say that, but multiple sources is always a good one.
+01:01:18
+Speaker
+Right?
+01:01:22
+Bitcoin Q&A:
+If you want to try and get it, sort of.
+01:01:24
+Matt Odell:
+Nailed, so I mean Bitcoin isn't run by a company.
+01:01:29
+Matt Odell:
+Bitcoin is a distributed network, and so as a result, how Bitcoin transactions work is we have this chain of transactions and the transactions are within blocks.
+01:01:44
+Matt Odell:
+We call them blocks.
+01:01:47
+Matt Odell:
+Roughly every 10 minutes there will be a new Bitcoin block and it will have finalized transactions.
+01:01:53
+Matt Odell:
+Included in that block.
+01:01:55
+Matt Odell:
+Until you get into a block, you sit in the waiting list.
+01:02:00
+Matt Odell:
+That waiting list is.
+01:02:02
+Matt Odell:
+We call that the mempool we call it a mempool.
+01:02:05
+Matt Odell:
+Technically, every node has their own member.
+01:02:07
+Matt Odell:
+Uhm, but if your Internet connection is solid in most situations, those mempool's should all look the same. So when you go to mempool dot space, you're looking at their mempool.
+01:02:18
+Matt Odell:
+That will look very similar to if you looked at the same thing on your own node, which a lot of these node projects, by the way allow you to run mempool dot space natively with your own.
+01:02:28
+Matt Odell:
+Note so the.
+01:02:31
+Matt Odell:
+Basically you have this like free market that's constantly going on where you're deciding where people are choosing which fee they're willing to spend, and miners are going to usually.
+01:02:44
+Matt Odell:
+Include you in a block based on your order in that waiting list based on how much you want to spend.
+01:02:49
+Matt Odell:
+So if it's a transaction between someone you trust and and you're willing to wait a longer period of time, you can pay a lower fee.
+01:02:57
+Matt Odell:
+If you're sending just yourself, you can pay the lowest fee we call it that's one sat per byte is the lowest fee because you're still sending it to yourself.
+01:03:05
+Matt Odell:
+Uhm, you know if if in some crazy situation where A1 saprophyte never gets confirmed ever, which we've never been through, you can always resend that transaction.
+01:03:16
+Matt Odell:
+So you're going to want to choose your transaction fee based on the urgency you want that transaction finalized on the network.
+01:03:25
+Matt Odell:
+And most good wallets will basically give you a low, medium and high you know.
+01:03:32
+Matt Odell:
+This low being I can wait medium being like I'm in the middle ground 'cause it's medium and high being.
+01:03:38
+Matt Odell:
+I don't want to wait.
+01:03:39
+Matt Odell:
+I want it finalized as soon as possible.
+01:03:43
+Bitcoin Q&A:
+Yeah, it's a.
+01:03:45
+Bitcoin Q&A:
+It's a very much a dynamic thing.
+01:03:48
+Bitcoin Q&A:
+It's like a a queue that's always evolving every single second because there's more and more transactions being sent.
+01:03:53
+Bitcoin Q&A:
+You know every 2nd and it's not within, you know, outside the realms of possibility that what the fee that you put up right this second and might not be enough.
+01:04:03
+Bitcoin Q&A:
+To get you immediately processed into the next block in sort of five minutes.
+01:04:08
+Bitcoin Q&A:
+Time and so it's it's very, very dynamic and you know that's why I said it's not sort of an exact science, so generally speaking, for most people the wallet estimators are pretty good, especially if it's an urgent transaction that you need to be processed immediately.
+01:04:22
+Matt Odell:
+100% I'm glad we covered that topic also. Just to before we move on to the next topic just to jump back with hardware wallets. You know the backup to that hardware wallet are those words you wrote down.
+01:04:38
+Matt Odell:
+Uhm, you have the option of putting them into steel.
+01:04:42
+Matt Odell:
+These steel plates are available.
+01:04:44
+Matt Odell:
+Many different vendors offer the steel plates and the idea there is.
+01:04:48
+Matt Odell:
+If you put it into steel, obviously it's going to be water resistant, fire resistant.
+01:04:52
+Matt Odell:
+It's going to be more.
+01:04:53
+Matt Odell:
+Sturdy than paper.
+01:04:55
+Matt Odell:
+You might also consider making duplicates of those seed words and having them in different places.
+01:05:01
+Matt Odell:
+So like if your office burns down or your house burns down, it's still in the other location, with the caveat that it means it could be more likely that someone else finds it because it's in more locations.
+01:05:11
+Matt Odell:
+So you need to think about that very.
+01:05:13
+Matt Odell:
+Carefully and then third of all with hardware wallets, which I forgot to mention.
+01:05:18
+Matt Odell:
+One thing I like to tell New Corners is it's a good idea to have to buy two of whatever you decide to buy, because if you have a second one you can.
+01:05:28
+Matt Odell:
+You can have the same backup words initialized on both devices.
+01:05:34
+Matt Odell:
+So then if something happens to your device, not only do you have the seed words available, those those secret backup words available to restore your device, you also have the second device that still has access to your funds, so you're not in a panic situation.
+01:05:48
+Matt Odell:
+Uhm, so I always.
+01:05:49
+Matt Odell:
+I tend to recommend to people that they should buy two of the same device whichever they choose.
+01:05:55
+Matt Odell:
+Uhm, so that they they can have two initialize and you can keep those in separate locations as well.
+01:06:01
+Matt Odell:
+If you want.
+01:06:05
+Speaker 4
+OK.
+01:06:05
+Bitcoin Q&A:
+Yeah, I think that's good advice.
+01:06:07
+Matt Odell:
+So when you're opening up a Bitcoin wallet, it shows a balance.
+01:06:11
+Matt Odell:
+A common misconception is that.
+01:06:16
+Matt Odell:
+That you know you just.
+01:06:17
+Matt Odell:
+It shows your Bitcoin balance.
+01:06:19
+Matt Odell:
+That's what's in your wallet, but in reality what's in your wallet is basically a bunch of different Bitcoin transactions that all add up to that balance.
+01:06:28
+Matt Odell:
+We call those UTX OS.
+01:06:32
+Matt Odell:
+Those those are.
+01:06:33
+Matt Odell:
+Unspent transaction outputs.
+01:06:35
+Matt Odell:
+Utx OS is what we call them.
+01:06:37
+Matt Odell:
+You can think of them like bills in your wallet like maybe your wallet.
+01:06:41
+Matt Odell:
+You know your your cash wallet has $50 in it, but in reality it has two 20s and a 10 and that's how Bitcoin wallets work, so you have all these.
+01:06:51
+Matt Odell:
+Small Utx OS in there that add up to your balance and that has privacy implications because if.
+01:07:00
+Matt Odell:
+If two of those UTX OS come together in a single transaction, they're obviously linked on this chain forever, right?
+01:07:11
+Matt Odell:
+We call it the blockchain.
+01:07:12
+Matt Odell:
+It's this Ledger of transactions.
+01:07:13
+Matt Odell:
+They'll be linked together because they were both spent in the same transaction.
+01:07:17
+Matt Odell:
+So that brings us to this idea of UTXO management and coin control.
+01:07:23
+Matt Odell:
+The idea of trying to manage those.
+01:07:30
+Matt Odell:
+Bitcoin transactions in a privacy and cost effective way.
+01:07:35
+Matt Odell:
+Should you want to go into that a little bit.
+01:07:37
+Bitcoin Q&A:
+Yeah, definitely, and and quick.
+01:07:39
+Bitcoin Q&A:
+I will start with the two wallets that we keep mentioning.
+01:07:41
+Bitcoin Q&A:
+Blue Wallet and samurai and offer all the features that I'm just about to cover.
+01:07:45
+Bitcoin Q&A:
+That sort of help when it when it comes to txo management.
+01:07:50
+Matt Odell:
+And Sparrow and.
+01:07:50
+Bitcoin Q&A:
+There's a couple different.
+01:07:52
+Bitcoin Q&A:
+Yeah, sorry, yeah actually I keep referring to mobile wallets.
+01:07:54
+Bitcoin Q&A:
+But yeah, the all of the desktop, the the the good desktop wallets that we've spoken about.
+01:07:58
+Bitcoin Q&A:
+I've all got you 2 XL management features as well, and so there's a couple of facets to it.
+01:08:03
+Bitcoin Q&A:
+The first one is the ability to label the the UTX OS or the pieces of Bitcoin that you've got in your wallet.
+01:08:12
+Bitcoin Q&A:
+So what would be an example of a label might be that if Matt was to pay me for dinner or pay me back for dinner, and when I received that transaction into my wallet, I could put a label on it to say that that's come from Martin.
+01:08:24
+Bitcoin Q&A:
+It was for dinner and I could then receive my wages from my employer, UM?
+01:08:31
+Bitcoin Q&A:
+And I could put the relevant label on that.
+01:08:33
+Bitcoin Q&A:
+Just to know.
+01:08:34
+Bitcoin Q&A:
+That where the origin of that you.
+01:08:37
+Bitcoin Q&A:
+See Echo is from.
+01:08:38
+Bitcoin Q&A:
+And so the once I've labeled them when I'm making future transactions.
+01:08:44
+Bitcoin Q&A:
+And I'm there's two ways you can make a transaction.
+01:08:47
+Bitcoin Q&A:
+You can let the wallet to construct it for you automatically, which.
+01:08:51
+Bitcoin Q&A:
+They might choose any random you to expose and merge them together again, like.
+01:08:55
+Bitcoin Q&A:
+Matt said to.
+01:08:56
+Bitcoin Q&A:
+Which will show common ownership that might not be a problem.
+01:09:00
+Bitcoin Q&A:
+However, if you want to preserve your privacy and I might not want my employer to know that I'm friends with Matt because he's a bad person, and because I've labeled those now.
+01:09:09
+Matt Odell:
+I'm not a bad person though.
+01:09:12
+Matt Odell:
+This is a theoretical.
+01:09:12
+Speaker
+Labeled the.
+01:09:14
+Matt Odell:
+Because I've labeled.
+01:09:15
+Bitcoin Q&A:
+Those you text those when I receive them at the time and in you know two weeks down the line when I'm going to make a transaction and I can then you know consider the person that I'm paying, you know, do I want them to know that?
+01:09:28
+Bitcoin Q&A:
+I know Matt?
+01:09:28
+Bitcoin Q&A:
+Or do I want them to know that I work for the company that paid me with this JTX so I can make that informed decision then?
+01:09:35
+Bitcoin Q&A:
+To say, well, actually, I'm just going to spend for one of those pieces of Bitcoin.
+01:09:39
+Bitcoin Q&A:
+Or actually it's not a bad thing.
+01:09:41
+Bitcoin Q&A:
+That's not really a bad person.
+01:09:43
+Bitcoin Q&A:
+I'm going to combine the two because the value that I want to send I need to combine the two.
+01:09:49
+Bitcoin Q&A:
+And so those are the two two sort of main facets to it and and.
+01:09:54
+Bitcoin Q&A:
+But obviously you can't come make a an informed decision when you come to spend.
+01:10:00
+Bitcoin Q&A:
+And if you don't know the origins of all of the textures that you've got, and so they kind of go hand in hand, really, you need to label so that when you come.
+01:10:09
+Bitcoin Q&A:
+To spend, you can make the informed decision as to whether you should merge or.
+01:10:12
+Matt Odell:
+Not yeah, so a key aspect of Bitcoin is.
+01:10:17
+Matt Odell:
+If someone sends you Bitcoin.
+01:10:19
+Matt Odell:
+They can see where that Bitcoin goes in the future, and if you receive Bitcoin you can see where that Bitcoin came from in the past.
+01:10:29
+Matt Odell:
+So This is why labeling is important because you want to know where that transaction came from or it goes to because.
+01:10:40
+Matt Odell:
+That's who you're exposing your privacy to in that situation.
+01:10:45
+Matt Odell:
+Is that a good still installation?
+01:10:45
+Bitcoin Q&A:
+Yeah we yeah we which you know.
+01:10:48
+Bitcoin Q&A:
+And might not be a problem for you know, the person that I'm paying might not be able to, or be clever enough to to to use blockchain analysis and but the other sort of adversary that we need to consider here is chain analysis firms that might be trying to.
+01:11:07
+Bitcoin Q&A:
+Cluster or monitor your on chain activity. Who you're spending too? Who you're getting. Change back from to to monitor your habits to try and piece together and you know the identity because the the blockchain doesn't have any identity's at that at the blockchain layer, but these companies.
+01:11:27
+Bitcoin Q&A:
+Work to kind of.
+01:11:29
+Bitcoin Q&A:
+Tie all the pieces together so that they can deanonymize people and so it's not just a case of you know, hiding how much you earn from your friend.
+01:11:39
+Bitcoin Q&A:
+It's also you know these more sophisticated actors that have got more a lot more resources to throw at this and that.
+01:11:46
+Bitcoin Q&A:
+You've also got to bear in mind as well, unfortunately.
+01:11:48
+Matt Odell:
+Yeah, you both.
+01:11:49
+Matt Odell:
+You both don't want you.
+01:11:51
+Matt Odell:
+Don't want your employer to know.
+01:11:54
+Matt Odell:
+What you're spending things on and you don't want the guy who sells you a sandwich to know how much money you make.
+01:12:01
+Matt Odell:
+But on top of that, we also have these professional surveillance mercenaries that work for governments, dictators and companies and they are just out there constantly trying to track Bitcoin transactions.
+01:12:15
+Matt Odell:
+So you also have that as a concern.
+01:12:19
+Bitcoin Q&A:
+Which leads us nicely onto coin join.
+01:12:21
+Bitcoin Q&A:
+I think isn't unless there's anything else you want to.
+01:12:22
+Bitcoin Q&A:
+Wear touch on.
+01:12:23
+Matt Odell:
+No, let's Yep we can talk about coin Join Now.
+01:12:27
+Bitcoin Q&A:
+So coin join is, uh.
+01:12:29
+Bitcoin Q&A:
+A coordinated or collaborative transaction where you and at least one other person will collaborate to construct the transaction that casts some doubt as to the origin and the output of the transaction too.
+01:12:52
+Bitcoin Q&A:
+To make sure that some.
+01:12:55
+Bitcoin Q&A:
+Am I still?
+01:12:55
+Bitcoin Q&A:
+Can you still hear?
+01:12:56
+Matt Odell:
+Me, I can still hear you, yes.
+01:12:58
+Speaker 5
+Oh sorry, I.
+01:12:58
+Bitcoin Q&A:
+Thought I'd drop down.
+01:12:59
+Bitcoin Q&A:
+Yes, it's a coin is a collaborative transaction where the the idea is that the somebody watching the blockchain again chain surveillance firm your employer, your friend, whoever they can't and.
+01:13:14
+Bitcoin Q&A:
+Deterministically or with good probability, be able to track the people on the input side of the transaction to the output side of the transaction, so it effectively attempts to put up sort of a a brick wall in your, you know, the the the UTX OS and history so that.
+01:13:34
+Bitcoin Q&A:
+Anybody looking on chain can't be sure 100% and you know is there one person involved in this transaction.
+01:13:41
+Bitcoin Q&A:
+Is there 10 people involved in this transaction?
+01:13:43
+Bitcoin Q&A:
+It just casts doubt on the the path that the Bitcoin is taken and and who sort of.
+01:13:51
+Bitcoin Q&A:
+You know, has the Bitcoin changed hands, hasn't it we?
+01:13:53
+Bitcoin Q&A:
+We're not really sure.
+01:13:54
+Matt Odell:
+Right so so tracking Bitcoin is a probability game.
+01:13:59
+Matt Odell:
+Uhm, these surveillance companies and their tools will basically or just someone who's curious and trying to spy on you will basically assign a probability to every transaction.
+01:14:11
+Matt Odell:
+If ownership has changed because one of the things about Bitcoin is, you know we I could send Bitcoin to myself.
+01:14:18
+Matt Odell:
+Or I could send it to Bitcoin.
+01:14:19
+Matt Odell:
+Q&A and.
+01:14:22
+Matt Odell:
+The chain doesn't delineate between that, so a key aspect of tracking Bitcoin transactions is.
+01:14:29
+Matt Odell:
+Determining some kind of probability that Bitcoin actually changed hands and then from there trying to see which hands it went from from who to who.
+01:14:40
+Matt Odell:
+So coin join is this idea of a collaborative transaction and you can think of it like.
+01:14:47
+Matt Odell:
+Just for an example, if you have five people that are doing a coin join together instead of having a simple path that you're following on chain and deciding if ownership has changed all of a sudden, there's five different potential paths it could go down.
+01:15:03
+Matt Odell:
+You don't know which of the five people that participated.
+01:15:07
+Matt Odell:
+Which of their five outputs are them so it it breaks that probability chain and it's a useful tool in terms of trying to.
+01:15:18
+Matt Odell:
+Rick, you have forward privacy.
+01:15:20
+Matt Odell:
+Have this idea of someone who sent you Bitcoin doesn't necessarily know which path your Bitcoin took going forward.
+01:15:27
+Bitcoin Q&A:
+Yeah, and specifically with some implementations of going to run like Whirlpool which are known as equal output coin joints.
+01:15:36
+Bitcoin Q&A:
+The this sort of notion is that everybody on the output side, all of the utech curves on the output side of the trans.
+01:15:44
+Bitcoin Q&A:
+Action look absolutely identical, and so it's kind of a I always like to use the analogy of V for Vendetta, where you've got the million mask March.
+01:15:54
+Bitcoin Q&A:
+It's essentially the same thing, but on the blockchain where all these echoes are indistinguishable from one another, and so, like Matt said, you've got some forward privacy.
+01:16:04
+Speaker
+Very quick.
+01:16:06
+Matt Odell:
+And so I the the three major coin joint projects are Samurai Whirlpool, joint market and wasabi.
+01:16:15
+Matt Odell:
+Civil Dispatch 15 was with Wasabi team, Civil Dispatch, 16, was with the join market team.
+01:16:23
+Matt Odell:
+And civil.
+01:16:29
+Matt Odell:
+I don't know where he is.
+01:16:31
+Matt Odell:
+I also did a samurai one.
+01:16:34
+Matt Odell:
+UM is citadel.
+01:16:38
+Matt Odell:
+It's there in your feed somewhere.
+01:16:40
+Matt Odell:
+You know Stephen can just rattle them off.
+01:16:43
+Matt Odell:
+He knows exactly which one was rich.
+01:16:45
+Bitcoin Q&A:
+Always amazes me that.
+01:16:51
+Matt Odell:
+I don't know which one it is.
+01:16:52
+Matt Odell:
+I'll come back to it and tell you, but it's there's.
+01:16:54
+Matt Odell:
+There's another serial dispatch with the Samurai team, so if you're interested in this, consider going back and listening to those three.
+01:17:04
+Matt Odell:
+Me and Bitcoin Q&A like Samurai will pull the best you can. Also you you don't have to use samourai wallet with it you can use Sparrow Wallet.
+01:17:12
+Matt Odell:
+With it as well.
+01:17:15
+Bitcoin Q&A:
+Yep, cosine that samurai or Sparrow hands down winners for me especially.
+01:17:20
+Bitcoin Q&A:
+From a from.
+01:17:21
+Bitcoin Q&A:
+A business perspective and definitely the easiest ones to get started with from in my opinion.
+01:17:28
+Matt Odell:
+You can continue on.
+01:17:29
+Matt Odell:
+I'm trying to figure out which ******* dispatch.
+01:17:32
+Bitcoin Q&A:
+I'll, I'll cover off one quick question that's quite on topic and somebody asked what's the difference between going during that?
+01:17:32
+Matt Odell:
+With this thing right?
+01:17:40
+Bitcoin Q&A:
+We've just spoken about on a coin Tumblr, so the unfortunately the words or the the meanings have been kind of.
+01:17:48
+Bitcoin Q&A:
+Whitewashed somewhat over the years, but generally speaking, a coin Tumblr is a centralized service where you will have to send in your Bitcoin and give up custody of it to whoever is running the Tumblr, and they will send you somebody else's Bitcoin back and.
+01:18:07
+Bitcoin Q&A:
+I absolutely wouldn't recommend anybody use these because you're putting yourself and completely in the hands of whoever is running the Tumblr, and that you know whether they're going to send your Bitcoin back or.
+01:18:17
+Speaker 5
+Yeah, I mean the other thing.
+01:18:21
+Bitcoin Q&A:
+And so go ahead.
+01:18:22
+Matt Odell:
+And you also not only you're trusting them with your Bitcoin if you use a custodial mixer, it's the same idea as as custody cuts, custodial wrists with wallets.
+01:18:32
+Matt Odell:
+You're also you're trusting with your privacy and your funds, so the key aspect of coin join is is the idea that you are reducing trust in any kind of centralized third party.
+01:18:43
+Matt Odell:
+Wasabi and Samourai have a centralized server that they do, UM.
+01:18:51
+Matt Odell:
+That they use to coordinate the coins to make them easier, better UX and more reliable.
+01:18:58
+Matt Odell:
+Those coordinators are blinded with samurai specifically.
+01:19:02
+Matt Odell:
+You can use it without your own node, and then you're trusting samurais node so that goes back to our earlier conversation about using your own node.
+01:19:09
+Matt Odell:
+You should use your own node when you use samurai.
+01:19:12
+Matt Odell:
+Otherwise you are trusting them with your transaction and balance information as as is the case with all light wallets.
+01:19:19
+Matt Odell:
+I found it so so it's still dispatch.
+01:19:22
+Matt Odell:
+15 is wasabi sealed dispatch, 16 is join market and sealed dispatch 30 is summarized.
+01:19:28
+Matt Odell:
+So consider listening to those.
+01:19:33
+Bitcoin Q&A:
+OK, I think we're are we done on kanji.
+01:19:34
+Bitcoin Q&A:
+Should we move on to the next topic?
+01:19:36
+Matt Odell:
+I have multi SIG as the next topic, but should we do lightning real quick first?
+01:19:41
+Bitcoin Q&A:
+Sure thing.
+01:19:41
+Bitcoin Q&A:
+Yeah yeah, I think it's opt and so quick high level on what the the Lightning network is.
+01:19:48
+Bitcoin Q&A:
+It is a scaling solution for Bitcoin that allows you to.
+01:19:55
+Bitcoin Q&A:
+Transact with a actual real Bitcoin and but you don't do so with what's known as an on chain footprint, and so it allows you to sort of lock up a small amount of well as much Bitcoin as you want onto this second layer solution, known as the Lightning.
+01:20:10
+Bitcoin Q&A:
+Network so that you can, and you've essentially just defer the.
+01:20:15
+Bitcoin Q&A:
+The overall settlement and of any number of transactions from going on chain to to reduce fees and also to allow you to transact and much quicker.
+01:20:26
+Bitcoin Q&A:
+So where is 1 on chain transaction? You know it might cost you a couple 100 sats depending on the fees and you you might be able to send, you know 10 or even 100 Lightning network transactions for the same for the same amount of fees. And now there is a.
+01:20:46
+Bitcoin Q&A:
+Obviously lots of caveats with the Lightning network.
+01:20:48
+Bitcoin Q&A:
+Again in terms of being able to do it properly with the the best way to do so.
+01:20:53
+Bitcoin Q&A:
+Be with one of the node packages that we've spoken about before and which will dictate that you need to.
+01:21:02
+Bitcoin Q&A:
+Manage your own sort of your own channels, which is essentially where you lock up this Bitcoin to be able to transact on this second layer, and so it's a little bit more of a hurdle to to get on board with and, but you you sort of can save yourself a fair bit on fees, especially if we ever see a fee spike again, which I think.
+01:21:22
+Bitcoin Q&A:
+Is inevitable and.
+01:21:24
+Bitcoin Q&A:
+The I don't have done a good job there.
+01:21:25
+Matt Odell:
+So you do think it's inevitable?
+01:21:27
+Matt Odell:
+So so?
+01:21:29
+Matt Odell:
+First of all, there's been a lot of dispatches on lightning.
+01:21:32
+Matt Odell:
+If you go through the feed.
+01:21:34
+Matt Odell:
+Uhm, consider listening to those. There's like a lot of different caveats and nuances when using lightning. Specifically with privacy, I did a full privacy episode with Open Knobs and Anthony that's sealed dispatch 21 that's on lightning privacy.
+01:21:51
+Matt Odell:
+So consider checking that out, but the main differentiation that you as a new user should think about with lightning is going back to our transaction fee conversation earlier, which is when you use a regular Bitcoin transaction.
+01:22:07
+Matt Odell:
+Your transaction fee is not based on the amount you send.
+01:22:10
+Matt Odell:
+It could be kind of weird for you.
+01:22:12
+Matt Odell:
+So it's it's actually based on the amount of UTX OS that you use for the transaction. It's based on the data size, not the amount of money that is sent, so you could end up sending a $5 transaction with Bitcoin on chain. A regular Bitcoin transaction and it could cost the same as sending.
+01:22:32
+Matt Odell:
+A $5 million transaction.
+01:22:34
+Matt Odell:
+Now with lightning it's different the way fees are calculated on lightning is based on the amount you're sending, so that'll be more compatible to something that you're used to.
+01:22:44
+Matt Odell:
+In traditional finance world where if you send more money, you're going to pay a higher fee.
+01:22:48
+Matt Odell:
+You send less money, you're going to pay a lower fee.
+01:22:51
+Matt Odell:
+Now Moon wallet with two use as we talked about.
+01:22:55
+Matt Odell:
+Earlier mobile wallet supports lightning and Blue Wallet supports lightning.
+01:22:59
+Matt Odell:
+Now if you use Blue Wallet in its default state with lightning, it's going to be a custodial wallet.
+01:23:05
+Matt Odell:
+Which I don't love.
+01:23:06
+Matt Odell:
+If you insist on using it, use it with a small amount because they can take your funds.
+01:23:11
+Matt Odell:
+You are trusting them with your privacy if.
+01:23:15
+Matt Odell:
+Uh, you can also use Blue Wallet with something called L and hub, which some of these node projects offer.
+01:23:22
+Matt Odell:
+I think umbrella and my node offered. I don't know who else offers it, but if you use it with L&D hub or your friends L and hub then it's not custodial.
+01:23:31
+Matt Odell:
+With Blue Wallet, it's custodial with who's ever running the L&D hub. So if you run the L&D
+01:23:35
+Matt Odell:
+Hub yourself, then it's not custodial other.
+01:23:41
+Matt Odell:
+Other Lightning specific wallets on mobile that you can use so Moon does both.
+01:23:47
+Matt Odell:
+Blue Wallet does both.
+01:23:50
+Matt Odell:
+Then there's lightning specific mobile wallets that are very good.
+01:23:53
+Matt Odell:
+There's Phoenix wallet, there's Breeze wallet.
+01:23:59
+Matt Odell:
+Brisbee are easy continuing the Bitcoin naming scheme of using words and spelling them differently.
+01:24:07
+Matt Odell:
+Uhm, is there another lightning wallet that I'm missing?
+01:24:11
+Bitcoin Q&A:
+You've got a Claire as well, haven't you?
+01:24:11
+Matt Odell:
+Stick wallet mobile.
+01:24:13
+Matt Odell:
+Well, Claire is phoenix.
+01:24:16
+Matt Odell:
+Phoenix yeah yeah right yeah, why do they have two?
+01:24:16
+Bitcoin Q&A:
+Yeah, that's you said that there's two side.
+01:24:18
+Bitcoin Q&A:
+But while it's in.
+01:24:21
+Matt Odell:
+OK but yeah, both of those are good.
+01:24:21
+Bitcoin Q&A:
+I think what?
+01:24:23
+Bitcoin Q&A:
+Yeah, one allows you to manage your own channels and.
+01:24:25
+Bitcoin Q&A:
+The other one does it for you.
+01:24:26
+Matt Odell:
+OK, Phoenix does it for you.
+01:24:29
+Matt Odell:
+Yep, OK, so forget.
+01:24:31
+Matt Odell:
+Declare your new corner.
+01:24:33
+Matt Odell:
+You have Phoenix and you have Breeze wallet.
+01:24:35
+Matt Odell:
+Or you can use moon or Blue wallet.
+01:24:37
+Matt Odell:
+And that's rather than for savings.
+01:24:40
+Matt Odell:
+You should think of that more as OK.
+01:24:42
+Matt Odell:
+This is like my spending wallet.
+01:24:44
+Matt Odell:
+My transaction fees are based on the amount I send.
+01:24:47
+Matt Odell:
+I'm going to be sending smaller amounts.
+01:24:49
+Matt Odell:
+Uhm, so I, I might use lightning, right?
+01:24:53
+Bitcoin Q&A:
+Yeah, I agree, I'm quite a big fan of Phoenix and especially from a perspective of, you know, one that money, uh wallet that manages the channels for you and I might get a lot of **** for this in the chat, but I'm I'm a firm believer that mostly users don't shouldn't strive to dive head first into lightning with their own channels.
+01:25:10
+Bitcoin Q&A:
+'cause it's it's.
+01:25:12
+Bitcoin Q&A:
+It's not easy.
+01:25:12
+Bitcoin Q&A:
+It's not approachable and.
+01:25:13
+Bitcoin Q&A:
+Everything that we've already discussed and in terms of holding your own keys.
+01:25:19
+Bitcoin Q&A:
+Using coin join and not using KYC are far more important than striving to get your own channels up and running quickly.
+01:25:27
+Bitcoin Q&A:
+I don't know what you think about that match and I'm waiting for that in the chat.
+01:25:31
+Matt Odell:
+No, I mean, I think I I I think, uh.
+01:25:38
+Matt Odell:
+Lightning on mobile with the wallets we just mentioned.
+01:25:42
+Matt Odell:
+Moon blue.
+01:25:44
+Matt Odell:
+Umbris phoenix.
+01:25:47
+Matt Odell:
+For smaller spending amounts, it is very accessible.
+01:25:52
+Matt Odell:
+Uh, actually?
+01:25:56
+Matt Odell:
+If if you if you.
+01:25:57
+Matt Odell:
+Actually want to do lightning in a proper sovereign way that I would say is a more advanced thing.
+01:26:04
+Matt Odell:
+Don't get intimidated by it.
+01:26:06
+Matt Odell:
+But I it's.
+01:26:07
+Matt Odell:
+I think it's important for all encompassing getting started guide that we do mention it it exists and what are the you know different tradeoffs basically.
+01:26:16
+Matt Odell:
+The tradeoff there is a little bit.
+01:26:18
+Matt Odell:
+You're getting less security.
+01:26:20
+Matt Odell:
+You're getting less reliability with lightning.
+01:26:23
+Matt Odell:
+Uhm, but you're getting lower fees, faster transactions, all else equal.
+01:26:32
+Matt Odell:
+And it could be very useful in the mobile spending type of situation.
+01:26:36
+Bitcoin Q&A:
+Yeah, I agree.
+01:26:38
+Bitcoin Q&A:
+Phoenix and Breeze really great ways to to get started with lightning that have sort of their own unique tradeoffs.
+01:26:45
+Bitcoin Q&A:
+That kind of gives the the best of both worlds.
+01:26:48
+Bitcoin Q&A:
+From a from a user perspective, when you compare them with custodial solutions like the default blue wallet or running your own channels, I think.
+01:26:56
+Matt Odell:
+And that's one of.
+01:26:57
+Bitcoin Q&A:
+Let's see.
+01:26:57
+Matt Odell:
+Yeah, I mean that's one of the reasons why I like moon so much like moon with two use.
+01:27:02
+Matt Odell:
+It has like different tradeoffs.
+01:27:04
+Matt Odell:
+It doesn't have a standardized backup process.
+01:27:07
+Matt Odell:
+It's you know if.
+01:27:09
+Matt Odell:
+If you're.
+01:27:12
+Matt Odell:
+A lot of big corners will say it's you know, not a lightning wallet, but at the end of the day it's not a lightning wallet because you store all your funds on chain.
+01:27:20
+Matt Odell:
+You're not storing it in a proper lightning wallet, but what's cool about moon is.
+01:27:26
+Matt Odell:
+If you scan a QR code, it could be a lightning QR code, or it could be a regular Bitcoin QR code and it just automatically figures that out for you.
+01:27:37
+Matt Odell:
+And and vice versa, yeah, so. So you can just have. You can have some spending cash in your moon wall at MUUN and whatever whatever Bitcoin QR code you scan, it will send.
+01:27:48
+Matt Odell:
+But it doesn't have power user features.
+01:27:51
+Matt Odell:
+It doesn't have that coin selection that we were talking about with UTXO management.
+01:27:55
+Matt Odell:
+It doesn't have labeling, it doesn't have a standard backup process.
+01:27:59
+Matt Odell:
+So these are all things to keep in mind.
+01:28:03
+Matt Odell:
+Right, OK, Multistick, let's let's go.
+01:28:07
+Bitcoin Q&A:
+This is where we get into.
+01:28:08
+Bitcoin Q&A:
+The weeds a little bit right so.
+01:28:09
+Matt Odell:
+I've been in the weeds for.
+01:28:11
+Matt Odell:
+A while brother.
+01:28:13
+Bitcoin Q&A:
+All of the wallets that we've spoken about.
+01:28:17
+Bitcoin Q&A:
+The desktop wallets mobile.
+01:28:19
+Bitcoin Q&A:
+Well it's all operate on what we colloquially call a single SIG setup where they have a a single secret or backup which is required when you want to spend your Bitcoin.
+01:28:33
+Bitcoin Q&A:
+A multisig wallet is where you combine two or more of these separate wallets together to create a brand new wallet.
+01:28:42
+Bitcoin Q&A:
+When you set up this multisig wallet, you can dictate the minimum amount of keys required to be able to make A to to sign or authorize a send transaction, so that could be 2 from a possible 3 keys is a popular one all the way up to something elaborate like 11.
+01:29:02
+Bitcoin Q&A:
+Of 15 you know which might be used in sort of a a business setting, perhaps?
+01:29:08
+Bitcoin Q&A:
+And but two or three where you need two signers from a possible three that were created that were used to create the wallet to sign off at any transactions from that wallet.
+01:29:19
+Bitcoin Q&A:
+So why would you want to do that well?
+01:29:21
+Bitcoin Q&A:
+With a single sync wallet and some of the three theoretical attack vectors, if someone to someone but somebody was to steal your device and.
+01:29:32
+Bitcoin Q&A:
+While you know station at your phone while it's out of your hand and you've got your wallet unlocked and they can steal your Bitcoin if that was one of the keys in a multisig wallet where you needed two to spend from, then they can't steal anything from you and another one of the attacks that multisig protect from is known as a retirement attack.
+01:29:52
+Bitcoin Q&A:
+Where there might be a malicious hardware wallet vendor that doesn't publish their source code and they have some malware baked into into the into the device and that is actually has the ability to steal your Bitcoin.
+01:30:12
+Bitcoin Q&A:
+I will say again, correct me if I'm wrong game app, but that has never happened again.
+01:30:15
+Bitcoin Q&A:
+It's a theoretical attack, but if you were to use a multisig setup where you've got different hardware wallet manufacturers, if one of those is is malicious.
+01:30:26
+Bitcoin Q&A:
+And they can't get access to your funds because they don't.
+01:30:28
+Bitcoin Q&A:
+Have you know if it's just one key out of two they're required?
+01:30:32
+Bitcoin Q&A:
+They don't have the.
+01:30:32
+Bitcoin Q&A:
+The the the minimum number of keys required to steal anything, so that's another, it's effective.
+01:30:37
+Matt Odell:
+Right, so so all all the good.
+01:30:41
+Matt Odell:
+All the good wallets, all the good hardware wallets are open source, so theoretically open source means that the code is available for you to verify.
+01:30:52
+Matt Odell:
+And you can read the code line by line.
+01:30:55
+Matt Odell:
+Now if you're a new corner, you're probably up to this point.
+01:30:58
+Matt Odell:
+You're already really intimidated.
+01:30:59
+Matt Odell:
+You're like, Matt.
+01:31:00
+Matt Odell:
+I can't read.
+01:31:01
+Matt Odell:
+Code I'm aware.
+01:31:02
+Matt Odell:
+OK, so at the end.
+01:31:05
+Matt Odell:
+Of the day.
+01:31:06
+Matt Odell:
+It is very good that you're able to technically verify the code, but most people will be updating their hardware wallets and they will not be verifying the code.
+01:31:15
+Matt Odell:
+So there is some trust that you are.
+01:31:17
+Matt Odell:
+You're trusting that hardware wallet manufacturer to not ship.
+01:31:21
+Matt Odell:
+Uh, malicious code to you, and you're also trusting them that that the actual device wasn't compromised when it was first sent to you, right?
+01:31:30
+Matt Odell:
+So with multi SIG.
+01:31:32
+Matt Odell:
+The idea is you can have multiple but specifically in hardware wallet ID a hardware wallet multisig.
+01:31:39
+Matt Odell:
+The idea is you can have multiple vendors.
+01:31:42
+Matt Odell:
+Uh, that are.
+01:31:44
+Matt Odell:
+Multiple different hardware wallets that come together to form your wallet, and you need a combination of them as Bitcoin Q&A was saying, a common one is two of three. You need two of them to spend the funds.
+01:31:59
+Matt Odell:
+This reduces trust in any specific hardware wallet manufacturer.
+01:32:03
+Matt Odell:
+You also have the added benefit that those back up words instead of those back up words being a.
+01:32:11
+Matt Odell:
+Uhm, one in done situation.
+01:32:14
+Matt Odell:
+If someone finds those secret backup words we call them seed words.
+01:32:17
+Matt Odell:
+If someone finds those words, they have access to your funds in a multisig setup you have.
+01:32:24
+Matt Odell:
+Multiple sets of backup words and they have to find the required threshold of backup words in order to spend your funds.
+01:32:32
+Matt Odell:
+So if you're using a two of three, you're going to have three sets of backup words.
+01:32:37
+Matt Odell:
+You're going to have three hardware wallets.
+01:32:39
+Matt Odell:
+Those backup words obviously can be on steel, as we said earlier.
+01:32:43
+Matt Odell:
+And you can have them in different locations, so Bitcoin gives you Bitcoin with multisig gives you this unique situation where you can have a geographically distributed security setup where you're holding your own coin, but.
+01:33:03
+Matt Odell:
+The the keys to access it can be located in different places.
+01:33:06
+Matt Odell:
+They can be duplicated.
+01:33:08
+Matt Odell:
+You can keep copies of them in different places and for someone to actually compromise you and take your funds, they're going to need to have access to a combination of those secrets and not just one secret.
+01:33:22
+Matt Odell:
+We lost Bitcoin Q&A about 2 minutes ago or a minute and a half ago and I'm just going to keep talking until he reconnects.
+01:33:30
+Matt Odell:
+So that is the main benefit of multisig.
+01:33:38
+Matt Odell:
+Do not once again do not get intimidated here.
+01:33:42
+Matt Odell:
+Plenty of people store Bitcoin in single SIG setups.
+01:33:45
+Matt Odell:
+It is the normal way of setting it up.
+01:33:49
+Matt Odell:
+This is something you might graduate to multi SIG UX multisig.
+01:33:57
+Matt Odell:
+I guess UX can be kind of.
+01:33:58
+Matt Odell:
+A complicated word like.
+01:34:00
+Matt Odell:
+The way you interface with the multisig wallet.
+01:34:03
+Matt Odell:
+Is a relatively new thing in Bitcoin, UM, so it it has a little bit more of a learning curve.
+01:34:10
+Matt Odell:
+It is a little bit more rough around the edges.
+01:34:13
+Matt Odell:
+Uh, so you want to get really comfortable with it.
+01:34:17
+Matt Odell:
+As I said earlier, you want to be backing up, restoring, spending, receiving, getting comfortable with it separately of your single SIG setup.
+01:34:26
+Matt Odell:
+Now one cool aspect of multi SIG is that you can.
+01:34:31
+Matt Odell:
+Actually have a single SIG wallet so you can be using a hardware wallet that is single SIG and then you can take that single SIG and you can actually also use it in a multi SIG environment and.
+01:34:47
+Matt Odell:
+It can be 1 signer of, for instance, the two of three in the multisig.
+01:34:51
+Matt Odell:
+But also it could also be it's separate wallet and and.
+01:34:57
+Matt Odell:
+I guess the main advantage there, uhm, I guess there's two main advantages there.
+01:35:02
+Matt Odell:
+First of all, if someone finds your single SIG, backup your your secret words.
+01:35:09
+Matt Odell:
+It might have some small amount of funds on it, and they think that's all your funds.
+01:35:13
+Matt Odell:
+They they can't tell that it's in a multisig setup, so they might just take.
+01:35:18
+Matt Odell:
+That funds and think they took all your Bitcoin.
+01:35:21
+Matt Odell:
+This the secondary benefit.
+01:35:24
+Matt Odell:
+Is that you know you can repurpose these these hardware wallets and use them for multiple wallets now one other caveat here is with multisig.
+01:35:35
+Matt Odell:
+You do want to backup additional information besides just your seed words.
+01:35:40
+Matt Odell:
+Bequin Q&A came in and then left again, so I will continue.
+01:35:46
+Matt Odell:
+The popular multisig software.
+01:35:49
+Matt Odell:
+Sparrow Spectre supports it.
+01:35:52
+Matt Odell:
+Blue Wallet supports it.
+01:35:55
+Matt Odell:
+They will tell you what you need to back up and make sure you save all that information now that information that additional information that's not your seed words.
+01:36:06
+Matt Odell:
+They will have terms like derivation path, up descriptor.
+01:36:11
+Matt Odell:
+The list of something called X pubs.
+01:36:14
+Matt Odell:
+You don't necessarily have to know what all of that means.
+01:36:16
+Matt Odell:
+You just have to save it and you just have to realize that while seed words are a security risk, if someone gets your seed words dot that information, that's separate information that you have to back up with a multisig wallet.
+01:36:31
+Matt Odell:
+Is a privacy risk.
+01:36:33
+Matt Odell:
+So if someone finds that they can see how much you're holding in the multisig, but they can't necessarily spend it, but you need that information plus your backup words in order to.
+01:36:44
+Matt Odell:
+To spend your funds.
+01:36:46
+Matt Odell:
+Bitcoin Q&A are you back?
+01:36:47
+Bitcoin Q&A:
+I am apologies for that man.
+01:36:49
+Bitcoin Q&A:
+I don't know what happened.
+01:36:49
+Bitcoin Q&A:
+I think it's my network.
+01:36:52
+Matt Odell:
+No worries at all.
+01:36:54
+Matt Odell:
+I just continued on and I just kept talking about multisig.
+01:36:59
+Bitcoin Q&A:
+A Navy holding it down.
+01:37:03
+Matt Odell:
+I I get.
+01:37:05
+Matt Odell:
+I mean, I think we are I.
+01:37:08
+Matt Odell:
+I think I sufficiently explained multi SIG tradeoffs and and benefits.
+01:37:13
+Matt Odell:
+So should we move on to mistakes, common mistakes?
+01:37:18
+Bitcoin Q&A:
+Yeah, did you cover sort of the alternatives to doing it yourself?
+01:37:22
+Bitcoin Q&A:
+The multistick approach?
+01:37:23
+Matt Odell:
+No, I didn't.
+01:37:24
+Matt Odell:
+That's a great why don't you go into that?
+01:37:27
+Bitcoin Q&A:
+Yeah, so obviously that's just outlined some of the the potential pitfalls with doing it yourself, and so one of the other options is known as kind of collaborative custody alternatives where there will be a centralized service.
+01:37:41
+Bitcoin Q&A:
+Some examples are Unchained capital and Casa, and where they will help you coordinate a multisig quorum and where they hold one of the keys.
+01:37:54
+Bitcoin Q&A:
+And so that in the event.
+01:37:55
+Bitcoin Q&A:
+That you were too.
+01:37:57
+Bitcoin Q&A:
+So I'll give you an example you'd have.
+01:37:58
+Bitcoin Q&A:
+A key on your.
+01:37:59
+Bitcoin Q&A:
+Mobile phone you'd have a key on a hardware wallet, and one of these.
+01:38:04
+Bitcoin Q&A:
+Services will hold the key as well, so they only have one key, so they can't steal from you, which is great, UM, but if you were to lose, say, your phone what their key or the key on your hardware right?
+01:38:17
+Bitcoin Q&A:
+And you didn't have it backed up.
+01:38:18
+Bitcoin Q&A:
+They will be able to step in as a third party to help you move your Bitcoin so that in a doomsday scenario and you.
+01:38:26
+Bitcoin Q&A:
+You don't lose.
+01:38:27
+Bitcoin Q&A:
+Your life savings, which is really great.
+01:38:29
+Bitcoin Q&A:
+You will pay for this service and again, I'm not sure on how much each charge the bottom tier I think is just over $100.
+01:38:39
+Bitcoin Q&A:
+Last summer I checked per year and one of the the trade offs with this is that and unless you sign up without your personal information, which I believe is quite difficult to do and the these centralized entities that hold the key and part of your multi quorum they.
+01:38:59
+Bitcoin Q&A:
+You know who you are, they know how much bit could you hold in that wallet because they hold one of the keys and they also hold this off the wallet file.
+01:39:07
+Bitcoin Q&A:
+If you like to put it simply and so that they can.
+01:39:11
+Bitcoin Q&A:
+Just as a KYC exchange can.
+01:39:14
+Bitcoin Q&A:
+Be able to say you to your Bitcoin identity.
+01:39:16
+Bitcoin Q&A:
+So it's worth weighing up the tradeoffs.
+01:39:19
+Matt Odell:
+Yeah, and you're using their node, so the assumption is if you do this, if you use one of these providers, you're trusting them with your privacy, but they will hold your hand and they will have a spare key for you as well and they will help you on board into the process.
+01:39:19
+Speaker 5
+Right?
+01:39:35
+Matt Odell:
+They will have to get hardware wallets.
+01:39:36
+Matt Odell:
+They will go through that whole process, but you are trusting them.
+01:39:39
+Matt Odell:
+With your privacy, they know your transactions, they know your balances.
+01:39:43
+Matt Odell:
+And in 99% of situations they know who you are as well, they'll know the IP address of your of your devices that you connect from.
+01:39:53
+Matt Odell:
+This is all kind of getting a little bit too much into the weeds, but the key is that you're trusting them with your privacy.
+01:39:57
+Matt Odell:
+Uhm, I was explaining earlier, just basically doing it yourself so you could use your own note and you aren't trusting someone in that situation.
+01:40:05
+Matt Odell:
+You can still have.
+01:40:07
+Matt Odell:
+Uhm, other people hold keys for you so.
+01:40:10
+Matt Odell:
+But Bequin Q&A started with a two of three set up, because that's a very common set up, but another common set up is a.
+01:40:16
+Matt Odell:
+Three of five set up, and if you do a three or five setup, you have 5 total keys and you need three to spend.
+01:40:23
+Matt Odell:
+So if you need three to spend, you can hold 3 keys yourself so that you know you have.
+01:40:30
+Matt Odell:
+And you put them in different locations and you know you have enough to spend it yourself.
+01:40:34
+Matt Odell:
+But then you can also have you know a a family member or a friend.
+01:40:39
+Matt Odell:
+A lawyer hold.
+01:40:42
+Matt Odell:
+Hold the key.
+01:40:43
+Matt Odell:
+You can have different combinations of people.
+01:40:45
+Matt Odell:
+Hold the key so it can be very useful in UM.
+01:40:50
+Matt Odell:
+Specifically, in in situations where you're trying like inheritance situations where you're if if if you pass away, you have large Bitcoin savings, you know maybe a lawyer is holding one in a trust, maybe a couple family members are holding individual ones, and they basically all need to collaborate together in order to spend your funds.
+01:41:09
+Matt Odell:
+If you have three keys.
+01:41:10
+Matt Odell:
+With other people.
+01:41:12
+Matt Odell:
+But you can also do it in a way.
+01:41:13
+Matt Odell:
+Where you don't, you don't.
+01:41:15
+Matt Odell:
+They never have the threshold.
+01:41:16
+Matt Odell:
+They need to compromise you plus combine together.
+01:41:21
+Bitcoin Q&A:
+Yeah, I think just one final thing before we move on to the next topic.
+01:41:25
+Bitcoin Q&A:
+Inheritance is a big one for me that I I sort of like to drive over people who seem to keep seem keen to kind of jump into the DIY approach is that you know you might spend some time listening to podcasts, watching some tutorials, or reading some guides and.
+01:41:40
+Bitcoin Q&A:
+You're comfortable in setup for multi sick and.
+01:41:43
+Bitcoin Q&A:
+Set up and.
+01:41:45
+Bitcoin Q&A:
+But what happens if you're not around tomorrow unexpectedly is your spouse.
+01:41:51
+Bitcoin Q&A:
+Your next week in?
+01:41:52
+Bitcoin Q&A:
+Are they going to be able to coordinate, uh, spend for two of three or three or five?
+01:41:56
+Bitcoin Q&A:
+Do they know where to find the keys?
+01:41:58
+Bitcoin Q&A:
+Do they know how to recover it?
+01:41:59
+Bitcoin Q&A:
+Or if you answer no to any of those questions, then all of your life savings.
+01:42:04
+Bitcoin Q&A:
+Disappears when you disappear, so.
+01:42:06
+Bitcoin Q&A:
+And something to bear in mind, especially if you're.
+01:42:08
+Bitcoin Q&A:
+Going to take the.
+01:42:11
+Matt Odell:
+100%. I'd also add that there's a middle ground here specifically supported by cold card called sidex or and basically in that situation instead of having one seed. It's not multisig, but instead of having one seed, you have two seeds, and you need both of them in order.
+01:42:31
+Matt Odell:
+To spend your funds.
+01:42:33
+Matt Odell:
+So it's a little bit different than multisig, can be more accessible to people because you don't have these additional complications that we were just discussing with multisig, but it gives you that benefit of not having a single seed backup.
+01:42:48
+Matt Odell:
+Words that can be compromised by someone.
+01:42:52
+Matt Odell:
+There's also something that's supported by.
+01:42:54
+Matt Odell:
+Pretty much every wallet out there called a passphrase.
+01:42:57
+Matt Odell:
+And in that situation you have. These backup boards are usually 12 word phrases or 24 word phrases. The passphrase is the 13th word or the 25th word, and you pick that yourself.
+01:43:09
+Matt Odell:
+So if you do that method then you can keep the passphrase separate from your backup words.
+01:43:15
+Matt Odell:
+If someone wants to compromise you, they need.
+01:43:17
+Matt Odell:
+Access to both UM.
+01:43:20
+Matt Odell:
+And I mean if it's a weak passphrase, they might just take your backer boards and keep trying passphrases.
+01:43:27
+Matt Odell:
+Uhm, but it?
+01:43:29
+Matt Odell:
+It adds an additional.
+01:43:31
+Matt Odell:
+Uhm, burden on them to try and compromise you without going through a multisig setup.
+01:43:37
+Matt Odell:
+Uhm, another interesting thing about passphrases is you can store money on the bare back upwards, and then you cannot.
+01:43:45
+Matt Odell:
+When you use a passphrase, it's a separate wallet, so in that situation you can actually keep funds on your.
+01:43:52
+Matt Odell:
+Your basic backer boards and then if someone finds that they'll just steal those that money and they might not know you have a passphrase with the majority of your savings in it.
+01:44:03
+Matt Odell:
+So that's just something to keep in mind.
+01:44:08
+Bitcoin Q&A:
+Awesome, do you want to cover off some some common mistakes and that was next on the list?
+01:44:13
+Matt Odell:
+Yeah, I think common mistakes is a good spot to go next.
+01:44:18
+Bitcoin Q&A:
+So I've got quite lengthy listing and the the first one, which unfortunately I fell, fell prey to a little bit and and that is a couple bites operation.
+01:44:30
+Bitcoin Q&A:
+First part of Cape like KYC.
+01:44:34
+Bitcoin Q&A:
+Multiple exchanges and without any real need to really, and so I've just.
+01:44:40
+Bitcoin Q&A:
+Sort of expose myself to, you know, put my name on those different dates.
+01:44:44
+Bitcoin Q&A:
+It's a basis, and so it's an unfortunate one that you can't really undo what we spoke about before.
+01:44:51
+Bitcoin Q&A:
+And if you were to, you know the podcast and decide that you.
+01:44:59
+Bitcoin Q&A:
+I still want to go.
+01:45:00
+Bitcoin Q&A:
+For KYC exchange, because you think yeah, you know.
+01:45:03
+Bitcoin Q&A:
+It's ask if I've gotten.
+01:45:04
+Bitcoin Q&A:
+No care I see and.
+01:45:07
+Bitcoin Q&A:
+Try and limit your.
+01:45:10
+Bitcoin Q&A:
+Your exposure to.
+01:45:11
+Bitcoin Q&A:
+This by just signing up with one reputable.
+01:45:15
+Bitcoin Q&A:
+I think that's a good one to start, and the.
+01:45:18
+Matt Odell:
+Did you I?
+01:45:19
+Matt Odell:
+I think that's very good advice.
+01:45:21
+Matt Odell:
+Like if you are going to use a KYC service where you're providing your identity information, you should choose it carefully.
+01:45:28
+Matt Odell:
+You should choose someone you trust the most.
+01:45:30
+Matt Odell:
+Just and you should not sign up for a lot of people.
+01:45:35
+Matt Odell:
+Just sign up for a ton of different services.
+01:45:36
+Matt Odell:
+You should only you should sign up for the bare minimum.
+01:45:39
+Matt Odell:
+Ideally, if you're going to do it, you sign up for one, you use it solely just to buy Bitcoin and then send it to your own wallets.
+01:45:48
+Matt Odell:
+And and you don't you.
+01:45:50
+Matt Odell:
+You don't use any other additional KYC services you want to limit that as much as possible.
+01:45:54
+Matt Odell:
+Second thing is did you change your mic setup at all?
+01:45:57
+Matt Odell:
+Because it's way worse now than it was before.
+01:46:01
+Speaker
+I'll check you.
+01:46:03
+Bitcoin Q&A:
+I changed my computer and I'll have a play around with why.
+01:46:06
+Bitcoin Q&A:
+It's OK now to know is it just quiet.
+01:46:08
+Matt Odell:
+No, we can hear you, but it's just like breaking up a little bit.
+01:46:11
+Matt Odell:
+It's like cutting in and out.
+01:46:13
+Bitcoin Q&A:
+Alright, I'll let I'll play around.
+01:46:20
+Matt Odell:
+Another common mistake, uh?
+01:46:25
+Matt Odell:
+That I see people make is.
+01:46:30
+Matt Odell:
+I, I mean, gambling on shitcoins, so a lot of people will think that Bitcoin is too expensive and I've missed the boat and I I'm too late to Bitcoin.
+01:46:42
+Matt Odell:
+Literally every single person who has entered Bitcoin at any time in Bitcoin history has thought they were too late.
+01:46:48
+Matt Odell:
+There's like a famous screenshot of someone.
+01:46:50
+Matt Odell:
+One of the Bitcoin forums lamenting that they didn't get in at $0.05. Instead they got in at a dollar and they were too late.
+01:46:58
+Matt Odell:
+And they missed the bus.
+01:46:59
+Matt Odell:
+So everyone feels that way.
+01:47:01
+Matt Odell:
+You're not alone in that.
+01:47:03
+Matt Odell:
+It's important to realize that you can transact and.
+01:47:08
+Matt Odell:
+Smaller units of account we call them Sats so you can.
+01:47:13
+Matt Odell:
+You don't have to have a full Bitcoin, you don't, you don't.
+01:47:16
+Matt Odell:
+You don't need like right now. Bitcoins at almost $70,000. You don't need to put $70,000 into use Bitcoin sats. Are the smallest unit of Bitcoin. There's 100 million of them.
+01:47:27
+Matt Odell:
+Per Bitcoin and.
+01:47:31
+Matt Odell:
+Right now, sats. You can get 1500 for a dollar, so you can send any amount of sets you want to send. You can send $2.00 worth. You can send $0.25 worth.
+01:47:43
+Matt Odell:
+It doesn't matter.
+01:47:44
+Matt Odell:
+Don't get caught up in in in thinking that Bitcoin is too expensive.
+01:47:49
+Matt Odell:
+Uh, what common thing that these other coins will do is they make it so they have so many units that it seems like it's cheaper than it is just to try and get you in the door. It's a it's a marketing tactic, so just keep that in mind. Q&A You there.
+01:48:08
+Bitcoin Q&A:
+Yeah, how's my mic now?
+01:48:09
+Matt Odell:
+Ah, so much better.
+01:48:10
+Matt Odell:
+I'm glad I.
+01:48:11
+Matt Odell:
+Brought it up OK.
+01:48:11
+Speaker 5
+That's it.
+01:48:12
+Matt Odell:
+Do you have more common mistakes?
+01:48:15
+Bitcoin Q&A:
+Yeah yeah, common one is just not practicing enough with transacting.
+01:48:22
+Bitcoin Q&A:
+Testing my backups for my hardware wallets.
+01:48:26
+Bitcoin Q&A:
+Testing different wallets, even using testnet.
+01:48:29
+Bitcoin Q&A:
+Just practice, practice, practice and getting comfortable using the the various tools that we've spoken about.
+01:48:37
+Bitcoin Q&A:
+Getting comfortable with it either using testnet, which is basically.
+01:48:41
+Bitcoin Q&A:
+A copy of a carbon copy of Bitcoin that has it holds no value.
+01:48:45
+Bitcoin Q&A:
+You can get it for free on websites called faucets where you can go on and and just mimic the normal behavior of a wallet.
+01:48:54
+Bitcoin Q&A:
+And without the fear of losing any real value, and so you can send some testnet bit going to to your hardware wallet and you can wipe it, recover it and just to get really really comfortable with with that process, so that if the worst was happened.
+01:49:12
+Bitcoin Q&A:
+He something must happen to your house.
+01:49:15
+Bitcoin Q&A:
+Where you say Bitcoin or whatever, you still get coin.
+01:49:18
+Bitcoin Q&A:
+And you're when you're in that pack.
+01:49:20
+Bitcoin Q&A:
+State it's not like there's any such your hardware wallet for five years.
+01:49:25
+Bitcoin Q&A:
+You've done that.
+01:49:26
+Bitcoin Q&A:
+You know people practice.
+01:49:29
+Bitcoin Q&A:
+You've got this lots of time.
+01:49:30
+Bitcoin Q&A:
+You send your value in there.
+01:49:33
+Bitcoin Q&A:
+Committed to you and because you know if you're in a panic and you do, you move your big quickly.
+01:49:39
+Bitcoin Q&A:
+Last would be doing is doing it so.
+01:49:42
+Bitcoin Q&A:
+And in unfamiliar situation or in a familiar.
+01:49:47
+Bitcoin Q&A:
+Education where you're not comfortable and I'm I'm familiar because that's when mistakes happen and you could mock something up.
+01:49:57
+Matt Odell:
+Yeah, so we see that happen a lot where you know people, so I actually don't.
+01:50:04
+Matt Odell:
+Especially for newcomers, I don't know if you need to use testnet, it adds just another complication to your process.
+01:50:12
+Matt Odell:
+Uhm, but but what happens a lot is like people will buy Bitcoin, they'll send it to a hardware wallet they never really get comfortable with it.
+01:50:23
+Matt Odell:
+Then Bitcoin goes up in value significantly and like four years later.
+01:50:28
+Matt Odell:
+They're trying to spend it and they're just not.
+01:50:30
+Matt Odell:
+Comfortable at all.
+01:50:32
+Matt Odell:
+So you really want to get comfortable with it.
+01:50:34
+Matt Odell:
+You want to practice sending, receiving, backing up and restoring and and just. You know I don't think testing it's necessary in that situation because you should just do with the small amounts you know, use, you know, send $5 back and forth.
+01:50:49
+Matt Odell:
+Erase the wallet, restore it from your backup. See that your $5 are still there.
+01:50:54
+Matt Odell:
+Uhm, one nice thing about my earlier approach that I mentioned.
+01:50:58
+Matt Odell:
+If having two of the same hardware wallet is without putting funds at risk at all, you can load up one hardware wallet with some Bitcoin and then you can restore it on your second hardware wallet.
+01:51:11
+Matt Odell:
+You can load up those secret words onto that hardware wallet.
+01:51:15
+Matt Odell:
+And if your funds are there and you can spend them, then you know you did the backup and restore process correctly without actually wiping the original wallet, so that's a.
+01:51:23
+Matt Odell:
+Another benefit you're basically verifying your backup and restore process.
+01:51:27
+Matt Odell:
+You don't want to be in the situation where you have a lot of money and.
+01:51:33
+Matt Odell:
+You have a lot of money on the line and you've never done a backup.
+01:51:37
+Matt Odell:
+You never have.
+01:51:37
+Matt Odell:
+You never done a restore process, and you're just freaking out.
+01:51:40
+Matt Odell:
+And maybe you wrote down the words wrong.
+01:51:43
+Matt Odell:
+I've had that happen to friends where we've had to guess the word that they they they wrote down wrong or wrote down in bad handwriting.
+01:51:50
+Matt Odell:
+So you don't.
+01:51:51
+Matt Odell:
+You don't want to be in that situation.
+01:51:52
+Matt Odell:
+You want to.
+01:51:52
+Matt Odell:
+Practice, practice, practice.
+01:51:57
+Bitcoin Q&A:
+I think just to add to that backup system.
+01:52:00
+Bitcoin Q&A:
+Well, is that most of the.
+01:52:03
+Bitcoin Q&A:
+Or the.
+01:52:04
+Bitcoin Q&A:
+Highlights that we spoke about.
+01:52:06
+Bitcoin Q&A:
+Evening have multiple types of backups as well, so I think it's worth noting that practice using both of them as well.
+01:52:12
+Bitcoin Q&A:
+So we've we've got the the seed words.
+01:52:16
+Bitcoin Q&A:
+Both cocoa card and passport also offering do backups as well, where you can store it back.
+01:52:22
+Bitcoin Q&A:
+KOK, onto a micro SD card and which is a little easier to store and so I would urge people to practice restoring from both methods as well, because at the end of the day, if again, if in a doomsday scenario you don't know which method of backup you're actually going to have access to, or which is survived.
+01:52:40
+Bitcoin Q&A:
+Whatever you know, doomsday scenario.
+01:52:42
+Bitcoin Q&A:
+It has actually happened.
+01:52:46
+Matt Odell:
+100% before we move on to more common mistakes, we have Alex McCluskey in the chat asking about 401 Kira funds.
+01:52:55
+Matt Odell:
+Uhm, if you're trying to hold Bitcoin in a uh in a in a tax beneficial way in your retirement account, I I would just keep this very simple.
+01:53:07
+Matt Odell:
+If you do have a 401K or an IRA ray where you already have funds in it and you want to move them into Bitcoin.
+01:53:15
+Matt Odell:
+Just consider using the service offered by Unchained Capital that's unchained.com disclosure. They are a sponsor of.
+01:53:23
+Matt Odell:
+Of my other show rabidoux recap, this show does not have sponsors.
+01:53:27
+Matt Odell:
+Uhm, but they're a sponsor because they're a good team.
+01:53:31
+Matt Odell:
+It's a good product I.
+01:53:34
+Matt Odell:
+I have friends there with her working there.
+01:53:36
+Matt Odell:
+My buddy Jeff Andrew runs their their retirement division and they will hold your hand.
+01:53:42
+Matt Odell:
+They will help you through it.
+01:53:43
+Matt Odell:
+Obviously as we said earlier, the caveat is you're trusting them with your privacy.
+01:53:48
+Matt Odell:
+Uhm, but pretty much in all situations with retirement funds.
+01:53:52
+Matt Odell:
+If you're using a tax beneficial retirement method, you're going to have to trust someone because it's all getting reported to the government as well.
+01:54:00
+Matt Odell:
+The nice thing about what Unchained does is you hold your own keys, so you get that tax benefit.
+01:54:05
+Matt Odell:
+Uhm, but you're holding your own keys.
+01:54:07
+Matt Odell:
+They can't spend your funds.
+01:54:09
+Matt Odell:
+A lot of the other programs that are out there.
+01:54:12
+Matt Odell:
+Ummh can can spend your funds at will and you have to trust them completely with the security of your funds and your privacy.
+01:54:19
+Matt Odell:
+So just something to.
+01:54:20
+Matt Odell:
+Keep in mind.
+01:54:22
+Bitcoin Q&A:
+Yeah, the next one and for me is kind of a little bit more outside of the box and I lurked around on on Bitcoin, Twitter and in some of the communities for a lot longer than I really should have.
+01:54:34
+Bitcoin Q&A:
+And when I started to interact with with people in the you know wallet chat rooms or the no chat.
+01:54:42
+Bitcoin Q&A:
+Teams and to use few examples, my knowledge grew exponentially from then onwards from having those interactions versus me just sitting on the sidelines and kind of, you know, like in a few tweets every now and then.
+01:54:55
+Bitcoin Q&A:
+So if I was to go back and kind of have my time again, I'd I'd absolutely start getting involved and start contributing and.
+01:55:02
+Bitcoin Q&A:
+To the conversation much much earlier because personally speaking anyway.
+01:55:09
+Bitcoin Q&A:
+It's just, you know, skyrocketed compared to where I was just a couple of years ago and so big one for me that one.
+01:55:19
+Matt Odell:
+Yeah, that's uh and I.
+01:55:22
+Matt Odell:
+I just I think like learn by doing right practice with small amounts and.
+01:55:28
+Matt Odell:
+And get your feet wet rather than feel intimidated and feel like you have to read everything and listen to everything and watch everything before you even get your feet wet.
+01:55:39
+Bitcoin Q&A:
+Yeah, another one as well is and and Matt might roll his eyes at this one is is kind of going public and there there's a lot of value in in in staying in their proverbial shadow, so to speak, and I would urge people you know not to sort of start shouting from the rooftops that.
+01:55:58
+Bitcoin Q&A:
+That they own bit going again because you know.
+01:56:01
+Bitcoin Q&A:
+We talked earlier about.
+01:56:02
+Bitcoin Q&A:
+KYC and how it kind of can paint a sort of Red Cross on your back.
+01:56:06
+Bitcoin Q&A:
+A little bit well, shout from the root.
+01:56:08
+Bitcoin Q&A:
+It stops when because when it hits an all time high to you.
+01:56:12
+Bitcoin Q&A:
+Friends and might inadvertently do the same thing one day, and you know?
+01:56:17
+Matt Odell:
+Yeah 100%.
+01:56:17
+Bitcoin Q&A:
+He's going to get a little bit.
+01:56:19
+Bitcoin Q&A:
+Never know he's going to get jealous and tell somebody else he tells somebody else who's an individual that might want to try and get their hands on it.
+01:56:26
+Bitcoin Q&A:
+So I would be be candid about who.
+01:56:29
+Bitcoin Q&A:
+You who you?
+01:56:30
+Bitcoin Q&A:
+Beats a Bitcoin about and it's.
+01:56:32
+Bitcoin Q&A:
+A bit of a.
+01:56:33
+Bitcoin Q&A:
+A double.
+01:56:34
+Bitcoin Q&A:
+I saw that one because I I think we've all got a little bit of a personal responsibility to try and help on on board others as well.
+01:56:41
+Bitcoin Q&A:
+So and also say just kind of be selective about who you speak to it and and.
+01:56:46
+Bitcoin Q&A:
+What you say?
+01:56:47
+Matt Odell:
+Yeah it is.
+01:56:48
+Matt Odell:
+It might sound a little hypocritical coming for me.
+01:56:52
+Matt Odell:
+Uh, as a.
+01:56:55
+Matt Odell:
+As as a as a public Bitcoin figure.
+01:56:58
+Matt Odell:
+Uhm, but definitely in the beginning you should not you should.
+01:57:04
+Matt Odell:
+You should not be talking.
+01:57:06
+Matt Odell:
+You should try and reduce how much you talk about Bitcoin.
+01:57:08
+Matt Odell:
+Don't make it obvious that you own Bitcoin. Don't post on social media. Consider using a name like Bitcoin Q&A does. I mean it might surprise you, but he wasn't born with that name.
+01:57:19
+Matt Odell:
+He decided on that name himself for the Internet for his Bitcoin work.
+01:57:23
+Matt Odell:
+Uhm, in the future, if you do want to become more public about it, you can do so in a more responsible way.
+01:57:34
+Matt Odell:
+Rather than doing it right in the beginning, you can never come back from it.
+01:57:38
+Matt Odell:
+Once you do it, so it's something to keep in.
+01:57:40
+Matt Odell:
+Mind you, should never talk about your own Bitcoin.
+01:57:43
+Matt Odell:
+You should never talk about your own.
+01:57:45
+Matt Odell:
+How much Bitcoin you have.
+01:57:47
+Matt Odell:
+Uhm, these are best practices you don't.
+01:57:50
+Matt Odell:
+Don't, uh, even if it's a friend or a family member, it might seem like small amount today, but in the future it could be a large amount and they will not forget it.
+01:58:00
+Matt Odell:
+They tend to remember one of the first questions most friends and family will ask you is how much Bitcoin you own.
+01:58:05
+Matt Odell:
+They love asking that question.
+01:58:07
+Matt Odell:
+Do not answer it.
+01:58:08
+Matt Odell:
+Explain why you don't want to answer it.
+01:58:10
+Matt Odell:
+For them.
+01:58:13
+Matt Odell:
+If people do know you own Bitcoin, this is where that multisig setup really shines, because you can have it geographically distributed.
+01:58:21
+Matt Odell:
+You can have your keys in different locations.
+01:58:25
+Matt Odell:
+Uhm, that are far away from each other that make you getting compromised more difficult.
+01:58:30
+Matt Odell:
+Even in a physical attack situation.
+01:58:33
+Matt Odell:
+And obviously it is more ideal to live in a place where you have.
+01:58:37
+Matt Odell:
+Uhm, proper gun rights and you can defend yourself.
+01:58:42
+Matt Odell:
+So these are things to consider.
+01:58:45
+Matt Odell:
+Yeah, if I was to do it again.
+01:58:49
+Matt Odell:
+I probably would not be, you know, as public as I am about Bitcoin, I I made a judgment call later on in my Bitcoin journey that I felt we needed more public Bitcoin figures that we're talking about real issues and specifically privacy.
+01:59:08
+Matt Odell:
+So I made that judgment.
+01:59:09
+Matt Odell:
+All but there are some warnings that I wake up and regret it, uhm?
+01:59:16
+Matt Odell:
+But there are precautions you can take and there are benefits though to being semi public about your Bitcoin usage meeting people.
+01:59:23
+Matt Odell:
+I've met some of the best people you know I I have.
+01:59:27
+Matt Odell:
+I have.
+01:59:27
+Matt Odell:
+Basically I have family now that wouldn't exist otherwise, but these are all things that you should consider as part of your Bitcoin journey.
+01:59:35
+Matt Odell:
+But in the beginning.
+01:59:37
+Matt Odell:
+Very very very strongly.
+01:59:39
+Matt Odell:
+Would say you know keep keep it as discreet as possible.
+01:59:44
+Matt Odell:
+Uhm, you never know you know you.
+01:59:48
+Matt Odell:
+You don't want to expose yourself to a malicious actor.
+01:59:51
+Matt Odell:
+Your government could turn on Bitcoin.
+01:59:54
+Matt Odell:
+A foreign government can use that information against you.
+01:59:57
+Matt Odell:
+If you're traveling across a border or something like that, so you you want to keep this in mind.
+02:00:04
+Bitcoin Q&A:
+Yeah, the final sign off 1 for me.
+02:00:08
+Bitcoin Q&A:
+Would be, uh.
+02:00:12
+Bitcoin Q&A:
+It just completely got out of my brain.
+02:00:18
+Bitcoin Q&A:
+Was another two.
+02:00:19
+Bitcoin Q&A:
+FA is another one, a good one to touch on.
+02:00:21
+Bitcoin Q&A:
+I think this would be if if you and it's just come back into me now.
+02:00:27
+Bitcoin Q&A:
+So I've got two to finish off, and if you again list this podcast, decide that Nokia is not for you and you want to sign up for an exchange.
+02:00:35
+Bitcoin Q&A:
+And a lot of these exchanges will prompt you to use SMS based two factor authentication to.
+02:00:41
+Bitcoin Q&A:
+I'm using ECHO to secure your account.
+02:00:44
+Bitcoin Q&A:
+Right, and this is where you'll get a text message to when you try and log into the to the exchange, they'll send you a text message to authorize that log in.
+02:00:54
+Bitcoin Q&A:
+There have been multiple.
+02:00:58
+Bitcoin Q&A:
+Instances where this has been exploited, people have had their information and their accounts hacked on these exchanges, and which, if you unfortunately have got funds on that account and can be withdrawn to whoever's got access to your account, they can withdraw it to their own wallet.
+02:01:17
+Bitcoin Q&A:
+And a better alternative would be to use an app based two factor authentication.
+02:01:24
+Bitcoin Q&A:
+So an example would be.
+02:01:27
+Bitcoin Q&A:
+There's one called and OTP.
+02:01:29
+Bitcoin Q&A:
+This one called AGS.
+02:01:31
+Bitcoin Q&A:
+There's another one called help me out here Matt.
+02:01:35
+Bitcoin Q&A:
+I've drawn a blank.
+02:01:39
+Matt Odell:
+Uh, did you say ages?
+02:01:40
+Bitcoin Q&A:
+Yes, at ages, Yep.
+02:01:42
+Matt Odell:
+Aegis is my favorite.
+02:01:44
+Bitcoin Q&A:
+Any app based one and far more secure, and there's been far well no no X.
+02:01:48
+Matt Odell:
+Aegis is open source, it just is open source.
+02:01:52
+Matt Odell:
+That's a E GIS and the backup process is very easy.
+02:01:57
+Matt Odell:
+You gotta remember when you when you use these authenticator apps.
+02:02:02
+Matt Odell:
+If your phone dies, you want to make sure you have a backup of them.
+02:02:06
+Matt Odell:
+So the most popular one is Google Authenticator, and it's not last.
+02:02:11
+Matt Odell:
+I mean, I haven't used it in maybe six years or something like that, but previously it wasn't easy to back up, so make sure you're using one that is easy to back.
+02:02:20
+Matt Odell:
+Up and back it up and keep multiple copies.
+02:02:25
+Bitcoin Q&A:
+Yeah, or the other alternative is you can get like a physical device that acts as your the second factor.
+02:02:31
+Bitcoin Q&A:
+Authentication looks like a bit of a USB key that provides the the additional authorization, but less services sent to.
+02:02:39
+Bitcoin Q&A:
+Do you offer compatibility with those?
+02:02:43
+Matt Odell:
+100% UM.
+02:02:47
+Matt Odell:
+I I would say I think for most people the physical device is overkill.
+02:02:52
+Matt Odell:
+Can a sophisticated attacker compromise a phone based two factor?
+02:02:58
+Matt Odell:
+Uh yes uhm have we seen any widespread cases of that?
+02:03:02
+Matt Odell:
+No, do they still need your email and your password?
+02:03:07
+Matt Odell:
+Uhm, on that note, you shouldn't be using the same emails and the same passwords in different places.
+02:03:13
+Matt Odell:
+Uh, if you go to have I been poned.com you can put your email address in and it'll tell you whenever a database gets leaked with your email or your password or your personal information.
+02:03:24
+Matt Odell:
+So that's a very important resource, but but what we see a lot of times is like they'll.
+02:03:29
+Matt Odell:
+Be like a leak.
+02:03:30
+Matt Odell:
+Like maybe Facebook will get hacked and those emails.
+02:03:33
+Matt Odell:
+And passwords will then be used at all the other services to try and get into your account.
+02:03:38
+Matt Odell:
+So that two factor code gives you an additional protection on top of that, but you really should.
+02:03:44
+Matt Odell:
+Uhm, be trying to limit reuse of email addresses and never reuse passwords.
+02:03:53
+Bitcoin Q&A:
+Uh, yeah, this one in the chart Scooby Snacks is asking is a password manager a good idea?
+02:03:57
+Bitcoin Q&A:
+Yes, definitely would recommend it to anybody.
+02:04:00
+Bitcoin Q&A:
+My personal favorite is uhm, is bitwarden again another free and open source software.
+02:04:07
+Bitcoin Q&A:
+They do offer a paid version as well, but the the freemium.
+02:04:10
+Bitcoin Q&A:
+Option is perfect, is perfectly good enough for for 99% of users I would say.
+02:04:16
+Matt Odell:
+Yeah, Bitwarden is great.
+02:04:18
+Matt Odell:
+You just gotta.
+02:04:20
+Matt Odell:
+If you're using a password manager.
+02:04:22
+Matt Odell:
+Uhm, there's some nuances there, because if you're not self hosting your password manager, you're using a well. What's the main one? LastPass people love LastPass, it's it's closed source. You're kind of putting all your eggs in one basket.
+02:04:39
+Matt Odell:
+It, uh, so there's some concern there.
+02:04:42
+Matt Odell:
+You know, if you.
+02:04:43
+Matt Odell:
+If you have all your passwords in this password manager and that password manager gets compromised, then all of your accounts are compromised.
+02:04:54
+Matt Odell:
+What I think is like a very easy accessible thing for UM.
+02:05:02
+Matt Odell:
+New users or people that are concerned is is your really important passwords.
+02:05:05
+Matt Odell:
+You can just write them in a notebook.
+02:05:08
+Matt Odell:
+You write them in a notebook.
+02:05:09
+Matt Odell:
+Someone is going to need to get access to that notebook physically in order to compromise you.
+02:05:16
+Matt Odell:
+You might not want to write it out completely clear.
+02:05:18
+Matt Odell:
+You know, maybe some things you remember versus some things around the paper.
+02:05:23
+Matt Odell:
+You can develop your own like kind of code system.
+02:05:26
+Matt Odell:
+Don't overcomplicate it.
+02:05:27
+Matt Odell:
+You'll probably forget the password.
+02:05:31
+Matt Odell:
+But uh, paper and pen paper and pen is a tried and true method.
+02:05:37
+Bitcoin Q&A:
+Yeah, absolutely. And then just.
+02:05:39
+Matt Odell:
+But don't put it on a posted note on.
+02:05:39
+Bitcoin Q&A:
+The the second one I was.
+02:05:41
+Matt Odell:
+Like your computer either.
+02:05:43
+Bitcoin Q&A:
+The the the final one that went out my head before was.
+02:05:47
+Bitcoin Q&A:
+We've spoken about, uh, you know there's a lot of information in the past couple of hours.
+02:05:51
+Bitcoin Q&A:
+And don't try and do everything in the space of a week, especially if you are literally at step one, and I would sort of pick one of these topics.
+02:06:01
+Bitcoin Q&A:
+You know.
+02:06:01
+Bitcoin Q&A:
+We spoke about them.
+02:06:02
+Bitcoin Q&A:
+In a in a, uh?
+02:06:05
+Bitcoin Q&A:
+In a specific order for a reason, and I would urge people to sort of start from step one and try and master each step before they move to the next bit before they move on.
+02:06:13
+Bitcoin Q&A:
+Or at least not try to do too many of them at the same time.
+02:06:17
+Bitcoin Q&A:
+Depending on the approach, depending on the the approach that you take for the different tools that we've we've spoken, you know to do it properly and to do it justice and to understand it and practice it like we've been like.
+02:06:28
+Bitcoin Q&A:
+We've been sort of.
+02:06:29
+Bitcoin Q&A:
+Reiterated is going to take you, you know, uh, a good bit of time.
+02:06:33
+Bitcoin Q&A:
+You have to dedicate some time to do this and to master some of these tools so trying to do too much too soon is setting yourself up to to fail.
+02:06:40
+Bitcoin Q&A:
+So take your time, be be deliberate about it and and sort of master something, then move on.
+02:06:47
+Matt Odell:
+Yeah, and I that's great advice and as Bitcoin Q&A said, our order in this episode was.
+02:06:52
+Matt Odell:
+Intentional, so don't feel like you have to go through all.
+02:06:56
+Matt Odell:
+The steps at once, but go through.
+02:06:59
+Matt Odell:
+That order was how we we, we, we chose that order specifically because we think it's.
+02:07:05
+Matt Odell:
+A very dumb.
+02:07:08
+Matt Odell:
+Efficient, effective managing trade offs and stuff.
+02:07:12
+Matt Odell:
+Balance of what order you should kind of be coming into this.
+02:07:15
+Matt Odell:
+We also have some person in the chat.
+02:07:18
+Matt Odell:
+Yeah, who uses the name some person?
+02:07:21
+Matt Odell:
+So every time I call him out in the chat, I sound like I'm just.
+02:07:23
+Matt Odell:
+Don't care about his.
+02:07:24
+Matt Odell:
+Name asking for the best?
+02:07:27
+Matt Odell:
+Uh, two factor app for iOS.
+02:07:29
+Matt Odell:
+I really like Authenticator plus.
+02:07:32
+Matt Odell:
+For iOS users, I think it's available on Android as well, but if you're on Android I really just like ages.
+02:07:39
+Matt Odell:
+Uhm so yeah there there you go for that answer.
+02:07:45
+Matt Odell:
+I I have on this list Bequin Q&A, I have common questions. Do you have common questions that you have in mind or?
+02:07:54
+Bitcoin Q&A:
+I've got nothing noted down, but kind of up off the top of my head and a common one that I get is sort of is.
+02:08:06
+Bitcoin Q&A:
+Is this setup good for me or is this wallet the one I should use?
+02:08:13
+Bitcoin Q&A:
+You know insert service or or tool here you know is this good?
+02:08:17
+Bitcoin Q&A:
+And it's the thing with Bitcoin and and using the tools properly that we've been speaking about is that.
+02:08:23
+Bitcoin Q&A:
+What matter I might recommend from our own personal experiences might not be perfectly applicable to your own personal threat.
+02:08:31
+Bitcoin Q&A:
+Metal threat models or skill set.
+02:08:34
+Bitcoin Q&A:
+And so again we we have kind of covered this ground a little bit earlier but is just try things out.
+02:08:41
+Bitcoin Q&A:
+You know by I'm not saying don't come to the people.
+02:08:44
+Bitcoin Q&A:
+About myself and ask for advice.
+02:08:45
+Bitcoin Q&A:
+You know we're always more than happy to to to help out, but the the best thing to do is.
+02:08:51
+Bitcoin Q&A:
+To sort.
+02:08:51
+Bitcoin Q&A:
+Of get your hands dirty and try these tools.
+02:08:54
+Bitcoin Q&A:
+You know you can do it for for free or for very low fees at the moment and just testing out wallets or or different devices or multisig setups if you want to go that far coin implementations.
+02:09:06
+Bitcoin Q&A:
+Best thing to do is get your hands dirty, get amongst the communities and you know what's perfect for one person might not be perfect for another so.
+02:09:15
+Bitcoin Q&A:
+It's a bit of a.
+02:09:17
+Bitcoin Q&A:
+ADYORD your own research and get comfortable with what's going to work for you, really.
+02:09:23
+Matt Odell:
+100%.
+02:09:24
+Matt Odell:
+Just to reiterate, Bitcoin Q&A has all of his guides at Bitcoiner Dot guide I I have a list of resources and tools at civildispatch.com slash.
+02:09:37
+Matt Odell:
+Help at the top or sealeddispatch.com/help I have also I have links to both Bitcoin Q&A.
+02:09:46
+Matt Odell:
+Uhm myself and our buddy catane from Australia who runs ministry of nodes offers.
+02:09:53
+Matt Odell:
+Uh, we offer private one on ones and there's links to all of that at the top of civildispatch.com/help, so if you do.
+02:10:03
+Matt Odell:
+Feel that you you have the need for a one on one, uh, specific time to jump on a call that is available to you as well.
+02:10:11
+Matt Odell:
+I highly recommend both Bitcoin Q&A and and ctan for that and that's why they are at the top of that page.
+02:10:17
+Matt Odell:
+Page up.
+02:10:21
+Matt Odell:
+I think.
+02:10:23
+Matt Odell:
+Normal tacos has an interesting point.
+02:10:25
+Matt Odell:
+I I kind of touched on it, but I felt like it was a little bit too early in the episode so.
+02:10:29
+Matt Odell:
+I didn't go heavy into it.
+02:10:32
+Matt Odell:
+He's asking, have you explained that no one actually holds their sats in a while at just the key?
+02:10:37
+Matt Odell:
+It took me a while to wrap my.
+02:10:38
+Matt Odell:
+Head around that.
+02:10:40
+Matt Odell:
+That is absolutely correct.
+02:10:42
+Matt Odell:
+You're not actually storing your Bitcoin, you're storing the key that allows you to access and spend your Bitcoin.
+02:10:48
+Matt Odell:
+So when we talk about all these wallets, when we talk about hardware wallets and mobile wallets, it's.
+02:10:53
+Matt Odell:
+It's really either piece of software or piece of hardware that is, that is storing that secret key for you and allowing you to easily access that so you can access your bit.
+02:11:03
+Matt Odell:
+I, I think that's an important point, but I I do.
+02:11:05
+Matt Odell:
+I would say that.
+02:11:07
+Matt Odell:
+That's almost more.
+02:11:08
+Matt Odell:
+Of a.
+02:11:10
+Matt Odell:
+I don't know I.
+02:11:11
+Matt Odell:
+I feel like it's more of an advanced thing.
+02:11:13
+Matt Odell:
+For all intents and purposes you can kind of operate under the assumption that you're holding your Bitcoin in the wallet, but.
+02:11:20
+Matt Odell:
+It is a good.
+02:11:21
+Matt Odell:
+It is a good point.
+02:11:22
+Matt Odell:
+Thank you Nora.
+02:11:22
+Matt Odell:
+Well tacos.
+02:11:23
+Matt Odell:
+I think with all that said, it doesn't seem like we have any any additional questions in the live chat.
+02:11:31
+Matt Odell:
+I would add that obviously this is still dispatch 43. There's been 42 other episodes filled with content.
+02:11:38
+Matt Odell:
+Uhm, well, that's a lot more advanced than this.
+02:11:41
+Matt Odell:
+So if you want to dive into that after listening to this, obviously feel free to do that.
+02:11:47
+Matt Odell:
+It's all available for free without ads or sponsors.
+02:11:51
+Matt Odell:
+Q&A You have any any additional thoughts here?
+02:11:53
+Matt Odell:
+Before we wrap up.
+02:11:55
+Bitcoin Q&A:
+I just want to reiterate, just get amongst the communities, use the tools, get your hands dirty.
+02:12:00
+Bitcoin Q&A:
+Don't be afraid to try things out and come to my cell format for for any help and advice and just one of the you know we've we've mentioned.
+02:12:09
+Bitcoin Q&A:
+Tan and one of the prominent educator in the space is BTC sessions. Got a fantastic YouTube page that's got guide video guides on using literally everything to do with Bitcoin.
+02:12:20
+Bitcoin Q&A:
+So if you're more of a visual learner, check out his YouTube channel.
+02:12:24
+Bitcoin Q&A:
+It's a fantastic resource as well.
+02:12:26
+Matt Odell:
+100% that is also linked aatseeldispatch.com/help. Or you can just search BTC sessions on YouTube.
+02:12:33
+Matt Odell:
+I made him a channel on bitcointv.com. I don't think he has uploaded anything there, but there's also a ton of great content at bitcointv.com that is curated. One of the issues and the pitfalls you should keep in mind when.
+02:12:46
+Matt Odell:
+You're on YouTube.
+02:12:48
+Matt Odell:
+Especially the high view count videos are filled with scams and bad advice, so you need to be very careful.
+02:12:57
+Matt Odell:
+You know, if you're watching a BT sessions video, it might recommend another.
+02:13:01
+Matt Odell:
+Video that looks like it's.
+02:13:02
+Matt Odell:
+Reputable and that a lot of people have watched and recommended it you need.
+02:13:06
+Matt Odell:
+To be very careful.
+02:13:09
+Matt Odell:
+At the end of the day, Bitcoin.
+02:13:10
+Matt Odell:
+'s about personal responsibility.
+02:13:14
+Matt Odell:
+So no one is going to be there if you lose your Bitcoin, there's no getting.
+02:13:17
+Matt Odell:
+It back and there's there's a lot of money to be made, giving bad advice and shilling bad product.
+02:13:25
+Matt Odell:
+So you really, really need to be skeptical all the time.
+02:13:29
+Matt Odell:
+Think for yourself.
+02:13:30
+Matt Odell:
+Make your own decisions and constantly keep learning.
+02:13:33
+Matt Odell:
+And I want to be very clear.
+02:13:35
+Matt Odell:
+Here that I'm not asking you to trust me either.
+02:13:38
+Matt Odell:
+Warby Quinn Q&A or Cotton or anything else we've mentioned in these video in this video or any of the other civil dispatch episodes, you need to constantly figure out things for yourself and make your own judgment calls.
+02:13:52
+Matt Odell:
+If anyone is asking you to trust them, be very, very careful and just be very careful in general.
+02:14:02
+Matt Odell:
+Uhm, BTC pens wants everyone all the newcomers to know that they could buy. They could buy merch from him at btcpens.com.
+02:14:10
+Matt Odell:
+So there you go. BTC pens. I love you bro Q&A. You got any final?
+02:14:14
+Matt Odell:
+Thoughts before we wrap.
+02:14:15
+Matt Odell:
+It up or are we good?
+02:14:17
+Speaker 2
+No, I think it's.
+02:14:18
+Bitcoin Q&A:
+A great episode and one I'll be bookmarking on on my homepage as well and just want to say thanks for having me back on and look forward to doing it again.
+02:14:25
+Matt Odell:
+Sometime thank you dude. I appreciate you everyone can follow Bitcoin Q&A on Twitter. It's it's Bitcoin Q under dash A.
+02:14:35
+Matt Odell:
+Uh, my hope to have you back on again.
+02:14:37
+Matt Odell:
+Thank you for coming on.
+02:14:39
+Matt Odell:
+UM, I appreciate you tremendously and thank you to all the rider dive freaks that joined us in the live chat and joined us and and continued to support the show and keep it add for you in sponsor free.
+02:14:51
+Matt Odell:
+I really do appreciate you and cheers to you all.
+02:14:55
+Matt Odell:
+Thank you Bitcoin Q&A.
+02:14:57
+Bitcoin Q&A:
+Thanks, mark.
+02:15:06
+Speaker
+The new number is.
+02:15:10
+Speaker
+The number is not in service.
+02:15:23
+Speaker 7
+Last night I let the party get the best of me picking up in the morning two holes laying next to me.
+02:15:29
+Speaker 7
+Plus I heard the officer arrested me cool bleeding cold drinks.
+02:15:33
+Speaker 7
+That's the ************* recipe Nigar.
+02:15:36
+Speaker 7
+We roll deep deep so deep it's.
+02:15:38
+Speaker 7
+Going down in.
+02:15:39
+Speaker 7
+This big concrete we gonna party all night no sleep till the owner name is Oh my gosh.
+02:15:46
+Speaker 7
+So tonight everything is on me.
+02:15:48
+Speaker 7
+The Jinx is on me, the pitch is the hotel, the weed is all free get hired me so high we don't see the whole suite the flat to one level where you gonna need your own key key GOP.
+02:16:25
+Speaker 7
+Unless you wanna stay with US, campus skin and all don't care what I'm paying for.
+02:16:30
+Speaker 7
+Used to be.
+02:16:31
+Speaker 7
+Too young now.
+02:16:32
+Speaker 7
+My hair brand apart every time I look up it's another.
+02:16:36
+Speaker 7
+Pick up watching Nickerson again, but they ain't playing with us.
+02:16:39
+Speaker 7
+They just cleaned enough.
+02:16:41
+Speaker 7
+Madam Nickerson, falling, they just let it up.
+02:16:44
+Speaker 7
+Any girls?
+02:16:45
+Speaker 7
+I'm just rolling jalapeno while on my way to the club.
+02:16:48
+Speaker 7
+I had to wait in the car, but not don't.
+02:16:50
+Speaker 7
+'cause everything is on me.
+02:16:51
+Speaker 7
+It drinks his own meet.
+02:16:53
+Speaker 7
+The pitch is the hotel.
+02:16:54
+Speaker 7
+The leaders are free.
+02:16:56
+Speaker 7
+Get out me.
+02:16:57
+Speaker 7
+So while we see the whole street, we fly me so flat we need a whole wing easy go.
+02:17:24
+Speaker 5
+Second day party on.
+02:17:29
+Speaker 7
+Tonight say you wanna party let's party all right now.
+02:17:33
+Speaker 7
+Party all day party all night say you wanna party let's party all right.
+02:17:39
+Speaker 7
+Party all day party all night you wanna party let's party.
+02:17:45
+Speaker 7
+Party all day party all night.
+02:17:48
+Speaker 7
+You wanna party let's party.
+02:18:16
+Speaker 7
+Party all night.
+02:18:18
+Speaker 7
+Say you wanna party let's party alright oh.
+02:18:24
+Matt Odell:
+Love your freaks thanks for joining for another sealed dispatch.
+02:18:28
+Matt Odell:
+I'll be with you on Thursday for rabbit hole recap and and next Tuesday for another Bitcoin Tuesday.
+02:18:35
+Matt Odell:
+We'll be doing civil dispatch with raw avocado and waxwing jumping back into technical things.
+02:18:41
+Matt Odell:
+I, I hope you appreciate this episode to all the new freaks.
+02:18:44
+Matt Odell:
+Welcome, I, I hope you enjoy all the content going forward and welcome to Bitcoin.
+02:18:50
+Matt Odell:
+To all the old freaks, uhm, I got in trouble for my Bitcoin 2021 code because I don't take a cut so it's higher than everyone else.
+02:19:00
+Matt Odell:
+So if you want to join us at a Bitcoin 2022, if you want to join us at Bitcoin 2022 April 6th to 9th in Miami, it's going to be the biggest Bitcoin only event.
+02:19:10
+Matt Odell:
+You can use code open source for 21% off, but do not share it on Twitter. Otherwise I'm gonna they're going to remove my code, so cheers to that and I'll see you on Thursday. Love you all. Stay humble stack sets.
+Your transcript is saved. You can close this pane and the document and come back to it later.
